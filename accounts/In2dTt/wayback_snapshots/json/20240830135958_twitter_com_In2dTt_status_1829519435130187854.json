@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1829519435130187854",
+    "created_at": "2024-08-30T13:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T14:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829519435130187854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "注注’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1gqxv…",
+          "end": 23,
+          "expanded_url": "https://twitter.com/i/spaces/1gqxvNWmgZnxB",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 你们好",
+          "unwound_url": "https://twitter.com/i/spaces/1gqxvNWmgZnxB/peek",
+          "url": "https://t.co/g1HMy1csmF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829519435130187854",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/g1HMy1csmF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1829519435130187854",
+        "created_at": "2024-08-30T13:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T14:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829519435130187854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "注注’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1gqxv…",
+              "end": 23,
+              "expanded_url": "https://twitter.com/i/spaces/1gqxvNWmgZnxB",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 你们好",
+              "unwound_url": "https://twitter.com/i/spaces/1gqxvNWmgZnxB/peek",
+              "url": "https://t.co/g1HMy1csmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829519435130187854",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g1HMy1csmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤退网啦 现在这个账号是注注啦",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "注注",
+        "pinned_tweet_id": "1813978235988070836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813978645813428224/kqDaH-8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27924,
+          "following_count": 231,
+          "like_count": 10475,
+          "listed_count": 28,
+          "tweet_count": 3030
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

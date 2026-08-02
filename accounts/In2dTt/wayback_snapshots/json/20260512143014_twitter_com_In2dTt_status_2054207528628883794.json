@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054176979981930496"
+      ],
+      "media_source_tweet_id": [
+        "2054177194281504829"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2054207528628883794",
+    "created_at": "2026-05-12T14:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054207528628883794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013251360901287936",
+          "start": 3,
+          "username": "knk0223ff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hr6b458CgK",
+          "end": 38,
+          "expanded_url": "https://x.com/knk0223ff/status/2054177194281504829/video/1",
+          "media_key": "13_2054176979981930496",
+          "start": 15,
+          "url": "https://t.co/Hr6b458CgK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054207528628883794",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054177194281504829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knk0223ff: https://t.co/Hr6b458CgK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20268,
+        "height": 1280,
+        "media_key": "13_2054176979981930496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054176979981930496/img/h_Hjl7HSiM5nZG72.jpg",
+        "public_metrics": {
+          "view_count": 65
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054176979981930496/vid/avc1/320x568/niKh3-USTHRKgJTN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054176979981930496/vid/avc1/480x852/RRE6yYOLqgnRYzNS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054176979981930496/vid/avc1/720x1280/pHjYrotY8HlH-o2O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054176979981930496/pl/QfyIm2uJFKsCDP48.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 20268,
+        "height": 1280,
+        "media_key": "13_2054176979981930496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054176979981930496/img/h_Hjl7HSiM5nZG72.jpg",
+        "public_metrics": {
+          "view_count": 69
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054176979981930496/vid/avc1/320x568/niKh3-USTHRKgJTN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054176979981930496/vid/avc1/480x852/RRE6yYOLqgnRYzNS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054176979981930496/vid/avc1/720x1280/pHjYrotY8HlH-o2O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054176979981930496/pl/QfyIm2uJFKsCDP48.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054176979981930496"
+          ],
+          "media_source_tweet_id": [
+            "2054177194281504829"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2054207528628883794",
+        "created_at": "2026-05-12T14:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054207528628883794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013251360901287936",
+              "start": 3,
+              "username": "knk0223ff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hr6b458CgK",
+              "end": 38,
+              "expanded_url": "https://x.com/knk0223ff/status/2054177194281504829/video/1",
+              "media_key": "13_2054176979981930496",
+              "start": 15,
+              "url": "https://t.co/Hr6b458CgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054207528628883794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054177194281504829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knk0223ff: https://t.co/Hr6b458CgK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054176979981930496"
+          ]
+        },
+        "author_id": "2013251360901287936",
+        "conversation_id": "2054177194281504829",
+        "created_at": "2026-05-12T12:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054177194281504829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hr6b458CgK",
+              "end": 23,
+              "expanded_url": "https://x.com/knk0223ff/status/2054177194281504829/video/1",
+              "media_key": "13_2054176979981930496",
+              "start": 0,
+              "url": "https://t.co/Hr6b458CgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054177194281504829",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Hr6b458CgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28983,
+          "following_count": 292,
+          "like_count": 10633,
+          "listed_count": 26,
+          "media_count": 871,
+          "tweet_count": 3216
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T14:05:09.000Z",
+        "description": "新号 大号炸了！\n我有精神病/07/intp/🚪288\n我推：@Uni_btt\n闺蜜：@Xiaozhaisama🪼@iuu_0_o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "Uni_btt"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Xiaozhaisama"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "iuu_0_o"
+              }
+            ]
+          }
+        },
+        "id": "2013251360901287936",
+        "location": "地狱",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2048995926916911222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041960841009119232/p3cn5mKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 52,
+          "like_count": 899,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 577
+        },
+        "username": "knk0223ff",
+        "verified": false
+      }
+    ]
+  }
+}

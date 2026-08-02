@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1854758076533903809",
+    "created_at": "2024-11-08T11:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T12:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854843003602415785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1355790015104647169",
+          "start": 0,
+          "username": "__nagibLVe__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854843003602415785",
+    "in_reply_to_user_id": "1355790015104647169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854770903114211433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__nagibLVe__ 玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1854758076533903809",
+        "created_at": "2024-11-08T11:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T12:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854843003602415785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1355790015104647169",
+              "start": 0,
+              "username": "__nagibLVe__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854843003602415785",
+        "in_reply_to_user_id": "1355790015104647169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854770903114211433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__nagibLVe__ 玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355790015104647169",
+        "conversation_id": "1854758076533903809",
+        "created_at": "2024-11-08T06:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T07:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854770903114211433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854770903114211433",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854758076533903809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 我画的特别丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28013,
+          "following_count": 252,
+          "like_count": 10613,
+          "listed_count": 27,
+          "tweet_count": 3139
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T08:08:33.000Z",
+        "description": "^_^（╹◡╹)⭐️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nagiblve_?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/nagiblve_?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/SFC17ExMpN"
+              }
+            ]
+          }
+        },
+        "id": "1355790015104647169",
+        "name": "森川",
+        "pinned_tweet_id": "1850391362157543809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826997227333787648/8LsUlwzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 132,
+          "like_count": 5610,
+          "listed_count": 0,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/SFC17ExMpN",
+        "username": "__nagibLVe__",
+        "verified": false
+      }
+    ]
+  }
+}

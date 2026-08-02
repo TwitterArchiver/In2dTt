@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1858757630032048283",
+    "created_at": "2024-11-20T01:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T02:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859042275910971398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814258835563155456",
+          "start": 0,
+          "username": "bixiobi876628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859042275910971398",
+    "in_reply_to_user_id": "1814258835563155456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858826765738930433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bixiobi876628 射屏私信有獎勵喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1858757630032048283",
+        "created_at": "2024-11-20T01:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T02:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859042275910971398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814258835563155456",
+              "start": 0,
+              "username": "bixiobi876628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859042275910971398",
+        "in_reply_to_user_id": "1814258835563155456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858826765738930433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bixiobi876628 射屏私信有獎勵喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814258835563155456",
+        "conversation_id": "1858757630032048283",
+        "created_at": "2024-11-19T10:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T11:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858826765738930433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858826765738930433",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858757630032048283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 姐你不怕我对着打吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29708,
+          "following_count": 257,
+          "like_count": 10756,
+          "listed_count": 29,
+          "tweet_count": 3185
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T11:20:00.000Z",
+        "description": "",
+        "id": "1814258835563155456",
+        "name": "白小白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814278547281993728/17ekj7uZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 94,
+          "like_count": 9,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "bixiobi876628",
+        "verified": false
+      }
+    ]
+  }
+}

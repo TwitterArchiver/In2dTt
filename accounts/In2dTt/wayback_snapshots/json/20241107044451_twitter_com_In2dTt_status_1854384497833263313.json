@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1853809894106845566",
+    "created_at": "2024-11-07T04:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T05:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854384497833263313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1567870152016039938",
+          "start": 0,
+          "username": "duyuye620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854384497833263313",
+    "in_reply_to_user_id": "1567870152016039938",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854282354627686596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duyuye620 幼师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1853809894106845566",
+        "created_at": "2024-11-07T04:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T05:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854384497833263313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1567870152016039938",
+              "start": 0,
+              "username": "duyuye620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854384497833263313",
+        "in_reply_to_user_id": "1567870152016039938",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854282354627686596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duyuye620 幼师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567870152016039938",
+        "conversation_id": "1853809894106845566",
+        "created_at": "2024-11-06T21:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T22:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854282354627686596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854282354627686596",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853809894106845566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 奇怪什么工作居然管发色。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27901,
+          "following_count": 248,
+          "like_count": 10574,
+          "listed_count": 27,
+          "tweet_count": 3110
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T13:39:33.000Z",
+        "description": "这是小号这是小号这是小号\n   欢迎互关，聊天小号多点\n      偶尔发点喜欢的女装图\n             喜欢绳缚和bdsm相关 看的比较多\n                   欢迎评论互聊\n              \n                  随缘 ´･ᴗ･`",
+        "id": "1567870152016039938",
+        "name": "拉拉夜夜🍥（只是因为鱼板可爱）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582237306769244160/_PB0gq7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 190,
+          "like_count": 693,
+          "listed_count": 0,
+          "tweet_count": 1090
+        },
+        "username": "duyuye620",
+        "verified": false
+      }
+    ]
+  }
+}

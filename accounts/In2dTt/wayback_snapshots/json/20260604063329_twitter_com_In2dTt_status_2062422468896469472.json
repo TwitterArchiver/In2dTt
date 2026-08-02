@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2062422468896469472",
+    "created_at": "2026-06-04T06:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062422468896469472"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062422468896469472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广州不适合生存 夏季过敏性鼻炎在室内开空调就会一直流眼泪打喷嚏 在室外站一会就会被太阳晒的头晕目眩想吐蚊子也是非常狠毒 春季到处飘花粉柳絮 一出门就狂打喷嚏缺氧头晕一到这种季节我的精神就被折磨到昏昏沉沉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2062422468896469472",
+        "created_at": "2026-06-04T06:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062422468896469472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062422468896469472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州不适合生存 夏季过敏性鼻炎在室内开空调就会一直流眼泪打喷嚏 在室外站一会就会被太阳晒的头晕目眩想吐蚊子也是非常狠毒 春季到处飘花粉柳絮 一出门就狂打喷嚏缺氧头晕一到这种季节我的精神就被折磨到昏昏沉沉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28924,
+          "following_count": 292,
+          "like_count": 10692,
+          "listed_count": 25,
+          "media_count": 873,
+          "tweet_count": 3236
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

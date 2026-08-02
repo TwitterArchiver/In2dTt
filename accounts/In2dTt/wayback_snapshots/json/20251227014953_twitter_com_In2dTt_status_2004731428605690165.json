@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2004374971913850923",
+    "created_at": "2025-12-27T01:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T02:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004731428605690165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818407589102616576",
+          "start": 0,
+          "username": "ghostoburaido"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004731428605690165",
+    "in_reply_to_user_id": "1818407589102616576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004590068447805496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghostoburaido 我可以试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2004374971913850923",
+        "created_at": "2025-12-27T01:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004731428605690165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818407589102616576",
+              "start": 0,
+              "username": "ghostoburaido"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004731428605690165",
+        "in_reply_to_user_id": "1818407589102616576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004590068447805496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghostoburaido 我可以试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818407589102616576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2004374971913850923",
+        "created_at": "2025-12-26T16:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T17:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004590068447805496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Kawaii tanuki-chan",
+              "probability": 0.7447,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 153,
+              "normalized_text": "miku",
+              "probability": 0.6828,
+              "start": 150,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004590068447805496",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004374971913850923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt Kawaii tanuki-chan, would you like to do a music collaboration with me? For example, if you write a poem or song lyrics, i can make a hatsune miku type song, then you could make the video with ur anime skills? It can be in any language !"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28940,
+          "following_count": 289,
+          "like_count": 10631,
+          "listed_count": 26,
+          "media_count": 830,
+          "tweet_count": 3122
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:05:50.000Z",
+        "description": "https://t.co/sHuayUZCsr\nhttps://t.co/E2n7I20FbA\nhttps://t.co/Fjhj8gn7j4\n ⟡ LΛIN 💿👁️‍🗨️💫 𓂃𓈒𓏸 wired dream . . .",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ghostbridez.straw.page",
+                "end": 23,
+                "expanded_url": "https://ghostbridez.straw.page/",
+                "start": 0,
+                "url": "https://t.co/sHuayUZCsr"
+              },
+              {
+                "display_url": "youtube.com/@ghostbrid%C9%…",
+                "end": 47,
+                "expanded_url": "https://www.youtube.com/@ghostbrid%C9%99",
+                "start": 24,
+                "url": "https://t.co/E2n7I20FbA"
+              },
+              {
+                "display_url": "ghost-bride-shop.fourthwall.com",
+                "end": 71,
+                "expanded_url": "https://ghost-bride-shop.fourthwall.com/",
+                "start": 48,
+                "url": "https://t.co/Fjhj8gn7j4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ghostbrid%C9%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ghostbrid%C9%99",
+                "start": 0,
+                "url": "https://t.co/E2n7I20FbA"
+              }
+            ]
+          }
+        },
+        "id": "1818407589102616576",
+        "location": "🌸 Inside You 🌸",
+        "name": "🖤✟ ghost bride music ✟🖤",
+        "pinned_tweet_id": "1822099135920558317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976314318850510848/TH3dUgjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 405,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/E2n7I20FbA",
+        "username": "ghostoburaido",
+        "verified": false
+      }
+    ]
+  }
+}

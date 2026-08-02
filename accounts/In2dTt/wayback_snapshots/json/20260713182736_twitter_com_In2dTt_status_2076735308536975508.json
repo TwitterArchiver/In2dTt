@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2076720406644531432",
+    "created_at": "2026-07-13T18:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076735308536975508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066941027932311552",
+          "start": 0,
+          "username": "QianaGlauscxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076735308536975508",
+    "in_reply_to_user_id": "2066941027932311552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076726193907290519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianaGlauscxn 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2076720406644531432",
+        "created_at": "2026-07-13T18:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076735308536975508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066941027932311552",
+              "start": 0,
+              "username": "QianaGlauscxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076735308536975508",
+        "in_reply_to_user_id": "2066941027932311552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076726193907290519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianaGlauscxn 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066941027932311552",
+        "conversation_id": "2076720406644531432",
+        "created_at": "2026-07-13T17:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076726193907290519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076726193907290519",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076720406644531432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 💐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28954,
+          "following_count": 301,
+          "like_count": 10726,
+          "listed_count": 24,
+          "media_count": 836,
+          "tweet_count": 3151
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-16T17:48:54.000Z",
+        "description": "你要是觉得无聊就来哟喝🍵\n\n桐🎈城🗼上🏮椚~下方👇👇可联系✈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linlove9",
+                "end": 23,
+                "expanded_url": "http://t.me/linlove9",
+                "start": 0,
+                "url": "https://t.co/i7LaXaRoCh"
+              }
+            ]
+          }
+        },
+        "id": "2066941027932311552",
+        "location": "距离2.5km👉✈",
+        "name": "邓晨🌸同城丄门🌸附近喝🍵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076726197489164288/ubFfpLab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/i7LaXaRoCh",
+        "username": "QianaGlauscxn",
+        "verified": false
+      }
+    ]
+  }
+}

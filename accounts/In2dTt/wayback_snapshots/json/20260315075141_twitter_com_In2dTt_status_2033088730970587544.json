@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2033088730970587544",
+    "created_at": "2026-03-15T07:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T08:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033088730970587544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/in2dkira/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/in2dkira/status/1876719739721904414",
+          "start": 4,
+          "url": "https://t.co/F3daWlQVFh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033088730970587544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876719739721904414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "着汤汤 https://t.co/F3daWlQVFh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876719694847385600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgtynoJboAA-kCY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2033088730970587544",
+        "created_at": "2026-03-15T07:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033088730970587544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/in2dkira/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/in2dkira/status/1876719739721904414",
+              "start": 4,
+              "url": "https://t.co/F3daWlQVFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033088730970587544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876719739721904414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "着汤汤 https://t.co/F3daWlQVFh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876719694847385600"
+          ]
+        },
+        "author_id": "1771230355896561664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876719739721904414",
+        "created_at": "2025-01-07T19:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T20:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876719739721904414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRlbh70dgn",
+              "end": 25,
+              "expanded_url": "https://x.com/in2dkira/status/1876719739721904414/photo/1",
+              "media_key": "3_1876719694847385600",
+              "start": 2,
+              "url": "https://t.co/wRlbh70dgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876719739721904414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": ". https://t.co/wRlbh70dgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28828,
+          "following_count": 296,
+          "like_count": 10609,
+          "listed_count": 25,
+          "media_count": 861,
+          "tweet_count": 3189
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "請記住我｜メンブレ続き｜低浮上 ｜@sakarayaner",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "sakarayaner"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH68ka"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "pinned_tweet_id": "2028658776581284293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966577490660605953/ofAloJra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 137,
+          "like_count": 6877,
+          "listed_count": 2,
+          "media_count": 544,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/6QBGLH68ka",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

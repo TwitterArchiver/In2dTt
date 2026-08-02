@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1803089149341098029",
+    "created_at": "2024-06-19T16:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T17:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803458360756543691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756007890521845760",
+          "start": 0,
+          "username": "lifelover000000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803458360756543691",
+    "in_reply_to_user_id": "1756007890521845760",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803089149341098029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lifelover000000 おやすみ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1803089149341098029",
+        "created_at": "2024-06-19T16:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T17:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803458360756543691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756007890521845760",
+              "start": 0,
+              "username": "lifelover000000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803458360756543691",
+        "in_reply_to_user_id": "1756007890521845760",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803089149341098029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lifelover000000 おやすみ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803089142722551808"
+          ]
+        },
+        "author_id": "1756007890521845760",
+        "conversation_id": "1803089149341098029",
+        "created_at": "2024-06-18T15:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T16:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803089149341098029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3gRLWTypfS",
+              "end": 23,
+              "expanded_url": "https://twitter.com/lifelover000000/status/1803089149341098029/photo/1",
+              "media_key": "3_1803089142722551808",
+              "start": 0,
+              "url": "https://t.co/3gRLWTypfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803089149341098029",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1052,
+          "impression_count": 293012,
+          "like_count": 18335,
+          "quote_count": 57,
+          "reply_count": 12,
+          "retweet_count": 2506
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3gRLWTypfS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28209,
+          "following_count": 226,
+          "like_count": 10440,
+          "listed_count": 28,
+          "tweet_count": 2943
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T17:31:53.000Z",
+        "description": "dsbm aiko",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spotify.link/IHFiwIUklKb",
+                "end": 23,
+                "expanded_url": "https://spotify.link/IHFiwIUklKb",
+                "start": 0,
+                "url": "https://t.co/VZjI43Xand"
+              }
+            ]
+          }
+        },
+        "id": "1756007890521845760",
+        "location": "2 0 any",
+        "name": "batuch",
+        "pinned_tweet_id": "1800468259743109165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800121227110912000/PFwX4Lvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 154,
+          "like_count": 1499,
+          "listed_count": 1,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/VZjI43Xand",
+        "username": "lifelover000000",
+        "verified": false
+      }
+    ]
+  }
+}

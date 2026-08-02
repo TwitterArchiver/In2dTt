@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1974703990211535151",
+    "created_at": "2025-10-05T05:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T06:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974703990211535151"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974703990211535151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "她说她焦虑的时候最喜欢的解压方式就是抚摸凹凸不平的东西我搓衣板一般的手臂刚好满足了这个要求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1974703990211535151",
+        "created_at": "2025-10-05T05:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T06:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974703990211535151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974703990211535151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她说她焦虑的时候最喜欢的解压方式就是抚摸凹凸不平的东西我搓衣板一般的手臂刚好满足了这个要求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29034,
+          "following_count": 268,
+          "like_count": 10529,
+          "listed_count": 26,
+          "media_count": 792,
+          "tweet_count": 3021
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

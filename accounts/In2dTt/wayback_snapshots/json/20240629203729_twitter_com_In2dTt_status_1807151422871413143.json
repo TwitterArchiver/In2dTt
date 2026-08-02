@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1807151422871413143",
+    "created_at": "2024-06-29T20:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T21:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807151422871413143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771230355896561664",
+          "start": 3,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807151422871413143",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807095005041098807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @in2dkira: 王碩他們 rc什麼的 當時看我和knk天天呆一塊 大家都清楚這是對不起湯湯的 他們一天還撮合我和knk 王碩還帶著小井knk 和我去孤立其他人 六紅軍一天od還抱著knk yzy季度knk然後就去親近knk 亂七八糟的一堆 我們都混在一起了 能有什麼…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1807151422871413143",
+        "created_at": "2024-06-29T20:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T21:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807151422871413143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771230355896561664",
+              "start": 3,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807151422871413143",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807095005041098807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @in2dkira: 王碩他們 rc什麼的 當時看我和knk天天呆一塊 大家都清楚這是對不起湯湯的 他們一天還撮合我和knk 王碩還帶著小井knk 和我去孤立其他人 六紅軍一天od還抱著knk yzy季度knk然後就去親近knk 亂七八糟的一堆 我們都混在一起了 能有什麼…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "1807095005041098807",
+        "created_at": "2024-06-29T16:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T17:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807095005041098807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807095005041098807",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "王碩他們 rc什麼的 當時看我和knk天天呆一塊 大家都清楚這是對不起湯湯的 他們一天還撮合我和knk 王碩還帶著小井knk 和我去孤立其他人 六紅軍一天od還抱著knk yzy季度knk然後就去親近knk 亂七八糟的一堆 我們都混在一起了 能有什麼好人好事啊 誰都心知肚明自己在做什麼 誰對得起誰根本沒得說"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28279,
+          "following_count": 229,
+          "like_count": 10461,
+          "listed_count": 28,
+          "tweet_count": 2972
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "フオニイ",
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771230853647200258/HbVmC4XK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1,
+          "like_count": 113,
+          "listed_count": 1,
+          "tweet_count": 37
+        },
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

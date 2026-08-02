@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1868887291512733836",
+    "created_at": "2024-12-17T05:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T06:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868887291512733836"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1868887291512733836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上班的时候有两个小男孩去宿舍里 我进去问他们在干啥 他们说练习合体 我也不知道说啥 只能告诉他们这样不可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1868887291512733836",
+        "created_at": "2024-12-17T05:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T06:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868887291512733836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868887291512733836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上班的时候有两个小男孩去宿舍里 我进去问他们在干啥 他们说练习合体 我也不知道说啥 只能告诉他们这样不可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "私と…",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "抽象皇帝汤汤",
+        "pinned_tweet_id": "1867914851219325130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867923776899268608/uCet3MkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29885,
+          "following_count": 265,
+          "like_count": 10958,
+          "listed_count": 29,
+          "media_count": 898,
+          "tweet_count": 3310
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

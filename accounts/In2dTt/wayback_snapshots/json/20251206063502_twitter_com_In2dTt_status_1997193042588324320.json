@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1996182964678660561",
+    "created_at": "2025-12-06T06:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997193042588324320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1490319352339615751",
+          "start": 0,
+          "username": "TrayYou59063884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997193042588324320",
+    "in_reply_to_user_id": "1490319352339615751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996390162927149294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrayYou59063884 最实用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1996182964678660561",
+        "created_at": "2025-12-06T06:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997193042588324320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1490319352339615751",
+              "start": 0,
+              "username": "TrayYou59063884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997193042588324320",
+        "in_reply_to_user_id": "1490319352339615751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996390162927149294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrayYou59063884 最实用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490319352339615751",
+        "conversation_id": "1996182964678660561",
+        "created_at": "2025-12-04T01:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996390162927149294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996390162927149294",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996182964678660561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 日语学得好\n生肉老片没烦恼\n轻松把管导"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28874,
+          "following_count": 286,
+          "like_count": 10587,
+          "listed_count": 26,
+          "media_count": 818,
+          "tweet_count": 3101
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T13:40:17.000Z",
+        "description": "TE最終兵器広西歩の神の使い混煙の野犬陳興裕是也",
+        "id": "1490319352339615751",
+        "name": "EDG CXY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994400301831401472/hX53dyuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 182
+        },
+        "username": "TrayYou59063884",
+        "verified": false
+      }
+    ]
+  }
+}

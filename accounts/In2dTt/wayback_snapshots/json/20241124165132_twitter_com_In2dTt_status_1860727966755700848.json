@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1860727966755700848",
+    "created_at": "2024-11-24T16:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T17:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860727966755700848"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1860727966755700848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "akira要是唧唧小一点我早就出轨离开他了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1860727966755700848",
+        "created_at": "2024-11-24T16:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T17:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860727966755700848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860727966755700848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "akira要是唧唧小一点我早就出轨离开他了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29799,
+          "following_count": 258,
+          "like_count": 10799,
+          "listed_count": 28,
+          "tweet_count": 3201
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

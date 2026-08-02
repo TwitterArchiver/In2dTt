@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967103022007545865"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1967103034229690505",
+    "created_at": "2025-09-14T05:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967103034229690505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1q01Y87wOv",
+          "end": 30,
+          "expanded_url": "https://x.com/In2dTt/status/1967103034229690505/photo/1",
+          "media_key": "3_1967103022007545865",
+          "start": 7,
+          "url": "https://t.co/1q01Y87wOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967103034229690505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可能是性壓抑 https://t.co/1q01Y87wOv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967103034229690505].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967103034229690505",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967103034229690505"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1967103022007545865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yNxr9bcAkceBr.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29171,
+          "following_count": 265,
+          "like_count": 10512,
+          "listed_count": 26,
+          "media_count": 781,
+          "tweet_count": 2994
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

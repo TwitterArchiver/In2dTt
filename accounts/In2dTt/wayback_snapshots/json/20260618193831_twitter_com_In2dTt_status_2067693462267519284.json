@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067680638480662529"
+      ],
+      "media_source_tweet_id": [
+        "2067680719896293390"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2067693462267519284",
+    "created_at": "2026-06-18T19:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067693462267519284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066626659768532992",
+          "start": 3,
+          "username": "Kanakoyq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wTXRLvP9O",
+          "end": 37,
+          "expanded_url": "https://x.com/Kanakoyq/status/2067680719896293390/video/1",
+          "media_key": "13_2067680638480662529",
+          "start": 14,
+          "url": "https://t.co/9wTXRLvP9O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067693462267519284",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067680719896293390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanakoyq: https://t.co/9wTXRLvP9O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10635,
+        "height": 1270,
+        "media_key": "13_2067680638480662529",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067680638480662529/img/G7UaQIVwjfD7PxSX.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067680638480662529/vid/avc1/320x564/AMqhHRQquIxITk7P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067680638480662529/vid/avc1/480x846/MK3NSd3iQZG0Kzyj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067680638480662529/vid/avc1/720x1270/TE12Vix_t3KQH6TV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067680638480662529/pl/i8fqyF3m38B3NQQw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067680638480662529"
+          ],
+          "media_source_tweet_id": [
+            "2067680719896293390"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2067693462267519284",
+        "created_at": "2026-06-18T19:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067693462267519284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066626659768532992",
+              "start": 3,
+              "username": "Kanakoyq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wTXRLvP9O",
+              "end": 37,
+              "expanded_url": "https://x.com/Kanakoyq/status/2067680719896293390/video/1",
+              "media_key": "13_2067680638480662529",
+              "start": 14,
+              "url": "https://t.co/9wTXRLvP9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067693462267519284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067680719896293390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanakoyq: https://t.co/9wTXRLvP9O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067680638480662529"
+          ]
+        },
+        "author_id": "2066626659768532992",
+        "conversation_id": "2067680719896293390",
+        "created_at": "2026-06-18T18:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067680719896293390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wTXRLvP9O",
+              "end": 23,
+              "expanded_url": "https://x.com/Kanakoyq/status/2067680719896293390/video/1",
+              "media_key": "13_2067680638480662529",
+              "start": 0,
+              "url": "https://t.co/9wTXRLvP9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067680719896293390",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9wTXRLvP9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28851,
+          "following_count": 295,
+          "like_count": 10685,
+          "listed_count": 24,
+          "media_count": 885,
+          "tweet_count": 3264
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T21:02:08.000Z",
+        "description": "07 INTP 中推惨圈红色担当 無邪之翼 🚪288\n我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "2066626659768532992",
+        "name": "草莓水烟枪🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066628433615220736/yZceHquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 16,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "Kanakoyq",
+        "verified": false
+      }
+    ]
+  }
+}

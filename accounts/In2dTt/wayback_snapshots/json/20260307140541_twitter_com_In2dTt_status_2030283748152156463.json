@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030283710357176320"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2030283748152156463",
+    "created_at": "2026-03-07T14:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030283748152156463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Cf7FVY3hm",
+          "end": 40,
+          "expanded_url": "https://x.com/In2dTt/status/2030283748152156463/photo/1",
+          "media_key": "3_2030283710357176320",
+          "start": 17,
+          "url": "https://t.co/7Cf7FVY3hm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030283748152156463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开学打扮成这样让同学以为我是现充 https://t.co/7Cf7FVY3hm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030283710357176320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0ERxUaAAAyxrY.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030283710357176320"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2030283748152156463",
+        "created_at": "2026-03-07T14:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030283748152156463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Cf7FVY3hm",
+              "end": 40,
+              "expanded_url": "https://x.com/In2dTt/status/2030283748152156463/photo/1",
+              "media_key": "3_2030283710357176320",
+              "start": 17,
+              "url": "https://t.co/7Cf7FVY3hm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030283748152156463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开学打扮成这样让同学以为我是现充 https://t.co/7Cf7FVY3hm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28811,
+          "following_count": 296,
+          "like_count": 10594,
+          "listed_count": 25,
+          "media_count": 854,
+          "tweet_count": 3179
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

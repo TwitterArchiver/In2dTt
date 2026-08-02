@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987089081126559746",
+        "3_1987089081059450881"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987089112915157477",
+    "created_at": "2025-11-08T09:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T10:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987089112915157477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TFQzJKfxfC",
+          "end": 27,
+          "expanded_url": "https://x.com/In2dTt/status/1987089112915157477/photo/1",
+          "media_key": "3_1987089081126559746",
+          "start": 4,
+          "url": "https://t.co/TFQzJKfxfC"
+        },
+        {
+          "display_url": "pic.x.com/TFQzJKfxfC",
+          "end": 27,
+          "expanded_url": "https://x.com/In2dTt/status/1987089112915157477/photo/1",
+          "media_key": "3_1987089081059450881",
+          "start": 4,
+          "url": "https://t.co/TFQzJKfxfC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987089112915157477",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ᵒᴥᵒ https://t.co/TFQzJKfxfC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987089081126559746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OO_cGbIAIXeqe.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987089081059450881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OO_b2bIAE1qnK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987089081126559746",
+            "3_1987089081059450881"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987089112915157477",
+        "created_at": "2025-11-08T09:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T10:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987089112915157477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFQzJKfxfC",
+              "end": 27,
+              "expanded_url": "https://x.com/In2dTt/status/1987089112915157477/photo/1",
+              "media_key": "3_1987089081126559746",
+              "start": 4,
+              "url": "https://t.co/TFQzJKfxfC"
+            },
+            {
+              "display_url": "pic.x.com/TFQzJKfxfC",
+              "end": 27,
+              "expanded_url": "https://x.com/In2dTt/status/1987089112915157477/photo/1",
+              "media_key": "3_1987089081059450881",
+              "start": 4,
+              "url": "https://t.co/TFQzJKfxfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987089112915157477",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ᵒᴥᵒ https://t.co/TFQzJKfxfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28913,
+          "following_count": 276,
+          "like_count": 10537,
+          "listed_count": 26,
+          "media_count": 816,
+          "tweet_count": 3073
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

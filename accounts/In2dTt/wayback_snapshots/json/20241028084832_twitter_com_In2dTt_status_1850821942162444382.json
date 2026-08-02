@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1850795956108992886",
+    "created_at": "2024-10-28T08:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T09:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850821942162444382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "kamiyamanemuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850821942162444382",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850795956108992886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamiyamanemuri 像个小猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1850795956108992886",
+        "created_at": "2024-10-28T08:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T09:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850821942162444382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "kamiyamanemuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850821942162444382",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850795956108992886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamiyamanemuri 像个小猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850795945237319680"
+          ]
+        },
+        "author_id": "1761106331896033283",
+        "conversation_id": "1850795956108992886",
+        "created_at": "2024-10-28T07:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T08:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850795956108992886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lej7zd2o1D",
+              "end": 37,
+              "expanded_url": "https://x.com/kamiyamanemuri/status/1850795956108992886/photo/1",
+              "media_key": "3_1850795945237319680",
+              "start": 14,
+              "url": "https://t.co/lej7zd2o1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850795956108992886",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 354,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不去理髮店洗頭就這個狀態 https://t.co/lej7zd2o1D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27813,
+          "following_count": 240,
+          "like_count": 10535,
+          "listed_count": 27,
+          "tweet_count": 3085
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "神山眠り🪦",
+        "pinned_tweet_id": "1813993940288438691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5525,
+          "following_count": 33,
+          "like_count": 1476,
+          "listed_count": 7,
+          "tweet_count": 725
+        },
+        "username": "kamiyamanemuri",
+        "verified": false
+      }
+    ]
+  }
+}

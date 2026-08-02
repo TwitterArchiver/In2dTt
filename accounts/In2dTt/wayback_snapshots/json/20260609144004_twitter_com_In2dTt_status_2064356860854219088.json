@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064356780520734720"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2064356860854219088",
+    "created_at": "2026-06-09T14:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064356860854219088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OqAGEgWgjZ",
+          "end": 31,
+          "expanded_url": "https://x.com/In2dTt/status/2064356860854219088/video/1",
+          "media_key": "13_2064356780520734720",
+          "start": 8,
+          "url": "https://t.co/OqAGEgWgjZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064356860854219088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叽里咕噜说啥呢 https://t.co/OqAGEgWgjZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11533,
+        "height": 1280,
+        "media_key": "13_2064356780520734720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064356780520734720/img/2dlLH1u4fP1L8Osi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064356780520734720/vid/avc1/320x568/HAD68KedK-Ds0xBV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064356780520734720/vid/avc1/480x852/fw6MKIXdr8C_I2-E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064356780520734720/vid/avc1/720x1280/TwanVfPML8t_2gbg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064356780520734720/pl/elzjzLpOGNR7b_XN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064356780520734720"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2064356860854219088",
+        "created_at": "2026-06-09T14:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064356860854219088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqAGEgWgjZ",
+              "end": 31,
+              "expanded_url": "https://x.com/In2dTt/status/2064356860854219088/video/1",
+              "media_key": "13_2064356780520734720",
+              "start": 8,
+              "url": "https://t.co/OqAGEgWgjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064356860854219088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叽里咕噜说啥呢 https://t.co/OqAGEgWgjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28916,
+          "following_count": 292,
+          "like_count": 10699,
+          "listed_count": 24,
+          "media_count": 877,
+          "tweet_count": 3244
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

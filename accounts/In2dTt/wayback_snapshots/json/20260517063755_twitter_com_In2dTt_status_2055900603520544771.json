@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978671123375292416",
+        "3_1978671123375251456",
+        "3_1978671123522080768",
+        "3_1978671123450793984"
+      ],
+      "media_source_tweet_id": [
+        "1978671895294738585",
+        "1978671895294738585",
+        "1978671895294738585",
+        "1978671895294738585"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2055900603520544771",
+    "created_at": "2026-05-17T06:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055900603520544771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "953184350",
+          "start": 3,
+          "username": "0_BossS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHcjv2czaN",
+          "end": 67,
+          "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+          "media_key": "3_1978671123375292416",
+          "start": 44,
+          "url": "https://t.co/HHcjv2czaN"
+        },
+        {
+          "display_url": "pic.x.com/HHcjv2czaN",
+          "end": 67,
+          "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+          "media_key": "3_1978671123375251456",
+          "start": 44,
+          "url": "https://t.co/HHcjv2czaN"
+        },
+        {
+          "display_url": "pic.x.com/HHcjv2czaN",
+          "end": 67,
+          "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+          "media_key": "3_1978671123522080768",
+          "start": 44,
+          "url": "https://t.co/HHcjv2czaN"
+        },
+        {
+          "display_url": "pic.x.com/HHcjv2czaN",
+          "end": 67,
+          "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+          "media_key": "3_1978671123450793984",
+          "start": 44,
+          "url": "https://t.co/HHcjv2czaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055900603520544771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 807
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978671895294738585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0_BossS: 池袋ガルバ\n管理買収で逮捕された\n田野和彩 容疑者\n\nと四皇 https://t.co/HHcjv2czaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_1978671123375292416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wm5zwbgAAUXoY.jpg",
+        "width": 595
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1978671123375251456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wm5zwa4AA1mAA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 349,
+        "media_key": "3_1978671123522080768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wm50TbUAAsAKD.jpg",
+        "width": 620
+      },
+      {
+        "height": 578,
+        "media_key": "3_1978671123450793984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wm50CbkAAPba3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978671123375292416",
+            "3_1978671123375251456",
+            "3_1978671123522080768",
+            "3_1978671123450793984"
+          ],
+          "media_source_tweet_id": [
+            "1978671895294738585",
+            "1978671895294738585",
+            "1978671895294738585",
+            "1978671895294738585"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2055900603520544771",
+        "created_at": "2026-05-17T06:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055900603520544771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "953184350",
+              "start": 3,
+              "username": "0_BossS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHcjv2czaN",
+              "end": 67,
+              "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+              "media_key": "3_1978671123375292416",
+              "start": 44,
+              "url": "https://t.co/HHcjv2czaN"
+            },
+            {
+              "display_url": "pic.x.com/HHcjv2czaN",
+              "end": 67,
+              "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+              "media_key": "3_1978671123375251456",
+              "start": 44,
+              "url": "https://t.co/HHcjv2czaN"
+            },
+            {
+              "display_url": "pic.x.com/HHcjv2czaN",
+              "end": 67,
+              "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+              "media_key": "3_1978671123522080768",
+              "start": 44,
+              "url": "https://t.co/HHcjv2czaN"
+            },
+            {
+              "display_url": "pic.x.com/HHcjv2czaN",
+              "end": 67,
+              "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+              "media_key": "3_1978671123450793984",
+              "start": 44,
+              "url": "https://t.co/HHcjv2czaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055900603520544771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 807
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978671895294738585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0_BossS: 池袋ガルバ\n管理買収で逮捕された\n田野和彩 容疑者\n\nと四皇 https://t.co/HHcjv2czaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978671123375292416",
+            "3_1978671123375251456",
+            "3_1978671123522080768",
+            "3_1978671123450793984"
+          ]
+        },
+        "author_id": "953184350",
+        "conversation_id": "1978671895294738585",
+        "created_at": "2025-10-16T03:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:55:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978671144216449049",
+          "1978671895294738585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHcjv2czaN",
+              "end": 54,
+              "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+              "media_key": "3_1978671123375292416",
+              "start": 31,
+              "url": "https://t.co/HHcjv2czaN"
+            },
+            {
+              "display_url": "pic.x.com/HHcjv2czaN",
+              "end": 54,
+              "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+              "media_key": "3_1978671123375251456",
+              "start": 31,
+              "url": "https://t.co/HHcjv2czaN"
+            },
+            {
+              "display_url": "pic.x.com/HHcjv2czaN",
+              "end": 54,
+              "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+              "media_key": "3_1978671123522080768",
+              "start": 31,
+              "url": "https://t.co/HHcjv2czaN"
+            },
+            {
+              "display_url": "pic.x.com/HHcjv2czaN",
+              "end": 54,
+              "expanded_url": "https://x.com/0_BossS/status/1978671895294738585/photo/1",
+              "media_key": "3_1978671123450793984",
+              "start": 31,
+              "url": "https://t.co/HHcjv2czaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978671895294738585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3548,
+          "impression_count": 15440002,
+          "like_count": 15369,
+          "quote_count": 450,
+          "reply_count": 175,
+          "retweet_count": 807
+        },
+        "reply_settings": "everyone",
+        "text": "池袋ガルバ\n管理買収で逮捕された\n田野和彩 容疑者\n\nと四皇 https://t.co/HHcjv2czaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28968,
+          "following_count": 292,
+          "like_count": 10649,
+          "listed_count": 26,
+          "media_count": 866,
+          "tweet_count": 3215
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-17T08:38:26.000Z",
+        "description": " ︎︎\n\n ︎︎\n ︎︎  ︎︎\n\n ︎︎\n ︎︎心理学",
+        "id": "953184350",
+        "name": "ぼっさん🇯🇵",
+        "pinned_tweet_id": "1986753967821672676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991780112489148417/HlU8BlTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25613,
+          "following_count": 680,
+          "like_count": 8501,
+          "listed_count": 54,
+          "media_count": 2632,
+          "tweet_count": 5820
+        },
+        "username": "0_BossS",
+        "verified": true
+      }
+    ]
+  }
+}

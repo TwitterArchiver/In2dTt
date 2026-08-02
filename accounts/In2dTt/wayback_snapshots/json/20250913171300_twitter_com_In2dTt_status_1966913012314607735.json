@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1966913012314607735",
+    "created_at": "2025-09-13T17:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T18:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966913012314607735"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966913012314607735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雖然很喜歡弗洛伊德但是果然精神分析的一些觀點還是太絕對的把所有問題歸咎於原生家庭了 而且一個療程太久了並非富裕家庭是無法承擔這樣的諮詢的 認知也不太喜歡 因為真的讓人覺得很像說教 只能接受的還是人本吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1966913012314607735",
+        "created_at": "2025-09-13T17:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966913012314607735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966913012314607735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雖然很喜歡弗洛伊德但是果然精神分析的一些觀點還是太絕對的把所有問題歸咎於原生家庭了 而且一個療程太久了並非富裕家庭是無法承擔這樣的諮詢的 認知也不太喜歡 因為真的讓人覺得很像說教 只能接受的還是人本吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29171,
+          "following_count": 257,
+          "like_count": 10488,
+          "listed_count": 26,
+          "media_count": 779,
+          "tweet_count": 2987
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

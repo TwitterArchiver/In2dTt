@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1801796003999453290",
+    "created_at": "2024-06-15T08:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T09:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801891658641915921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801891658641915921",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801834930412130320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1801796003999453290",
+        "created_at": "2024-06-15T08:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T09:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801891658641915921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801891658641915921",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801834930412130320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 🤓"
+      },
+      {
+        "attachments": {},
+        "author_id": "1408741694267301889",
+        "conversation_id": "1801796003999453290",
+        "created_at": "2024-06-15T04:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T05:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801834930412130320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801834930412130320",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801796003999453290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 媽的你好油菜花"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28302,
+          "following_count": 226,
+          "like_count": 10432,
+          "listed_count": 28,
+          "tweet_count": 2939
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "忠徒@AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1783037228845023708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800858359077519360/6FBE2mhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6508,
+          "following_count": 36,
+          "like_count": 8039,
+          "listed_count": 2,
+          "tweet_count": 10323
+        },
+        "username": "YUSU_01",
+        "verified": false
+      }
+    ]
+  }
+}

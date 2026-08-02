@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997196528356937728"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1997196683193864377",
+    "created_at": "2025-12-06T06:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997196683193864377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rghRYVDdvr",
+          "end": 28,
+          "expanded_url": "https://x.com/In2dTt/status/1997196683193864377/video/1",
+          "media_key": "13_1997196528356937728",
+          "start": 5,
+          "url": "https://t.co/rghRYVDdvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997196683193864377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难受死了 https://t.co/rghRYVDdvr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997196683193864377].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997196683193864377",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997196683193864377"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14865,
+        "height": 1280,
+        "media_key": "13_1997196528356937728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997196528356937728/img/N-uT2FXikfgXwEYY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997196528356937728/vid/avc1/320x568/rHzgvFXEPg_I-M-n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997196528356937728/vid/avc1/480x852/AWUaWyhWl-3_3hMQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997196528356937728/vid/avc1/720x1280/KeWOo7XdhR864MY8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997196528356937728/pl/jdPzB3bx4H9HRkCE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28874,
+          "following_count": 286,
+          "like_count": 10596,
+          "listed_count": 26,
+          "media_count": 821,
+          "tweet_count": 3104
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

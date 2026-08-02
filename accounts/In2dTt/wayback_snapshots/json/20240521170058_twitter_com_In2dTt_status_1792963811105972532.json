@@ -1,0 +1,101 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1792963811105972532",
+    "created_at": "2024-05-21T17:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T18:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792963811105972532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1792963811105972532",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到好看的女生一些人就要點評科技感重了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1792963811105972532",
+        "created_at": "2024-05-21T17:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T18:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792963811105972532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792963811105972532",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到好看的女生一些人就要點評科技感重了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24639,
+          "following_count": 224,
+          "like_count": 10405,
+          "listed_count": 24,
+          "tweet_count": 2887
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

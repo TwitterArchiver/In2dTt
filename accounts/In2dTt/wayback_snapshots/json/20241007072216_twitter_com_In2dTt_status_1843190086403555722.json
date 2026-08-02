@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1843138945280020919",
+    "created_at": "2024-10-07T07:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T08:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843190086403555722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1465701827006328832",
+          "start": 0,
+          "username": "nao_kizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843190086403555722",
+    "in_reply_to_user_id": "1465701827006328832",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843138945280020919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nao_kizuki かわいい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1843138945280020919",
+        "created_at": "2024-10-07T07:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T08:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843190086403555722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1465701827006328832",
+              "start": 0,
+              "username": "nao_kizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843190086403555722",
+        "in_reply_to_user_id": "1465701827006328832",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843138945280020919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nao_kizuki かわいい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843138937831006208"
+          ]
+        },
+        "author_id": "1465701827006328832",
+        "conversation_id": "1843138945280020919",
+        "created_at": "2024-10-07T03:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T04:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843138945280020919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXyFD9PldJ",
+              "end": 30,
+              "expanded_url": "https://x.com/nao_kizuki/status/1843138945280020919/photo/1",
+              "media_key": "3_1843138937831006208",
+              "start": 7,
+              "url": "https://t.co/MXyFD9PldJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843138945280020919",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 10560,
+          "like_count": 1078,
+          "quote_count": 18,
+          "reply_count": 45,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "☁️🩵🌧️🪽 https://t.co/MXyFD9PldJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27926,
+          "following_count": 237,
+          "like_count": 10476,
+          "listed_count": 26,
+          "tweet_count": 3052
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:19:17.000Z",
+        "description": "HoneyWorksさんサウンドプロデュースアイドル/高嶺のなでしこ@takanenofficial /きづきなお/黄色🐥/みんなで使おう→#気づいて城月 ファンクラブメール返信→#城月選手へ たかねこ告知関連(みんなが見る用→ #たかねこ入場なり/お団子ヘア㌠/せんしゅです💫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "気づいて城月"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "城月選手へ"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "tag": "たかねこ入場なり"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "takanenofficial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@nao_kizuki?_t…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@nao_kizuki?_t=8g6DftE52UU&_r=1",
+                "start": 0,
+                "url": "https://t.co/Difjlrf2G0"
+              }
+            ]
+          }
+        },
+        "id": "1465701827006328832",
+        "location": "モモンガとたかねこファンに一途(◍´꒳`◍)",
+        "name": "城月菜央",
+        "pinned_tweet_id": "1807933301099012227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835302404600016896/aOIFS3DQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21197,
+          "following_count": 279,
+          "like_count": 13684,
+          "listed_count": 313,
+          "tweet_count": 7356
+        },
+        "url": "https://t.co/Difjlrf2G0",
+        "username": "nao_kizuki",
+        "verified": true
+      }
+    ]
+  }
+}

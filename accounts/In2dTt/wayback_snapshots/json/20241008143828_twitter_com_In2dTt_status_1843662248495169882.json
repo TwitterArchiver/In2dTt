@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1843629627329392715",
+    "created_at": "2024-10-08T14:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T15:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843662248495169882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843662248495169882",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843629627329392715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira 你什麼時候會畫畫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1843629627329392715",
+        "created_at": "2024-10-08T14:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T15:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843662248495169882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843662248495169882",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843629627329392715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira 你什麼時候會畫畫了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843629600376569856"
+          ]
+        },
+        "author_id": "1771230355896561664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1843629627329392715",
+        "created_at": "2024-10-08T12:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T13:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843629627329392715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlF0C2wlu8",
+              "end": 34,
+              "expanded_url": "https://x.com/in2dkira/status/1843629627329392715/photo/1",
+              "media_key": "3_1843629600376569856",
+              "start": 11,
+              "url": "https://t.co/hlF0C2wlu8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843629627329392715",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "^お薬飲んで寝よう🎵 https://t.co/hlF0C2wlu8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27946,
+          "following_count": 238,
+          "like_count": 10484,
+          "listed_count": 26,
+          "tweet_count": 3058
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "フオニイ",
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839716184914079745/wj3KhEmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1,
+          "like_count": 190,
+          "listed_count": 1,
+          "tweet_count": 69
+        },
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

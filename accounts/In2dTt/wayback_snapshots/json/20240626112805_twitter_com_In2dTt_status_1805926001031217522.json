@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1805550643219718252",
+    "created_at": "2024-06-26T11:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T12:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805926001031217522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777255499811184640",
+          "start": 0,
+          "username": "Reisa_Music"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805926001031217522",
+    "in_reply_to_user_id": "1777255499811184640",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805550643219718252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reisa_Music 妖夢腳臭味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1805550643219718252",
+        "created_at": "2024-06-26T11:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T12:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805926001031217522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777255499811184640",
+              "start": 0,
+              "username": "Reisa_Music"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805926001031217522",
+        "in_reply_to_user_id": "1777255499811184640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805550643219718252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reisa_Music 妖夢腳臭味"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805550634457829376"
+          ]
+        },
+        "author_id": "1777255499811184640",
+        "conversation_id": "1805550643219718252",
+        "created_at": "2024-06-25T10:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T11:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805550643219718252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jQwWHH1nR8",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Reisa_Music/status/1805550643219718252/photo/1",
+              "media_key": "3_1805550634457829376",
+              "start": 13,
+              "url": "https://t.co/jQwWHH1nR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805550643219718252",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 421,
+          "impression_count": 290378,
+          "like_count": 3069,
+          "quote_count": 23,
+          "reply_count": 93,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "這個我是真想喝🤤🤤🤤🤤🤤 https://t.co/jQwWHH1nR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28071,
+          "following_count": 226,
+          "like_count": 10431,
+          "listed_count": 28,
+          "tweet_count": 2949
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T08:42:23.000Z",
+        "description": "めいじん的しょうしゃ💤の新垢(new account)。ご注文は宇沢レイサですか☕️ 寶寶：@charming_midori \n@ikuyoikuyo0421\n @Allknowbody \n@mikumiku3648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "charming_midori"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "ikuyoikuyo0421"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Allknowbody"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "mikumiku3648"
+              }
+            ]
+          }
+        },
+        "id": "1777255499811184640",
+        "location": "Mainz, Germany",
+        "name": "うざわの喫茶店💤",
+        "pinned_tweet_id": "1801878750675501379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802883463130877953/Dnj6Kyu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 565,
+          "like_count": 3022,
+          "listed_count": 2,
+          "tweet_count": 798
+        },
+        "username": "Reisa_Music",
+        "verified": false
+      }
+    ]
+  }
+}

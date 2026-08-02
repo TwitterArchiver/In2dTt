@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1974845530145710468",
+    "created_at": "2025-10-06T04:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975050376081752397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660637215335014402",
+          "start": 0,
+          "username": "cngcngyngy38992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975050376081752397",
+    "in_reply_to_user_id": "1660637215335014402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974845530145710468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cngcngyngy38992 我们塔菲只是唐😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974845512533807104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2gPh8zaEAA1DT8.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1974845530145710468",
+        "created_at": "2025-10-06T04:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975050376081752397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660637215335014402",
+              "start": 0,
+              "username": "cngcngyngy38992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975050376081752397",
+        "in_reply_to_user_id": "1660637215335014402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974845530145710468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cngcngyngy38992 我们塔菲只是唐😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974845512533807104"
+          ]
+        },
+        "author_id": "1660637215335014402",
+        "conversation_id": "1974845530145710468",
+        "created_at": "2025-10-05T14:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974845530145710468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4slK6WHgzU",
+              "end": 37,
+              "expanded_url": "https://x.com/cngcngyngy38992/status/1974845530145710468/photo/1",
+              "media_key": "3_1974845512533807104",
+              "start": 14,
+              "url": "https://t.co/4slK6WHgzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974845530145710468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 24542,
+          "like_count": 198,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "請問以下人員誰被黑的最冤？ https://t.co/4slK6WHgzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29025,
+          "following_count": 270,
+          "like_count": 10534,
+          "listed_count": 26,
+          "media_count": 793,
+          "tweet_count": 3026
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T13:23:04.000Z",
+        "description": "07｜二次元｜喜歡拿推上畫師的圖｜苦逼打工人｜不定時發評分系列｜互fo私信",
+        "id": "1660637215335014402",
+        "location": "葬送的前蘇聯",
+        "name": "瓜子Online_蕾潔Mode🌸💣💥",
+        "pinned_tweet_id": "1960011339298156743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974754793081249792/JQlqbzuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3255,
+          "following_count": 4300,
+          "like_count": 12485,
+          "listed_count": 14,
+          "media_count": 871,
+          "tweet_count": 4808
+        },
+        "username": "cngcngyngy38992",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1808514165805666304"
+      ],
+      "media_source_tweet_id": [
+        "1808514263117607196"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1808816435751195002",
+    "created_at": "2024-07-04T10:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T11:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808816435751195002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1708305542396125184",
+          "start": 3,
+          "username": "weMneedaimu86"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/8E26PzD3vD",
+          "end": 53,
+          "expanded_url": "https://twitter.com/weMneedaimu86/status/1808514263117607196/video/1",
+          "media_key": "13_1808514165805666304",
+          "start": 30,
+          "url": "https://t.co/8E26PzD3vD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808816435751195002",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808514263117607196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weMneedaimu86: 论如何高效率学习日语 https://t.co/8E26PzD3vD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22816,
+        "height": 1256,
+        "media_key": "13_1808514165805666304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1808514165805666304/img/QZGtRvwPrNAqdPuE.jpg",
+        "public_metrics": {
+          "view_count": 68998
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1808514165805666304/vid/avc1/320x558/FUFpA9yNq78p1-6B.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1808514165805666304/vid/avc1/480x836/00WJnEnYMMK2TbCF.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1808514165805666304/vid/avc1/720x1256/NCoNXZb_UmmITnl5.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1808514165805666304/pl/LaIIKpwvpCzGE5W-.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1808514165805666304"
+          ],
+          "media_source_tweet_id": [
+            "1808514263117607196"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1808816435751195002",
+        "created_at": "2024-07-04T10:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T11:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808816435751195002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1708305542396125184",
+              "start": 3,
+              "username": "weMneedaimu86"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8E26PzD3vD",
+              "end": 53,
+              "expanded_url": "https://twitter.com/weMneedaimu86/status/1808514263117607196/video/1",
+              "media_key": "13_1808514165805666304",
+              "start": 30,
+              "url": "https://t.co/8E26PzD3vD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808816435751195002",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808514263117607196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weMneedaimu86: 论如何高效率学习日语 https://t.co/8E26PzD3vD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1808514165805666304"
+          ]
+        },
+        "author_id": "1708305542396125184",
+        "conversation_id": "1808514263117607196",
+        "created_at": "2024-07-03T14:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T15:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808514263117607196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8E26PzD3vD",
+              "end": 34,
+              "expanded_url": "https://twitter.com/weMneedaimu86/status/1808514263117607196/video/1",
+              "media_key": "13_1808514165805666304",
+              "start": 11,
+              "url": "https://t.co/8E26PzD3vD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808514263117607196",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 131588,
+          "like_count": 924,
+          "quote_count": 11,
+          "reply_count": 48,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "论如何高效率学习日语 https://t.co/8E26PzD3vD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28227,
+          "following_count": 228,
+          "like_count": 10486,
+          "listed_count": 29,
+          "tweet_count": 2981
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T02:19:26.000Z",
+        "description": "说些自己想说的|小号@aimuuuuuu8964|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "aimuuuuuu8964"
+              }
+            ]
+          }
+        },
+        "id": "1708305542396125184",
+        "name": "M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792206642702090240/M_nW3A6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 805,
+          "like_count": 5104,
+          "listed_count": 6,
+          "tweet_count": 1959
+        },
+        "username": "weMneedaimu86",
+        "verified": true
+      }
+    ]
+  }
+}

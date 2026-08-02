@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082765772502552577",
+        "3_2082765772502560768"
+      ],
+      "media_source_tweet_id": [
+        "2082765781398696354",
+        "2082765781398696354"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2082909429041881341",
+    "created_at": "2026-07-30T19:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T20:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082909429041881341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1484133559153852421",
+          "start": 3,
+          "username": "oomayu12345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9wxUl0okz",
+          "end": 46,
+          "expanded_url": "https://x.com/oomayu12345/status/2082765781398696354/photo/1",
+          "media_key": "3_2082765772502552577",
+          "start": 23,
+          "url": "https://t.co/r9wxUl0okz"
+        },
+        {
+          "display_url": "pic.x.com/r9wxUl0okz",
+          "end": 46,
+          "expanded_url": "https://x.com/oomayu12345/status/2082765781398696354/photo/1",
+          "media_key": "3_2082765772502560768",
+          "start": 23,
+          "url": "https://t.co/r9wxUl0okz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082909429041881341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082765781398696354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oomayu12345: みぃちゃん https://t.co/r9wxUl0okz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2082765772502552577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd4b2RbUAESwGn.jpg",
+        "width": 1206
+      },
+      {
+        "height": 3088,
+        "media_key": "3_2082765772502560768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd4b2RbcAAF85V.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082765772502552577",
+            "3_2082765772502560768"
+          ]
+        },
+        "author_id": "1484133559153852421",
+        "conversation_id": "2082765781398696354",
+        "created_at": "2026-07-30T09:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082765781398696354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9wxUl0okz",
+              "end": 29,
+              "expanded_url": "https://x.com/oomayu12345/status/2082765781398696354/photo/1",
+              "media_key": "3_2082765772502552577",
+              "start": 6,
+              "url": "https://t.co/r9wxUl0okz"
+            },
+            {
+              "display_url": "pic.x.com/r9wxUl0okz",
+              "end": 29,
+              "expanded_url": "https://x.com/oomayu12345/status/2082765781398696354/photo/1",
+              "media_key": "3_2082765772502560768",
+              "start": 6,
+              "url": "https://t.co/r9wxUl0okz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082765781398696354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 155184,
+          "like_count": 1714,
+          "quote_count": 10,
+          "reply_count": 36,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "みぃちゃん https://t.co/r9wxUl0okz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082765772502552577",
+            "3_2082765772502560768"
+          ],
+          "media_source_tweet_id": [
+            "2082765781398696354",
+            "2082765781398696354"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2082909429041881341",
+        "created_at": "2026-07-30T19:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082909429041881341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1484133559153852421",
+              "start": 3,
+              "username": "oomayu12345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9wxUl0okz",
+              "end": 46,
+              "expanded_url": "https://x.com/oomayu12345/status/2082765781398696354/photo/1",
+              "media_key": "3_2082765772502552577",
+              "start": 23,
+              "url": "https://t.co/r9wxUl0okz"
+            },
+            {
+              "display_url": "pic.x.com/r9wxUl0okz",
+              "end": 46,
+              "expanded_url": "https://x.com/oomayu12345/status/2082765781398696354/photo/1",
+              "media_key": "3_2082765772502560768",
+              "start": 23,
+              "url": "https://t.co/r9wxUl0okz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082909429041881341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082765781398696354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oomayu12345: みぃちゃん https://t.co/r9wxUl0okz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28867,
+          "following_count": 316,
+          "like_count": 10981,
+          "listed_count": 24,
+          "media_count": 848,
+          "tweet_count": 3189
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T12:00:07.000Z",
+        "description": "6/17ユキッカーズ加入しました kick https://t.co/NIYxNqqtU8欲しリス^. ̫.^𛰚https://t.co/I3zNEO6uBI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kick.com/oomayu",
+                "end": 45,
+                "expanded_url": "https://kick.com/oomayu",
+                "start": 22,
+                "url": "https://t.co/NIYxNqqtU8"
+              },
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 79,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3CJO0TF6E8K7Z?ref_=wl_share",
+                "start": 56,
+                "url": "https://t.co/I3zNEO6uBI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "live.nicovideo.jp/watch/user/875…",
+                "end": 23,
+                "expanded_url": "https://live.nicovideo.jp/watch/user/87585927?ref=lvapp_profile_share_copy",
+                "start": 0,
+                "url": "https://t.co/hBGR1UbftN"
+              }
+            ]
+          }
+        },
+        "id": "1484133559153852421",
+        "name": "オオマユ(ユキッカーズ)",
+        "pinned_tweet_id": "2067802220939387043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030231814829404160/TqEiVc7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6362,
+          "following_count": 5644,
+          "like_count": 8974,
+          "listed_count": 45,
+          "media_count": 659,
+          "tweet_count": 7684
+        },
+        "url": "https://t.co/hBGR1UbftN",
+        "username": "oomayu12345",
+        "verified": false
+      }
+    ]
+  }
+}

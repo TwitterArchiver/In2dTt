@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1801796003999453290",
+    "created_at": "2024-06-15T01:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T02:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1801796003999453290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nmslesebot/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/nmslesebot/status/1801645815372648464",
+          "start": 13,
+          "url": "https://t.co/C2TNc7YxCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801796003999453290",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801645815372648464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6月6最大喜訊是舞萌更新 https://t.co/C2TNc7YxCC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1801796003999453290",
+        "created_at": "2024-06-15T01:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T02:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801796003999453290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nmslesebot/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nmslesebot/status/1801645815372648464",
+              "start": 13,
+              "url": "https://t.co/C2TNc7YxCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801796003999453290",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801645815372648464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月6最大喜訊是舞萌更新 https://t.co/C2TNc7YxCC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801645807596355586"
+          ]
+        },
+        "author_id": "1292489560312569857",
+        "conversation_id": "1801645815372648464",
+        "created_at": "2024-06-14T16:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T17:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801645815372648464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NMTmFk2wLn",
+              "end": 26,
+              "expanded_url": "https://twitter.com/NmsleseBot/status/1801645815372648464/photo/1",
+              "media_key": "3_1801645807596355586",
+              "start": 3,
+              "url": "https://t.co/NMTmFk2wLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801645815372648464",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 33185,
+          "like_count": 367,
+          "quote_count": 5,
+          "reply_count": 43,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/NMTmFk2wLn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28304,
+          "following_count": 226,
+          "like_count": 10431,
+          "listed_count": 28,
+          "tweet_count": 2937
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T15:55:06.000Z",
+        "description": "兔友迷惑行为Bot × 柑橘小波奇",
+        "id": "1292489560312569857",
+        "location": "Nmslese City",
+        "name": "兔友迷惑行为B🟣t",
+        "pinned_tweet_id": "1774345977325134310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774421849264586753/LlAqNu8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144898,
+          "following_count": 200,
+          "like_count": 496,
+          "listed_count": 368,
+          "tweet_count": 3170
+        },
+        "username": "NmsleseBot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1826916654300750069",
+    "created_at": "2024-08-23T09:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T10:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826916654300750069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1563559065078595589",
+          "start": 3,
+          "username": "skmt26628703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826916654300750069",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826906707873993179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skmt26628703: 我的推特我爱发什么发什么我当天就是受不了本来药都断了还得吃药，之前早就因为你老是骚扰我对象我早就把你办了我还要跟你说一声吗？天天摸我对象胸你自己也承认了吧人家都跟你说了你手不干净了说了好几次这个家待不下去了你听不到吗？锁推不回应是不想扩大事态…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1826916654300750069",
+        "created_at": "2024-08-23T09:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T10:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826916654300750069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563559065078595589",
+              "start": 3,
+              "username": "skmt26628703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826916654300750069",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826906707873993179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skmt26628703: 我的推特我爱发什么发什么我当天就是受不了本来药都断了还得吃药，之前早就因为你老是骚扰我对象我早就把你办了我还要跟你说一声吗？天天摸我对象胸你自己也承认了吧人家都跟你说了你手不干净了说了好几次这个家待不下去了你听不到吗？锁推不回应是不想扩大事态…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826906697434341376"
+          ]
+        },
+        "author_id": "1563559065078595589",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1826906707873993179",
+        "created_at": "2024-08-23T08:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826906707873993179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvs2psrhgk",
+              "end": 164,
+              "expanded_url": "https://twitter.com/skmt26628703/status/1826906707873993179/photo/1",
+              "media_key": "3_1826906697434341376",
+              "start": 141,
+              "url": "https://t.co/JvS2PSRHGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826906707873993179",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特我爱发什么发什么我当天就是受不了本来药都断了还得吃药，之前早就因为你老是骚扰我对象我早就把你办了我还要跟你说一声吗？天天摸我对象胸你自己也承认了吧人家都跟你说了你手不干净了说了好几次这个家待不下去了你听不到吗？锁推不回应是不想扩大事态闹大不想吵架你自己一直要扩大事态烦死了 https://t.co/JvS2PSRHGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤退网啦 现在这个账号是注注啦",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "注注",
+        "pinned_tweet_id": "1813978235988070836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813978645813428224/kqDaH-8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27807,
+          "following_count": 231,
+          "like_count": 10480,
+          "listed_count": 28,
+          "tweet_count": 3022
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T16:08:39.000Z",
+        "description": "活着的尸体/最喜欢❤️@BestHooker4Ever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "BestHooker4Ever"
+              }
+            ]
+          }
+        },
+        "id": "1563559065078595589",
+        "name": "小戈鳥雨",
+        "pinned_tweet_id": "1805077019040055418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712597342103412736/1Q3RWfh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 275,
+          "like_count": 28836,
+          "listed_count": 5,
+          "tweet_count": 5935
+        },
+        "username": "skmt26628703",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1965807036110905344"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1965807205833433490",
+    "created_at": "2025-09-10T15:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T16:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965807205833433490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2gch6BGV8X",
+          "end": 35,
+          "expanded_url": "https://x.com/In2dTt/status/1965807205833433490/video/1",
+          "media_key": "13_1965807036110905344",
+          "start": 12,
+          "url": "https://t.co/2gch6BGV8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965807205833433490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用了一百个免费运镜特效 https://t.co/2gch6BGV8X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19233,
+        "height": 1280,
+        "media_key": "13_1965807036110905344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965807036110905344/img/fROJpXSLiBNIvnYn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965807036110905344/vid/avc1/320x568/Q96rbHzq7VJexS6q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965807036110905344/vid/avc1/480x852/Z42bTTNqczdBNXef.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965807036110905344/vid/avc1/720x1280/XjMFkY4L9VfXluSF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965807036110905344/pl/oqYcBYPrl48BzFfe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965807036110905344"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1965807205833433490",
+        "created_at": "2025-09-10T15:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T16:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965807205833433490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gch6BGV8X",
+              "end": 35,
+              "expanded_url": "https://x.com/In2dTt/status/1965807205833433490/video/1",
+              "media_key": "13_1965807036110905344",
+              "start": 12,
+              "url": "https://t.co/2gch6BGV8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965807205833433490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用了一百个免费运镜特效 https://t.co/2gch6BGV8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29178,
+          "following_count": 256,
+          "like_count": 10479,
+          "listed_count": 26,
+          "media_count": 779,
+          "tweet_count": 2980
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

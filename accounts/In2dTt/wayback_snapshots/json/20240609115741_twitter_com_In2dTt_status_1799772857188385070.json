@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1799772808626716672"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1799772857188385070",
+    "created_at": "2024-06-09T11:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T12:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799772857188385070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/R5Viww79WC",
+          "end": 29,
+          "expanded_url": "https://twitter.com/In2dTt/status/1799772857188385070/video/1",
+          "media_key": "7_1799772808626716672",
+          "start": 6,
+          "url": "https://t.co/R5Viww79WC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799772857188385070",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "年輕的湯啊 https://t.co/R5Viww79WC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15433,
+        "height": 1280,
+        "media_key": "7_1799772808626716672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1799772808626716672/pu/img/3-VBjmBs__wBsj1T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1799772808626716672/pu/vid/avc1/320x568/_B7WVPoSEGnxS_KQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1799772808626716672/pu/vid/avc1/480x852/Y3XAn7vlWN8Np7HD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1799772808626716672/pu/vid/avc1/720x1280/GpL1ZGByAytPI4W6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1799772808626716672/pu/pl/CqvM6pIEIICFsr_W.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1799772808626716672"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1799772857188385070",
+        "created_at": "2024-06-09T11:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T12:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799772857188385070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/R5Viww79WC",
+              "end": 29,
+              "expanded_url": "https://twitter.com/In2dTt/status/1799772857188385070/video/1",
+              "media_key": "7_1799772808626716672",
+              "start": 6,
+              "url": "https://t.co/R5Viww79WC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799772857188385070",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年輕的湯啊 https://t.co/R5Viww79WC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28099,
+          "following_count": 226,
+          "like_count": 10415,
+          "listed_count": 28,
+          "tweet_count": 2928
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

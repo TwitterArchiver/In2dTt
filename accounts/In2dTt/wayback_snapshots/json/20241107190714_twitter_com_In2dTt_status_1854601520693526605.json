@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1854601482403749900"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1854601520693526605",
+    "created_at": "2024-11-07T19:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T20:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854601520693526605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Bec2ahKyT",
+          "end": 33,
+          "expanded_url": "https://x.com/In2dTt/status/1854601520693526605/video/1",
+          "media_key": "7_1854601482403749900",
+          "start": 10,
+          "url": "https://t.co/9Bec2ahKyT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854601520693526605",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "末陽畫的情緒小孩湯 https://t.co/9Bec2ahKyT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16866,
+        "height": 720,
+        "media_key": "7_1854601482403749900",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1854601482403749900/pu/img/3O-M5xFW1WYnfNU2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854601482403749900/pu/vid/avc1/480x270/ms7ehHXzbGdTi5-_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854601482403749900/pu/vid/avc1/640x360/3kfQ_7aOCVWO22Ks.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854601482403749900/pu/vid/avc1/1280x720/94RHpYf6bmqs5Mpp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1854601482403749900/pu/pl/GKqflZKuzUrlkPdG.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1854601482403749900"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1854601520693526605",
+        "created_at": "2024-11-07T19:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T20:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854601520693526605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Bec2ahKyT",
+              "end": 33,
+              "expanded_url": "https://x.com/In2dTt/status/1854601520693526605/video/1",
+              "media_key": "7_1854601482403749900",
+              "start": 10,
+              "url": "https://t.co/9Bec2ahKyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854601520693526605",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "末陽畫的情緒小孩湯 https://t.co/9Bec2ahKyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27935,
+          "following_count": 249,
+          "like_count": 10589,
+          "listed_count": 27,
+          "tweet_count": 3125
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

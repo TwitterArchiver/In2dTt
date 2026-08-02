@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066790062524964864",
+        "3_2066790062449389569",
+        "3_2066790062524936192"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2066790072075337996",
+    "created_at": "2026-06-16T07:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066790072075337996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZGVRI7dKM5",
+          "end": 23,
+          "expanded_url": "https://x.com/In2dTt/status/2066790072075337996/photo/1",
+          "media_key": "3_2066790062524964864",
+          "start": 0,
+          "url": "https://t.co/ZGVRI7dKM5"
+        },
+        {
+          "display_url": "pic.x.com/ZGVRI7dKM5",
+          "end": 23,
+          "expanded_url": "https://x.com/In2dTt/status/2066790072075337996/photo/1",
+          "media_key": "3_2066790062449389569",
+          "start": 0,
+          "url": "https://t.co/ZGVRI7dKM5"
+        },
+        {
+          "display_url": "pic.x.com/ZGVRI7dKM5",
+          "end": 23,
+          "expanded_url": "https://x.com/In2dTt/status/2066790072075337996/photo/1",
+          "media_key": "3_2066790062524936192",
+          "start": 0,
+          "url": "https://t.co/ZGVRI7dKM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066790072075337996",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ZGVRI7dKM5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066790062524964864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK62nI4boAAc7_p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066790062449389569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK62nImacAENAyI.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066790062524936192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK62nI4bMAAX8Wf.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066790062524964864",
+            "3_2066790062449389569",
+            "3_2066790062524936192"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2066790072075337996",
+        "created_at": "2026-06-16T07:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066790072075337996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGVRI7dKM5",
+              "end": 23,
+              "expanded_url": "https://x.com/In2dTt/status/2066790072075337996/photo/1",
+              "media_key": "3_2066790062524964864",
+              "start": 0,
+              "url": "https://t.co/ZGVRI7dKM5"
+            },
+            {
+              "display_url": "pic.x.com/ZGVRI7dKM5",
+              "end": 23,
+              "expanded_url": "https://x.com/In2dTt/status/2066790072075337996/photo/1",
+              "media_key": "3_2066790062449389569",
+              "start": 0,
+              "url": "https://t.co/ZGVRI7dKM5"
+            },
+            {
+              "display_url": "pic.x.com/ZGVRI7dKM5",
+              "end": 23,
+              "expanded_url": "https://x.com/In2dTt/status/2066790072075337996/photo/1",
+              "media_key": "3_2066790062524936192",
+              "start": 0,
+              "url": "https://t.co/ZGVRI7dKM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066790072075337996",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZGVRI7dKM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28859,
+          "following_count": 293,
+          "like_count": 10631,
+          "listed_count": 24,
+          "media_count": 881,
+          "tweet_count": 3253
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2075252044571811936",
+    "created_at": "2026-07-15T00:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077186594981986511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1475103839795970048",
+          "start": 0,
+          "username": "kaway01111"
+        },
+        {
+          "end": 25,
+          "id": "1386670401422434304",
+          "start": 12,
+          "username": "xx1012000456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077186594981986511",
+    "in_reply_to_user_id": "1475103839795970048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076966771341635659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaway01111 @xx1012000456 对😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2075252044571811936",
+        "created_at": "2026-07-15T00:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077186594981986511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1475103839795970048",
+              "start": 0,
+              "username": "kaway01111"
+            },
+            {
+              "end": 25,
+              "id": "1386670401422434304",
+              "start": 12,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077186594981986511",
+        "in_reply_to_user_id": "1475103839795970048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076966771341635659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaway01111 @xx1012000456 对😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475103839795970048",
+        "conversation_id": "2075252044571811936",
+        "created_at": "2026-07-14T09:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076966771341635659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            },
+            {
+              "end": 21,
+              "id": "1386670401422434304",
+              "start": 8,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076966771341635659",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076075759559750062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt @xx1012000456 這個是多久之前的😵‍💫這幾天嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28963,
+          "following_count": 301,
+          "like_count": 10750,
+          "listed_count": 24,
+          "media_count": 838,
+          "tweet_count": 3158
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-26T13:59:08.000Z",
+        "description": "抖M 看私讯挑回 不常上线 🇭🇰香港人呢",
+        "id": "1475103839795970048",
+        "location": "宠物中心",
+        "name": "gagafi",
+        "pinned_tweet_id": "2072300596150129065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1480092988441174018/88kDib37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4722,
+          "following_count": 146,
+          "like_count": 2946,
+          "listed_count": 17,
+          "media_count": 31,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "kaway01111",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 683,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

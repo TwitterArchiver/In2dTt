@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064354913002594304",
+        "3_2064354912998416384",
+        "3_2064354913006796800"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2064354949618970672",
+    "created_at": "2026-06-09T14:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064354949618970672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cwWApkHDAI",
+          "end": 34,
+          "expanded_url": "https://x.com/In2dTt/status/2064354949618970672/photo/1",
+          "media_key": "3_2064354913002594304",
+          "start": 11,
+          "url": "https://t.co/cwWApkHDAI"
+        },
+        {
+          "display_url": "pic.x.com/cwWApkHDAI",
+          "end": 34,
+          "expanded_url": "https://x.com/In2dTt/status/2064354949618970672/photo/1",
+          "media_key": "3_2064354912998416384",
+          "start": 11,
+          "url": "https://t.co/cwWApkHDAI"
+        },
+        {
+          "display_url": "pic.x.com/cwWApkHDAI",
+          "end": 34,
+          "expanded_url": "https://x.com/In2dTt/status/2064354949618970672/photo/1",
+          "media_key": "3_2064354913006796800",
+          "start": 11,
+          "url": "https://t.co/cwWApkHDAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064354949618970672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这期也是remake https://t.co/cwWApkHDAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064354913002594304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYP2x_aIAATvkK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064354912998416384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYP2x-aYAACNmj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064354913006796800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYP2yAaQAAqnb3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064354913002594304",
+            "3_2064354912998416384",
+            "3_2064354913006796800"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2064354949618970672",
+        "created_at": "2026-06-09T14:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064354949618970672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwWApkHDAI",
+              "end": 34,
+              "expanded_url": "https://x.com/In2dTt/status/2064354949618970672/photo/1",
+              "media_key": "3_2064354913002594304",
+              "start": 11,
+              "url": "https://t.co/cwWApkHDAI"
+            },
+            {
+              "display_url": "pic.x.com/cwWApkHDAI",
+              "end": 34,
+              "expanded_url": "https://x.com/In2dTt/status/2064354949618970672/photo/1",
+              "media_key": "3_2064354912998416384",
+              "start": 11,
+              "url": "https://t.co/cwWApkHDAI"
+            },
+            {
+              "display_url": "pic.x.com/cwWApkHDAI",
+              "end": 34,
+              "expanded_url": "https://x.com/In2dTt/status/2064354949618970672/photo/1",
+              "media_key": "3_2064354913006796800",
+              "start": 11,
+              "url": "https://t.co/cwWApkHDAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064354949618970672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期也是remake https://t.co/cwWApkHDAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28916,
+          "following_count": 292,
+          "like_count": 10698,
+          "listed_count": 24,
+          "media_count": 876,
+          "tweet_count": 3243
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

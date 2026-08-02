@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025650146919567360"
+      ],
+      "media_source_tweet_id": [
+        "2025650220844073367"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2025651337090957680",
+    "created_at": "2026-02-22T19:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T20:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025651337090957680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811812787058016257",
+          "start": 3,
+          "username": "kanakosama0223f"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MC0SD3cfLN",
+          "end": 52,
+          "expanded_url": "https://x.com/kanakosama0223f/status/2025650220844073367/video/1",
+          "media_key": "13_2025650146919567360",
+          "start": 29,
+          "url": "https://t.co/MC0SD3cfLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025651337090957680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025650220844073367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanakosama0223f: 喵喵喵喵你好喵 https://t.co/MC0SD3cfLN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12500,
+        "height": 1280,
+        "media_key": "13_2025650146919567360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025650146919567360/img/p3yv540LXS9LZTvx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025650146919567360/vid/avc1/320x568/5OaClneaIqIWjNSx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025650146919567360/vid/avc1/480x852/JvSnTTbnjI8WUR2H.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025650146919567360/vid/avc1/720x1280/EZimLre47eTzZAD5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025650146919567360/pl/j9w-nCFXTcg-ZeEP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025650146919567360"
+          ],
+          "media_source_tweet_id": [
+            "2025650220844073367"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2025651337090957680",
+        "created_at": "2026-02-22T19:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T20:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025651337090957680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811812787058016257",
+              "start": 3,
+              "username": "kanakosama0223f"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MC0SD3cfLN",
+              "end": 52,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2025650220844073367/video/1",
+              "media_key": "13_2025650146919567360",
+              "start": 29,
+              "url": "https://t.co/MC0SD3cfLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025651337090957680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025650220844073367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanakosama0223f: 喵喵喵喵你好喵 https://t.co/MC0SD3cfLN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025650146919567360"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2025650220844073367",
+        "created_at": "2026-02-22T19:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T20:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025650220844073367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MC0SD3cfLN",
+              "end": 31,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2025650220844073367/video/1",
+              "media_key": "13_2025650146919567360",
+              "start": 8,
+              "url": "https://t.co/MC0SD3cfLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025650220844073367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵喵你好喵 https://t.co/MC0SD3cfLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28785,
+          "following_count": 297,
+          "like_count": 10654,
+          "listed_count": 25,
+          "media_count": 846,
+          "tweet_count": 3168
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288 我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2024373848888799586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008265402099654656/E9mXaAvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16559,
+          "following_count": 105,
+          "like_count": 7194,
+          "listed_count": 22,
+          "media_count": 915,
+          "tweet_count": 4955
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

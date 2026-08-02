@@ -1,0 +1,320 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1810009939999412224"
+      ],
+      "media_source_tweet_id": [
+        "1810010318103265462"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1810214253577580838",
+    "created_at": "2024-07-08T07:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T08:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810214253577580838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1703379873132142594",
+          "start": 3,
+          "username": "furandoruuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/v16MSo2jLj",
+          "end": 68,
+          "expanded_url": "https://twitter.com/furandoruuu/status/1810010318103265462/video/1",
+          "media_key": "7_1810009939999412224",
+          "start": 45,
+          "url": "https://t.co/v16MSo2jLj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810214253577580838",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 441
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810010318103265462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @furandoruuu: he rlly is just a silly guy https://t.co/v16MSo2jLj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6033,
+        "height": 824,
+        "media_key": "7_1810009939999412224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1810009939999412224/pu/img/3DzV8y8Y_sEfu8sw.jpg",
+        "public_metrics": {
+          "view_count": 18975
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810009939999412224/pu/vid/avc1/320x388/l1Qt4gEH1Sg_2E8a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810009939999412224/pu/vid/avc1/480x582/6johBGPBgAxVsURY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810009939999412224/pu/vid/avc1/678x824/WZBpb0N7ws2iVdvU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1810009939999412224/pu/pl/iKH7Fpm4coP68B23.m3u8?tag=12"
+          }
+        ],
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810009939999412224"
+          ],
+          "media_source_tweet_id": [
+            "1810010318103265462"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1810214253577580838",
+        "created_at": "2024-07-08T07:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T08:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810214253577580838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1703379873132142594",
+              "start": 3,
+              "username": "furandoruuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/v16MSo2jLj",
+              "end": 68,
+              "expanded_url": "https://twitter.com/furandoruuu/status/1810010318103265462/video/1",
+              "media_key": "7_1810009939999412224",
+              "start": 45,
+              "url": "https://t.co/v16MSo2jLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810214253577580838",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 441
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810010318103265462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @furandoruuu: he rlly is just a silly guy https://t.co/v16MSo2jLj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810009939999412224"
+          ]
+        },
+        "author_id": "1703379873132142594",
+        "conversation_id": "1810010318103265462",
+        "created_at": "2024-07-07T17:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T18:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810010318103265462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/v16MSo2jLj",
+              "end": 51,
+              "expanded_url": "https://twitter.com/furandoruuu/status/1810010318103265462/video/1",
+              "media_key": "7_1810009939999412224",
+              "start": 28,
+              "url": "https://t.co/v16MSo2jLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810010318103265462",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 33885,
+          "like_count": 3087,
+          "quote_count": 15,
+          "reply_count": 14,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "he rlly is just a silly guy https://t.co/v16MSo2jLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28308,
+          "following_count": 231,
+          "like_count": 10532,
+          "listed_count": 29,
+          "tweet_count": 2996
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T12:07:34.000Z",
+        "description": "💒💿|| #1 flanatic || music+games lovr || audhd || @LamestCatgirl gf 🩷 || minor || seeing LG, Libertines, kikuo || 💿💒 #praisebetomurdoc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 116,
+                "tag": "praisebetomurdoc"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "LamestCatgirl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gofund.me/28b5e151",
+                "end": 23,
+                "expanded_url": "https://gofund.me/28b5e151",
+                "start": 0,
+                "url": "https://t.co/2OsW14UxYh"
+              }
+            ]
+          }
+        },
+        "id": "1703379873132142594",
+        "location": "any prns 𐕣",
+        "name": "sabz🍉🇺🇦♡",
+        "pinned_tweet_id": "1804598523465265650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796969356061974530/notl3Erw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1052,
+          "like_count": 55646,
+          "listed_count": 2,
+          "tweet_count": 10943
+        },
+        "url": "https://t.co/2OsW14UxYh",
+        "username": "furandoruuu",
+        "verified": false
+      }
+    ]
+  }
+}

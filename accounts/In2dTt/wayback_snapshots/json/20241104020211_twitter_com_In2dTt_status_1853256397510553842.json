@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1853256397510553842",
+    "created_at": "2024-11-04T02:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T03:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853256397510553842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuro_suicide19…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kuro_suicide193/status/1853082899408412727",
+          "start": 2,
+          "url": "https://t.co/xsa5cSsAub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853256397510553842",
+    "lang": "qst",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853082899408412727",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/xsa5cSsAub"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1853256397510553842",
+        "created_at": "2024-11-04T02:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T03:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853256397510553842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuro_suicide19…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kuro_suicide193/status/1853082899408412727",
+              "start": 2,
+              "url": "https://t.co/xsa5cSsAub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853256397510553842",
+        "lang": "qst",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853082899408412727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/xsa5cSsAub"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853082894304235520"
+          ]
+        },
+        "author_id": "1637400003621552128",
+        "conversation_id": "1853082899408412727",
+        "created_at": "2024-11-03T14:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T15:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853082899408412727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hv0SAMKNyJ",
+              "end": 23,
+              "expanded_url": "https://x.com/kuro_suicide193/status/1853082899408412727/photo/1",
+              "media_key": "3_1853082894304235520",
+              "start": 0,
+              "url": "https://t.co/Hv0SAMKNyJ"
+            },
+            {
+              "display_url": "x.com/zlp_gedraji/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/zlp_gedraji/status/1853077067191234837",
+              "start": 24,
+              "url": "https://t.co/h1EgIVzFdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853082899408412727",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 15153,
+          "like_count": 780,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853077067191234837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Hv0SAMKNyJ https://t.co/h1EgIVzFdT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27750,
+          "following_count": 242,
+          "like_count": 10555,
+          "listed_count": 27,
+          "tweet_count": 3095
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T10:26:08.000Z",
+        "description": "acervo do @zlp_gedraji kkkkkkkkkkkkkkkkkkkkkkkk (sou dodói)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "zlp_gedraji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nanakko.lovege…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nanakko.lovegedofr099/profilecard/?igsh=MjRhc3VyeThuejJj",
+                "start": 0,
+                "url": "https://t.co/mUfPzkE9Q7"
+              }
+            ]
+          }
+        },
+        "id": "1637400003621552128",
+        "location": "do seu ladinho",
+        "name": "smt Nana🥩",
+        "pinned_tweet_id": "1853097641594237289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853083081995145216/jPwor1Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 399,
+          "like_count": 11176,
+          "listed_count": 1,
+          "tweet_count": 3789
+        },
+        "url": "https://t.co/mUfPzkE9Q7",
+        "username": "kuro_suicide193",
+        "verified": false
+      }
+    ]
+  }
+}

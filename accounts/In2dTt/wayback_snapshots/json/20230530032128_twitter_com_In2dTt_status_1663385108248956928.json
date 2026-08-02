@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1663175196390621190",
+    "created_at": "2023-05-30T03:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-30T03:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1663385108248956928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543235589461647360",
+          "start": 0,
+          "username": "sbsbwocaonima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1663385108248956928",
+    "in_reply_to_user_id": "1543235589461647360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1663175196390621190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sbsbwocaonima 芽门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1663175196390621190",
+        "created_at": "2023-05-30T03:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-30T03:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1663385108248956928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543235589461647360",
+              "start": 0,
+              "username": "sbsbwocaonima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1663385108248956928",
+        "in_reply_to_user_id": "1543235589461647360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1663175196390621190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sbsbwocaonima 芽门"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1663175177293959169"
+          ]
+        },
+        "author_id": "1543235589461647360",
+        "conversation_id": "1663175196390621190",
+        "created_at": "2023-05-29T13:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-29T13:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1663175196390621190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LeG1HEdSND",
+              "end": 34,
+              "expanded_url": "https://twitter.com/sbsbwocaonima/status/1663175196390621190/photo/1",
+              "media_key": "3_1663175177293959169",
+              "start": 11,
+              "url": "https://t.co/LeG1HEdSND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1663175196390621190",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 3577,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "赶快加入芽教🙀🙀👉🏻 https://t.co/LeG1HEdSND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆赛博出道，尸块妄想组蓝色担当@corpse_delusion\nダーリン@hnxio65446472",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "corpse_delusion"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "hnxio65446472"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "swt tt in2d",
+        "pinned_tweet_id": "1649619319192719361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651502851280211968/GzoEoZUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21252,
+          "following_count": 155,
+          "listed_count": 26,
+          "tweet_count": 1819
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T14:10:17.000Z",
+        "description": "我身上有被shadowban的诅咒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyakoria.com",
+                "end": 23,
+                "expanded_url": "http://nyakoria.com",
+                "start": 0,
+                "url": "https://t.co/bwYstiu2R8"
+              }
+            ]
+          }
+        },
+        "id": "1543235589461647360",
+        "location": "你坟前",
+        "name": "你猜我是谁",
+        "pinned_tweet_id": "1657271285846786048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663175009450483712/kzzqGoyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 281,
+          "listed_count": 7,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/bwYstiu2R8",
+        "username": "sbsbwocaonima",
+        "verified": false
+      }
+    ]
+  }
+}

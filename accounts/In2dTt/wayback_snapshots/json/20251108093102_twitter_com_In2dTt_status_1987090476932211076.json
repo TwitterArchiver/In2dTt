@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987090435031113729",
+        "3_1987090435031113730",
+        "3_1987090435039535104",
+        "3_1987090435026911232"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987090476932211076",
+    "created_at": "2025-11-08T09:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T10:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987090476932211076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UE6ajTyNaQ",
+          "end": 27,
+          "expanded_url": "https://x.com/In2dTt/status/1987090476932211076/photo/1",
+          "media_key": "3_1987090435031113729",
+          "start": 4,
+          "url": "https://t.co/UE6ajTyNaQ"
+        },
+        {
+          "display_url": "pic.x.com/UE6ajTyNaQ",
+          "end": 27,
+          "expanded_url": "https://x.com/In2dTt/status/1987090476932211076/photo/1",
+          "media_key": "3_1987090435031113730",
+          "start": 4,
+          "url": "https://t.co/UE6ajTyNaQ"
+        },
+        {
+          "display_url": "pic.x.com/UE6ajTyNaQ",
+          "end": 27,
+          "expanded_url": "https://x.com/In2dTt/status/1987090476932211076/photo/1",
+          "media_key": "3_1987090435039535104",
+          "start": 4,
+          "url": "https://t.co/UE6ajTyNaQ"
+        },
+        {
+          "display_url": "pic.x.com/UE6ajTyNaQ",
+          "end": 27,
+          "expanded_url": "https://x.com/In2dTt/status/1987090476932211076/photo/1",
+          "media_key": "3_1987090435026911232",
+          "start": 4,
+          "url": "https://t.co/UE6ajTyNaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987090476932211076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上学中 https://t.co/UE6ajTyNaQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987090435031113729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OQOPybIAEsrxR.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987090435031113730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OQOPybIAItQh8.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987090435039535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OQOP0boAA48GH.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987090435026911232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OQOPxbAAAlm78.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987090435031113729",
+            "3_1987090435031113730",
+            "3_1987090435039535104",
+            "3_1987090435026911232"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987090476932211076",
+        "created_at": "2025-11-08T09:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T10:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987090476932211076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UE6ajTyNaQ",
+              "end": 27,
+              "expanded_url": "https://x.com/In2dTt/status/1987090476932211076/photo/1",
+              "media_key": "3_1987090435031113729",
+              "start": 4,
+              "url": "https://t.co/UE6ajTyNaQ"
+            },
+            {
+              "display_url": "pic.x.com/UE6ajTyNaQ",
+              "end": 27,
+              "expanded_url": "https://x.com/In2dTt/status/1987090476932211076/photo/1",
+              "media_key": "3_1987090435031113730",
+              "start": 4,
+              "url": "https://t.co/UE6ajTyNaQ"
+            },
+            {
+              "display_url": "pic.x.com/UE6ajTyNaQ",
+              "end": 27,
+              "expanded_url": "https://x.com/In2dTt/status/1987090476932211076/photo/1",
+              "media_key": "3_1987090435039535104",
+              "start": 4,
+              "url": "https://t.co/UE6ajTyNaQ"
+            },
+            {
+              "display_url": "pic.x.com/UE6ajTyNaQ",
+              "end": 27,
+              "expanded_url": "https://x.com/In2dTt/status/1987090476932211076/photo/1",
+              "media_key": "3_1987090435026911232",
+              "start": 4,
+              "url": "https://t.co/UE6ajTyNaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987090476932211076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上学中 https://t.co/UE6ajTyNaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28913,
+          "following_count": 276,
+          "like_count": 10546,
+          "listed_count": 26,
+          "media_count": 817,
+          "tweet_count": 3074
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

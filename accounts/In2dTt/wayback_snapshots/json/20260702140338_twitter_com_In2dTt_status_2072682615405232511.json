@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2072682615405232511",
+    "created_at": "2026-07-02T14:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072682615405232511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845610228680998912",
+          "start": 3,
+          "username": "miumio07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072682615405232511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048729631742980337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miumio07: 這里是可愛的治愈系魔法少女菜菜梦想是拯救大家 我重生了\n希望您記得我我曾這樣來過问坐标二十线上线下资询请先過 私聊口令或讚賞分別為（88\n好友）（166開放朋友圈）（288主動聊天露视频）（520爸爸）過門後獲得电子女兒 萌唉萌唉～最高級另許願520…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048729574696198144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6MsYyaoAAQIan.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2072682615405232511",
+        "created_at": "2026-07-02T14:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072682615405232511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845610228680998912",
+              "start": 3,
+              "username": "miumio07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072682615405232511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048729631742980337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miumio07: 這里是可愛的治愈系魔法少女菜菜梦想是拯救大家 我重生了\n希望您記得我我曾這樣來過问坐标二十线上线下资询请先過 私聊口令或讚賞分別為（88\n好友）（166開放朋友圈）（288主動聊天露视频）（520爸爸）過門後獲得电子女兒 萌唉萌唉～最高級另許願520…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048729574696198144"
+          ]
+        },
+        "author_id": "1845610228680998912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2048729631742980337",
+        "created_at": "2026-04-27T11:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048729631742980337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjD5z2uJZj",
+              "end": 152,
+              "expanded_url": "https://x.com/miumio07/status/2048729631742980337/photo/1",
+              "media_key": "3_2048729574696198144",
+              "start": 129,
+              "url": "https://t.co/GjD5z2uJZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048729631742980337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8615,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "這里是可愛的治愈系魔法少女菜菜梦想是拯救大家 我重生了\n希望您記得我我曾這樣來過问坐标二十线上线下资询请先過 私聊口令或讚賞分別為（88\n好友）（166開放朋友圈）（288主動聊天露视频）（520爸爸）過門後獲得电子女兒 萌唉萌唉～最高級另許願5200帶姓 https://t.co/GjD5z2uJZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28863,
+          "following_count": 294,
+          "like_count": 10733,
+          "listed_count": 24,
+          "media_count": 892,
+          "tweet_count": 3288
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T23:39:15.000Z",
+        "description": "永遠16歲的治疗魔法菜菜治疗大家的煩惱（现役神明新娘）/jojfuku/電波系/雌小鬼/戀痛/自私/善惡並存/焦虑/戒割戒o中/解锁线下🚪88/166/288/520/1314",
+        "id": "1845610228680998912",
+        "name": "菜菜miu",
+        "pinned_tweet_id": "2048729631742980337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047506442215727104/A563buTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 94,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "miumio07",
+        "verified": false
+      }
+    ]
+  }
+}

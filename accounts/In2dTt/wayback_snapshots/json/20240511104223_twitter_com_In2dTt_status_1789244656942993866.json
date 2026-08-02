@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1789244624374272000"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1789244656942993866",
+    "created_at": "2024-05-11T10:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T11:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789244656942993866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/SV5QjEnPot",
+          "end": 30,
+          "expanded_url": "https://twitter.com/In2dTt/status/1789244656942993866/video/1",
+          "media_key": "7_1789244624374272000",
+          "start": 7,
+          "url": "https://t.co/SV5QjEnPot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789244656942993866",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刘海夹起来了 https://t.co/SV5QjEnPot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17901,
+        "height": 720,
+        "media_key": "7_1789244624374272000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1789244624374272000/pu/img/Y7UZzsCJ--wCWSc-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1789244624374272000/pu/vid/avc1/360x270/L0Bw9-QuvRQP8wRJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1789244624374272000/pu/vid/avc1/480x360/h3RH4XTOlYgHh0_5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1789244624374272000/pu/vid/avc1/960x720/FIWurQQLxcb9ALoQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1789244624374272000/pu/pl/V_Oo4Ow3BF0St93P.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1789244624374272000"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1789244656942993866",
+        "created_at": "2024-05-11T10:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T11:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789244656942993866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SV5QjEnPot",
+              "end": 30,
+              "expanded_url": "https://twitter.com/In2dTt/status/1789244656942993866/video/1",
+              "media_key": "7_1789244624374272000",
+              "start": 7,
+              "url": "https://t.co/SV5QjEnPot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789244656942993866",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刘海夹起来了 https://t.co/SV5QjEnPot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24680,
+          "following_count": 226,
+          "like_count": 10363,
+          "listed_count": 25,
+          "tweet_count": 2847
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

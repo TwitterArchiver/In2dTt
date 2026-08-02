@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067206008716632064",
+        "3_2067206016538980352",
+        "3_2067206024499707904"
+      ],
+      "media_source_tweet_id": [
+        "2067206031093157938",
+        "2067206031093157938",
+        "2067206031093157938"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2067463125738377552",
+    "created_at": "2026-06-18T04:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067463125738377552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "264024116",
+          "start": 3,
+          "username": "abtmishaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/onLf1T8xwh",
+          "end": 77,
+          "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+          "media_key": "3_2067206008716632064",
+          "start": 54,
+          "url": "https://t.co/onLf1T8xwh"
+        },
+        {
+          "display_url": "pic.x.com/onLf1T8xwh",
+          "end": 77,
+          "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+          "media_key": "3_2067206016538980352",
+          "start": 54,
+          "url": "https://t.co/onLf1T8xwh"
+        },
+        {
+          "display_url": "pic.x.com/onLf1T8xwh",
+          "end": 77,
+          "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+          "media_key": "3_2067206024499707904",
+          "start": 54,
+          "url": "https://t.co/onLf1T8xwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067463125738377552",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4560
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067206031093157938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abtmishaw: KOK BISA YA KAMAR MANDI SELUCU INI 😭🍓🍵 https://t.co/onLf1T8xwh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2067206008716632064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAw6ZMboAADqUQ.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1566,
+        "media_key": "3_2067206016538980352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAw62VbMAAWqpk.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1562,
+        "media_key": "3_2067206024499707904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAw7T_aQAA4YfR.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067206008716632064",
+            "3_2067206016538980352",
+            "3_2067206024499707904"
+          ],
+          "media_source_tweet_id": [
+            "2067206031093157938",
+            "2067206031093157938",
+            "2067206031093157938"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2067463125738377552",
+        "created_at": "2026-06-18T04:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067463125738377552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "264024116",
+              "start": 3,
+              "username": "abtmishaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/onLf1T8xwh",
+              "end": 77,
+              "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+              "media_key": "3_2067206008716632064",
+              "start": 54,
+              "url": "https://t.co/onLf1T8xwh"
+            },
+            {
+              "display_url": "pic.x.com/onLf1T8xwh",
+              "end": 77,
+              "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+              "media_key": "3_2067206016538980352",
+              "start": 54,
+              "url": "https://t.co/onLf1T8xwh"
+            },
+            {
+              "display_url": "pic.x.com/onLf1T8xwh",
+              "end": 77,
+              "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+              "media_key": "3_2067206024499707904",
+              "start": 54,
+              "url": "https://t.co/onLf1T8xwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067463125738377552",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4560
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067206031093157938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abtmishaw: KOK BISA YA KAMAR MANDI SELUCU INI 😭🍓🍵 https://t.co/onLf1T8xwh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067206008716632064",
+            "3_2067206016538980352",
+            "3_2067206024499707904"
+          ]
+        },
+        "author_id": "264024116",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2067206031093157938",
+        "created_at": "2026-06-17T11:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067206031093157938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onLf1T8xwh",
+              "end": 62,
+              "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+              "media_key": "3_2067206008716632064",
+              "start": 39,
+              "url": "https://t.co/onLf1T8xwh"
+            },
+            {
+              "display_url": "pic.x.com/onLf1T8xwh",
+              "end": 62,
+              "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+              "media_key": "3_2067206016538980352",
+              "start": 39,
+              "url": "https://t.co/onLf1T8xwh"
+            },
+            {
+              "display_url": "pic.x.com/onLf1T8xwh",
+              "end": 62,
+              "expanded_url": "https://x.com/abtmishaw/status/2067206031093157938/photo/1",
+              "media_key": "3_2067206024499707904",
+              "start": 39,
+              "url": "https://t.co/onLf1T8xwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067206031093157938",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11583,
+          "impression_count": 2080597,
+          "like_count": 85071,
+          "quote_count": 1349,
+          "reply_count": 301,
+          "retweet_count": 4560
+        },
+        "reply_settings": "everyone",
+        "text": "KOK BISA YA KAMAR MANDI SELUCU INI 😭🍓🍵 https://t.co/onLf1T8xwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28848,
+          "following_count": 294,
+          "like_count": 10670,
+          "listed_count": 24,
+          "media_count": 882,
+          "tweet_count": 3259
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-11T05:30:13.000Z",
+        "description": "princess",
+        "id": "264024116",
+        "name": "runa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045056968029769728/oZUj3Q12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 22,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "abtmishaw",
+        "verified": false
+      }
+    ]
+  }
+}

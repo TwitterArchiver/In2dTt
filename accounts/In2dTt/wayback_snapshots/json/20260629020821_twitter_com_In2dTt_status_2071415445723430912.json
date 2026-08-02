@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071257243312410624"
+      ],
+      "media_source_tweet_id": [
+        "2071257302712156498"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2071415445723430912",
+    "created_at": "2026-06-29T02:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071415445723430912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1782546886760554496",
+          "start": 3,
+          "username": "brainrotpostig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ks0a5OPh6f",
+          "end": 43,
+          "expanded_url": "https://x.com/brainrotpostig/status/2071257302712156498/video/1",
+          "media_key": "13_2071257243312410624",
+          "start": 20,
+          "url": "https://t.co/ks0a5OPh6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071415445723430912",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1827
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071257302712156498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brainrotpostig: https://t.co/ks0a5OPh6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10379,
+        "height": 668,
+        "media_key": "13_2071257243312410624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071257243312410624/img/CgAwYnyyDD5Yfxoc.jpg",
+        "public_metrics": {
+          "view_count": 59234
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071257243312410624/vid/avc1/290x270/mEdoGIK0QkKGNmxu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071257243312410624/vid/avc1/388x360/itX0fNa5LMrQhPXG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071257243312410624/vid/avc1/720x668/5YUOfOd0oIDAOpPW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071257243312410624/pl/4ZdMnWG1h0ykLaL4.m3u8?v=dc4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071257243312410624"
+          ],
+          "media_source_tweet_id": [
+            "2071257302712156498"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2071415445723430912",
+        "created_at": "2026-06-29T02:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071415445723430912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1782546886760554496",
+              "start": 3,
+              "username": "brainrotpostig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ks0a5OPh6f",
+              "end": 43,
+              "expanded_url": "https://x.com/brainrotpostig/status/2071257302712156498/video/1",
+              "media_key": "13_2071257243312410624",
+              "start": 20,
+              "url": "https://t.co/ks0a5OPh6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071415445723430912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1827
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071257302712156498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brainrotpostig: https://t.co/ks0a5OPh6f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071257243312410624"
+          ]
+        },
+        "author_id": "1782546886760554496",
+        "conversation_id": "2071257302712156498",
+        "created_at": "2026-06-28T15:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071257302712156498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ks0a5OPh6f",
+              "end": 23,
+              "expanded_url": "https://x.com/brainrotpostig/status/2071257302712156498/video/1",
+              "media_key": "13_2071257243312410624",
+              "start": 0,
+              "url": "https://t.co/ks0a5OPh6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071257302712156498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1392,
+          "impression_count": 113466,
+          "like_count": 11038,
+          "quote_count": 39,
+          "reply_count": 25,
+          "retweet_count": 1827
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ks0a5OPh6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28867,
+          "following_count": 295,
+          "like_count": 10730,
+          "listed_count": 24,
+          "media_count": 888,
+          "tweet_count": 3285
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T23:07:56.000Z",
+        "description": "shi that make me lol and cringe | for comedic purposes only | Please send DM for CREDITS and REMOVAL | Minors DNI❗️\n\n| 2condary: @rottedimension |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rottedimension"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@idkdude6665?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@idkdude6665?si=RZz0sxmTIrA5avNm",
+                "start": 0,
+                "url": "https://t.co/sHHjtQN2c9"
+              }
+            ]
+          }
+        },
+        "id": "1782546886760554496",
+        "name": "brainrot dimension",
+        "pinned_tweet_id": "2068142229772718586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811114902213312512/MPJzaiHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187354,
+          "following_count": 12,
+          "like_count": 6883,
+          "listed_count": 208,
+          "media_count": 9017,
+          "tweet_count": 10183
+        },
+        "url": "https://t.co/sHHjtQN2c9",
+        "username": "brainrotpostig",
+        "verified": true
+      }
+    ]
+  }
+}

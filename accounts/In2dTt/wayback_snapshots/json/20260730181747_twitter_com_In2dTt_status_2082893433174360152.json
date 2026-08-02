@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082893424206991360",
+        "3_2082893424173436928"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2082893433174360152",
+    "created_at": "2026-07-30T18:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082893433174360152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6n8dORTQX",
+          "end": 55,
+          "expanded_url": "https://x.com/In2dTt/status/2082893433174360152/photo/1",
+          "media_key": "3_2082893424206991360",
+          "start": 32,
+          "url": "https://t.co/H6n8dORTQX"
+        },
+        {
+          "display_url": "pic.x.com/H6n8dORTQX",
+          "end": 55,
+          "expanded_url": "https://x.com/In2dTt/status/2082893433174360152/photo/1",
+          "media_key": "3_2082893424173436928",
+          "start": 32,
+          "url": "https://t.co/H6n8dORTQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082893433174360152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明是同框 这个人的五官却立体到感觉我和他不是一个图层 羡慕啊 https://t.co/H6n8dORTQX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082893424206991360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfsiJ7a0AAqj09.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082893424173436928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfsiJza0AAaFBH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082893424206991360",
+            "3_2082893424173436928"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2082893433174360152",
+        "created_at": "2026-07-30T18:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082893433174360152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6n8dORTQX",
+              "end": 55,
+              "expanded_url": "https://x.com/In2dTt/status/2082893433174360152/photo/1",
+              "media_key": "3_2082893424206991360",
+              "start": 32,
+              "url": "https://t.co/H6n8dORTQX"
+            },
+            {
+              "display_url": "pic.x.com/H6n8dORTQX",
+              "end": 55,
+              "expanded_url": "https://x.com/In2dTt/status/2082893433174360152/photo/1",
+              "media_key": "3_2082893424173436928",
+              "start": 32,
+              "url": "https://t.co/H6n8dORTQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082893433174360152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明是同框 这个人的五官却立体到感觉我和他不是一个图层 羡慕啊 https://t.co/H6n8dORTQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28868,
+          "following_count": 316,
+          "like_count": 10975,
+          "listed_count": 24,
+          "media_count": 848,
+          "tweet_count": 3187
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

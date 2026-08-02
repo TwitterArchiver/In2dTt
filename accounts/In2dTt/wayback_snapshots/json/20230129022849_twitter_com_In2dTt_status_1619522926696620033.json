@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1619522870601809920"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1619522926696620033",
+    "created_at": "2023-01-29T02:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-29T02:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1619522926696620033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ZwluEW1DNW",
+          "end": 23,
+          "expanded_url": "https://twitter.com/In2dTt/status/1619522926696620033/video/1",
+          "media_key": "7_1619522870601809920",
+          "start": 0,
+          "url": "https://t.co/ZwluEW1DNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1619522926696620033",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ZwluEW1DNW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10745,
+        "height": 1280,
+        "media_key": "7_1619522870601809920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1619522870601809920/pu/img/pQyLqm-FSBRtNk6i.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1619522870601809920/pu/pl/zqy2S8qOH74qS1sq.m3u8?tag=12&container=fmp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1619522870601809920/pu/vid/480x852/yCpzcl-BB73h3Eo4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1619522870601809920/pu/vid/320x568/8eK1Mn0M5as2NApw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1619522870601809920/pu/vid/720x1280/nRV4jwDp0vqG6v-B.mp4?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1619522870601809920"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1619522926696620033",
+        "created_at": "2023-01-29T02:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-29T02:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1619522926696620033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZwluEW1DNW",
+              "end": 23,
+              "expanded_url": "https://twitter.com/In2dTt/status/1619522926696620033/video/1",
+              "media_key": "7_1619522870601809920",
+              "start": 0,
+              "url": "https://t.co/ZwluEW1DNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1619522926696620033",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZwluEW1DNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆赛博出道，尸块妄想组蓝色担当@corpse_delusion  爱人是@kanako_0223ff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "corpse_delusion"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "kanako_0223ff"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处",
+        "name": "swt tt in2d",
+        "pinned_tweet_id": "1585977642112913408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603246975876739072/MSTjV3b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12494,
+          "following_count": 90,
+          "listed_count": 15,
+          "tweet_count": 973
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

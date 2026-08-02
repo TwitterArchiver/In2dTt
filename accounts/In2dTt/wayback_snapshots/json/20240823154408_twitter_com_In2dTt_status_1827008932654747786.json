@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1827008932654747786",
+    "created_at": "2024-08-23T15:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T16:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827008932654747786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/In2dTt/status/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/In2dTt/status/1818502797895114802",
+          "start": 21,
+          "url": "https://t.co/ay7ZzbJzR7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827008932654747786",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818502797895114802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老婆qwqo(*////▽////*)q https://t.co/ay7ZzbJzR7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1827008932654747786",
+        "created_at": "2024-08-23T15:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T16:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827008932654747786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/In2dTt/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/In2dTt/status/1818502797895114802",
+              "start": 21,
+              "url": "https://t.co/ay7ZzbJzR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827008932654747786",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818502797895114802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老婆qwqo(*////▽////*)q https://t.co/ay7ZzbJzR7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818502752940515329",
+            "3_1818502752948961280"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1818502797895114802",
+        "created_at": "2024-07-31T04:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T05:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818502797895114802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xw3apzshku",
+              "end": 23,
+              "expanded_url": "https://twitter.com/In2dTt/status/1818502797895114802/photo/1",
+              "media_key": "3_1818502752940515329",
+              "start": 0,
+              "url": "https://t.co/Xw3APZShku"
+            },
+            {
+              "display_url": "pic.x.com/xw3apzshku",
+              "end": 23,
+              "expanded_url": "https://twitter.com/In2dTt/status/1818502797895114802/photo/1",
+              "media_key": "3_1818502752948961280",
+              "start": 0,
+              "url": "https://t.co/Xw3APZShku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818502797895114802",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17159,
+          "like_count": 276,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xw3APZShku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤退网啦 现在这个账号是注注啦",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "注注",
+        "pinned_tweet_id": "1813978235988070836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813978645813428224/kqDaH-8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27815,
+          "following_count": 230,
+          "like_count": 10478,
+          "listed_count": 28,
+          "tweet_count": 3024
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

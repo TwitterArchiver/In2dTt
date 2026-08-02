@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1860602706760458240"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1860602730038866030",
+    "created_at": "2024-11-24T08:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T09:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860602730038866030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qgnnnX3f7l",
+          "end": 30,
+          "expanded_url": "https://x.com/In2dTt/status/1860602730038866030/video/1",
+          "media_key": "7_1860602706760458240",
+          "start": 7,
+          "url": "https://t.co/qgnnnX3f7l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860602730038866030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "過期的水煙槍 https://t.co/qgnnnX3f7l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6541,
+        "height": 1280,
+        "media_key": "7_1860602706760458240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1860602706760458240/pu/img/NaN26NauwVMJSX8k.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860602706760458240/pu/vid/avc1/320x568/jfZBBgRVxtp0hkW1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860602706760458240/pu/vid/avc1/480x852/I-BCBM7ysjYu33n0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860602706760458240/pu/vid/avc1/720x1280/TRHg1vcew9xaIn3R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1860602706760458240/pu/pl/OqzLwBbl0Ix5pZdV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860602706760458240"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1860602730038866030",
+        "created_at": "2024-11-24T08:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T09:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860602730038866030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgnnnX3f7l",
+              "end": 30,
+              "expanded_url": "https://x.com/In2dTt/status/1860602730038866030/video/1",
+              "media_key": "7_1860602706760458240",
+              "start": 7,
+              "url": "https://t.co/qgnnnX3f7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860602730038866030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "過期的水煙槍 https://t.co/qgnnnX3f7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29794,
+          "following_count": 258,
+          "like_count": 10791,
+          "listed_count": 28,
+          "tweet_count": 3195
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

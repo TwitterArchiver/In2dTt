@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1868570573489762415",
+    "created_at": "2024-12-16T08:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T09:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868574686306832747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1570069037496819714",
+          "start": 0,
+          "username": "MercuryRepel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868574686306832747",
+    "in_reply_to_user_id": "1570069037496819714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868574557990424851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MercuryRepel 完了 我是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1868570573489762415",
+        "created_at": "2024-12-16T08:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T09:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868574686306832747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1570069037496819714",
+              "start": 0,
+              "username": "MercuryRepel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868574686306832747",
+        "in_reply_to_user_id": "1570069037496819714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868574557990424851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MercuryRepel 完了 我是男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "1868570573489762415",
+        "created_at": "2024-12-16T08:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T09:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868574557990424851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868574557990424851",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868570573489762415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 一般男的都这么想（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "痛い",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1867914851219325130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867923776899268608/uCet3MkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29880,
+          "following_count": 265,
+          "like_count": 10934,
+          "listed_count": 28,
+          "media_count": 895,
+          "tweet_count": 3295
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "疏乞巧是一只🐛丨🩸@skmt26628703丨telegram: https://t.co/aI2cuJM2W8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "skmt26628703"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 56,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 33,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "name": "疏 乞巧🍥🪑🪑🍳🇨🇳🌈🎮👭👩‍❤️‍👩👩‍❤️‍💋‍👩🌐☮️🤟",
+        "pinned_tweet_id": "1862757874952544473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836503921852059653/F0xpyBfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 732,
+          "like_count": 34557,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 5406
+        },
+        "username": "MercuryRepel",
+        "verified": false
+      }
+    ]
+  }
+}

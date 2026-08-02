@@ -1,0 +1,182 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1791079499159015656",
+    "created_at": "2024-05-16T12:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T13:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791081801575997856"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1791081801575997856",
+    "in_reply_to_user_id": "1548471557873610752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791079499159015656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已經賣出去了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1791079499159015656",
+        "created_at": "2024-05-16T12:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T13:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791081801575997856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791081801575997856",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791079499159015656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已經賣出去了！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791079486634721280",
+            "3_1791079486638960640"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1791079499159015656",
+        "created_at": "2024-05-16T12:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T13:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791079499159015656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/56vHfMybFh",
+              "end": 52,
+              "expanded_url": "https://twitter.com/In2dTt/status/1791079499159015656/photo/1",
+              "media_key": "3_1791079486634721280",
+              "start": 29,
+              "url": "https://t.co/56vHfMybFh"
+            },
+            {
+              "display_url": "pic.twitter.com/56vHfMybFh",
+              "end": 52,
+              "expanded_url": "https://twitter.com/In2dTt/status/1791079499159015656/photo/1",
+              "media_key": "3_1791079486638960640",
+              "start": 29,
+              "url": "https://t.co/56vHfMybFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791079499159015656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 98,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "99r包郵 均碼 想要請私信 可以分期付款 求你們買一下 https://t.co/56vHfMybFh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24648,
+          "following_count": 225,
+          "like_count": 10381,
+          "listed_count": 24,
+          "tweet_count": 2868
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

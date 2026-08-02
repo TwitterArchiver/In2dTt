@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1855290268070944768"
+      ],
+      "media_source_tweet_id": [
+        "1855290380297936929"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1855299452879196214",
+    "created_at": "2024-11-09T17:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T18:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855299452879196214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1467368317258248192",
+          "start": 3,
+          "username": "loolzaozmin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YCzOjxUeit",
+          "end": 40,
+          "expanded_url": "https://x.com/loolzaozmin/status/1855290380297936929/video/1",
+          "media_key": "7_1855290268070944768",
+          "start": 17,
+          "url": "https://t.co/YCzOjxUeit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855299452879196214",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855290380297936929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loolzaozmin: https://t.co/YCzOjxUeit"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20216,
+        "height": 960,
+        "media_key": "7_1855290268070944768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1855290268070944768/pu/img/xwn_Tq5jt5P9lDyb.jpg",
+        "public_metrics": {
+          "view_count": 99
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855290268070944768/pu/vid/avc1/320x426/BfuKB-KxJ_ei5SMs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855290268070944768/pu/vid/avc1/480x640/z-ev-Ozlq6DeufLj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855290268070944768/pu/vid/avc1/720x960/S3MBdNQJbJ2CDRUu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1855290268070944768/pu/pl/ZK0ocCHkagTRV2SD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855290268070944768"
+          ],
+          "media_source_tweet_id": [
+            "1855290380297936929"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1855299452879196214",
+        "created_at": "2024-11-09T17:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T18:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855299452879196214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1467368317258248192",
+              "start": 3,
+              "username": "loolzaozmin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCzOjxUeit",
+              "end": 40,
+              "expanded_url": "https://x.com/loolzaozmin/status/1855290380297936929/video/1",
+              "media_key": "7_1855290268070944768",
+              "start": 17,
+              "url": "https://t.co/YCzOjxUeit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855299452879196214",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855290380297936929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loolzaozmin: https://t.co/YCzOjxUeit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855290268070944768"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "conversation_id": "1855290380297936929",
+        "created_at": "2024-11-09T16:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T17:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855290380297936929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCzOjxUeit",
+              "end": 23,
+              "expanded_url": "https://x.com/loolzaozmin/status/1855290380297936929/video/1",
+              "media_key": "7_1855290268070944768",
+              "start": 0,
+              "url": "https://t.co/YCzOjxUeit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855290380297936929",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YCzOjxUeit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27921,
+          "following_count": 253,
+          "like_count": 10629,
+          "listed_count": 26,
+          "tweet_count": 3143
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜泛性戀｜ta/它｜非二元性別｜自闭症 寵物｜多个灵魂操控的账号",
+        "id": "1467368317258248192",
+        "location": "🚪：188 1888 接妈妈活 ",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "1768900241447927965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855165987668344832/-dgDWV7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8144,
+          "following_count": 192,
+          "like_count": 487,
+          "listed_count": 11,
+          "tweet_count": 437
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

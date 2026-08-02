@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1974724821679542376",
+    "created_at": "2025-10-05T06:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T07:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974724821679542376"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974724821679542376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我假装链接宇宙趁机和你表白你什么也没说我以为你不喜欢我所以假装忘记了 但后来你说你只是怕我清醒会后悔所以没有回答 你说你怕我别的人格记不住你 其实我装的我根本就没有别的人格 我只是怕搞砸一切所以把什么都往别的人格身上推 你真的特别善良 和你呆在一起不需要药物你是完全真实的天使"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1974724821679542376",
+        "created_at": "2025-10-05T06:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974724821679542376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974724821679542376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我假装链接宇宙趁机和你表白你什么也没说我以为你不喜欢我所以假装忘记了 但后来你说你只是怕我清醒会后悔所以没有回答 你说你怕我别的人格记不住你 其实我装的我根本就没有别的人格 我只是怕搞砸一切所以把什么都往别的人格身上推 你真的特别善良 和你呆在一起不需要药物你是完全真实的天使"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29032,
+          "following_count": 268,
+          "like_count": 10532,
+          "listed_count": 26,
+          "media_count": 793,
+          "tweet_count": 3023
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

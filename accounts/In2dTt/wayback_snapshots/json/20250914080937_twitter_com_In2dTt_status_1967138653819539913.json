@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1967138530741964800"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1967138653819539913",
+    "created_at": "2025-09-14T08:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T09:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967138653819539913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9U19SKnhHZ",
+          "end": 29,
+          "expanded_url": "https://x.com/In2dTt/status/1967138653819539913/video/1",
+          "media_key": "13_1967138530741964800",
+          "start": 6,
+          "url": "https://t.co/9U19SKnhHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967138653819539913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "國產區精選 https://t.co/9U19SKnhHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29333,
+        "height": 1280,
+        "media_key": "13_1967138530741964800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967138530741964800/img/sGvjkZQR39f8TfI6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967138530741964800/vid/avc1/320x624/POKesycqc5hV7wcf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967138530741964800/vid/avc1/480x936/5zxvSMKXlAcKW3wE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967138530741964800/vid/avc1/656x1280/z7KkCFKzDj9WSjTN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967138530741964800/pl/0MEvOvfRjNOLGF4p.m3u8"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967138530741964800"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1967138653819539913",
+        "created_at": "2025-09-14T08:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967138653819539913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9U19SKnhHZ",
+              "end": 29,
+              "expanded_url": "https://x.com/In2dTt/status/1967138653819539913/video/1",
+              "media_key": "13_1967138530741964800",
+              "start": 6,
+              "url": "https://t.co/9U19SKnhHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967138653819539913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "國產區精選 https://t.co/9U19SKnhHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29163,
+          "following_count": 265,
+          "like_count": 10520,
+          "listed_count": 26,
+          "media_count": 782,
+          "tweet_count": 2998
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

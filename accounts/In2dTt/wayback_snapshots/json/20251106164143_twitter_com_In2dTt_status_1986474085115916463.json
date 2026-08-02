@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1986285420167184477",
+    "created_at": "2025-11-06T16:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T17:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986474085115916463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "713387067795836928",
+          "start": 0,
+          "username": "kanappiiin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986474085115916463",
+    "in_reply_to_user_id": "713387067795836928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986445875300970550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanappiiin 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1986285420167184477",
+        "created_at": "2025-11-06T16:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986474085115916463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "713387067795836928",
+              "start": 0,
+              "username": "kanappiiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986474085115916463",
+        "in_reply_to_user_id": "713387067795836928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986445875300970550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanappiiin 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "713387067795836928",
+        "conversation_id": "1986285420167184477",
+        "created_at": "2025-11-06T14:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986445875300970550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986445875300970550",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986285420167184477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 鼻血？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28915,
+          "following_count": 275,
+          "like_count": 10528,
+          "listed_count": 26,
+          "media_count": 814,
+          "tweet_count": 3065
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-25T15:28:25.000Z",
+        "description": "ただの鼻血フェチ",
+        "id": "713387067795836928",
+        "name": "かな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/836436417836273664/ZvHYHvO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 877,
+          "like_count": 752,
+          "listed_count": 5,
+          "media_count": 0,
+          "tweet_count": 540
+        },
+        "username": "kanappiiin",
+        "verified": false
+      }
+    ]
+  }
+}

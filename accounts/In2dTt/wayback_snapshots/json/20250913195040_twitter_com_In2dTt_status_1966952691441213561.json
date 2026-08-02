@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1966905808572346820",
+    "created_at": "2025-09-13T19:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T20:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966952691441213561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1339569680978042880",
+          "start": 0,
+          "username": "2BIG17"
+        },
+        {
+          "end": 23,
+          "id": "1557839863151337473",
+          "start": 8,
+          "username": "scutigera_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966952691441213561",
+    "in_reply_to_user_id": "1339569680978042880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966926567600439323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2BIG17 @scutigera_8964 滾 我不o就這樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1966905808572346820",
+        "created_at": "2025-09-13T19:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966952691441213561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1339569680978042880",
+              "start": 0,
+              "username": "2BIG17"
+            },
+            {
+              "end": 23,
+              "id": "1557839863151337473",
+              "start": 8,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966952691441213561",
+        "in_reply_to_user_id": "1339569680978042880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966926567600439323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2BIG17 @scutigera_8964 滾 我不o就這樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339569680978042880",
+        "conversation_id": "1966905808572346820",
+        "created_at": "2025-09-13T18:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T19:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966926567600439323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966926567600439323",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966905808572346820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_8964 汤汤你不会他妈的又o了吧我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29173,
+          "following_count": 260,
+          "like_count": 10493,
+          "listed_count": 26,
+          "media_count": 780,
+          "tweet_count": 2989
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T13:54:47.000Z",
+        "description": "厨师 疲惫的预备役社畜 业余coser",
+        "id": "1339569680978042880",
+        "location": "四川市成都省省医院停尸房",
+        "name": "UUAC",
+        "pinned_tweet_id": "1782278982718902375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869419059089162240/dPW6i-El_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 500,
+          "like_count": 11727,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2200
+        },
+        "username": "2BIG17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "♂/お幸せに/無言フォローすいません/dm大歓迎/我的一生从头到尾写满了失败/@mentallychels",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "kuma（咪啪☆～）",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964361527290712065/slQv5jxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4479,
+          "following_count": 3415,
+          "like_count": 33708,
+          "listed_count": 7,
+          "media_count": 414,
+          "tweet_count": 8586
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1860857566781157815",
+    "created_at": "2024-11-25T01:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T02:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860857566781157815"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1860857566781157815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "從去年開始 我媽不讓我和他們一起洗衣服 我的衣服我必須單獨手洗 因為我媽一直說我有性病別傳染給他們 我明明沒有 她帶我做的檢查知道我沒有 但是還是排擠我 我只好說對對我有性病 不讓我和他們坐沙發上  今天又跟我說要把我嫁出去 她幾乎每天都要讓我物色人去嫁 我想要akira她說akira沒錢 好崩潰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1860857566781157815",
+        "created_at": "2024-11-25T01:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T02:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860857566781157815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860857566781157815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "從去年開始 我媽不讓我和他們一起洗衣服 我的衣服我必須單獨手洗 因為我媽一直說我有性病別傳染給他們 我明明沒有 她帶我做的檢查知道我沒有 但是還是排擠我 我只好說對對我有性病 不讓我和他們坐沙發上  今天又跟我說要把我嫁出去 她幾乎每天都要讓我物色人去嫁 我想要akira她說akira沒錢 好崩潰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "ダーリン@In2dKira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "In2dKira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29804,
+          "following_count": 258,
+          "like_count": 10808,
+          "listed_count": 28,
+          "tweet_count": 3206
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

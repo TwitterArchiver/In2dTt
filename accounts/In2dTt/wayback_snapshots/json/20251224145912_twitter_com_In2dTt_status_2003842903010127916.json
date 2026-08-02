@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2003842903010127916",
+    "created_at": "2025-12-24T14:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T15:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003842903010127916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/in2dtt/status/…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/in2dtt/status/2003443935465865678",
+          "start": 71,
+          "url": "https://t.co/jlHZKZlbCy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003842903010127916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003443935465865678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道能用什么办法捞人或者说是举报 大家有建议可以提一下或者宣传一下  有知情人告诉我这个学校除了体罚还会以剥夺睡眠限制饮食等方式惩罚学生 https://t.co/jlHZKZlbCy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2003443818297737216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82pib0WwAA8Jiv.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2003443818301911040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82pib1WcAAGT4M.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2003842903010127916",
+        "created_at": "2025-12-24T14:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003842903010127916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/in2dtt/status/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/in2dtt/status/2003443935465865678",
+              "start": 71,
+              "url": "https://t.co/jlHZKZlbCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003842903010127916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003443935465865678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道能用什么办法捞人或者说是举报 大家有建议可以提一下或者宣传一下  有知情人告诉我这个学校除了体罚还会以剥夺睡眠限制饮食等方式惩罚学生 https://t.co/jlHZKZlbCy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003443818297737216",
+            "3_2003443818301911040"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2003443935465865678",
+        "created_at": "2025-12-23T12:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003443935465865678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKxOrrpyYo",
+              "end": 94,
+              "expanded_url": "https://x.com/In2dTt/status/2003443935465865678/photo/1",
+              "media_key": "3_2003443818297737216",
+              "start": 71,
+              "url": "https://t.co/wKxOrrpyYo"
+            },
+            {
+              "display_url": "pic.x.com/wKxOrrpyYo",
+              "end": 94,
+              "expanded_url": "https://x.com/In2dTt/status/2003443935465865678/photo/1",
+              "media_key": "3_2003443818301911040",
+              "start": 71,
+              "url": "https://t.co/wKxOrrpyYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003443935465865678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 188115,
+          "like_count": 496,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "图中这个是几个月前和我玩的小女孩被送进了广州青少年和谐心理学校 这个学校是封闭式军训学校 会对学生体罚 严格分等级制度 学校有很多个宣传账号 https://t.co/wKxOrrpyYo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28898,
+          "following_count": 289,
+          "like_count": 10625,
+          "listed_count": 26,
+          "media_count": 828,
+          "tweet_count": 3118
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

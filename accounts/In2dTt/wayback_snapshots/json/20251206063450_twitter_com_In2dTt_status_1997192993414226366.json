@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1996182964678660561",
+    "created_at": "2025-12-06T06:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997192993414226366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868344965539188736",
+          "start": 0,
+          "username": "AmirAlex_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997192993414226366",
+    "in_reply_to_user_id": "1868344965539188736",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996424057068397008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmirAlex_ 5\n7\n5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1996182964678660561",
+        "created_at": "2025-12-06T06:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997192993414226366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868344965539188736",
+              "start": 0,
+              "username": "AmirAlex_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997192993414226366",
+        "in_reply_to_user_id": "1868344965539188736",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996424057068397008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmirAlex_ 5\n7\n5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868344965539188736",
+        "conversation_id": "1996182964678660561",
+        "created_at": "2025-12-04T03:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T04:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996424057068397008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996424057068397008",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996182964678660561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 12345\n1234567\n12345"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28874,
+          "following_count": 286,
+          "like_count": 10586,
+          "listed_count": 26,
+          "media_count": 818,
+          "tweet_count": 3100
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T17:18:55.000Z",
+        "description": "06年·末流985本科 专注撸毛｜Web3新手玩家 这是我从0开始变成币圈KOL的日记",
+        "id": "1868344965539188736",
+        "location": "Yau Tsim Mong District",
+        "name": "AmirCrypto 🌊RIVER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957507143223111681/39qc_E6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 310,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 502
+        },
+        "username": "AmirAlex_",
+        "verified": false
+      }
+    ]
+  }
+}

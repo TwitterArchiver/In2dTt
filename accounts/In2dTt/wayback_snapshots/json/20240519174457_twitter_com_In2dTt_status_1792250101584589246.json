@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1792250081569361920"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1792250101584589246",
+    "created_at": "2024-05-19T17:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T18:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792250101584589246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/icWnDjS0so",
+          "end": 28,
+          "expanded_url": "https://twitter.com/In2dTt/status/1792250101584589246/video/1",
+          "media_key": "7_1792250081569361920",
+          "start": 5,
+          "url": "https://t.co/icWnDjS0so"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792250101584589246",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "藍色星球 https://t.co/icWnDjS0so"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13296,
+        "height": 730,
+        "media_key": "7_1792250081569361920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1792250081569361920/pu/img/FhhH98C3P4PzPlc0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1792250081569361920/pu/vid/avc1/320x324/_SG-wRjwhu-VRHoE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1792250081569361920/pu/vid/avc1/480x486/dymaGeOOaaxvX2aA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1792250081569361920/pu/vid/avc1/720x730/F7BQBgQAu7bggN5b.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1792250081569361920/pu/pl/1QFsI5xYF6Fjr6UP.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1792250081569361920"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1792250101584589246",
+        "created_at": "2024-05-19T17:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T18:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792250101584589246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/icWnDjS0so",
+              "end": 28,
+              "expanded_url": "https://twitter.com/In2dTt/status/1792250101584589246/video/1",
+              "media_key": "7_1792250081569361920",
+              "start": 5,
+              "url": "https://t.co/icWnDjS0so"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792250101584589246",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "藍色星球 https://t.co/icWnDjS0so"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24674,
+          "following_count": 224,
+          "like_count": 10396,
+          "listed_count": 24,
+          "tweet_count": 2877
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

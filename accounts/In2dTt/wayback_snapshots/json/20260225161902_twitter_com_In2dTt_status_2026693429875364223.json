@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026691226444115971"
+      ],
+      "media_source_tweet_id": [
+        "2026691239047999542"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2026693429875364223",
+    "created_at": "2026-02-25T16:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T17:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026693429875364223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358061535340290048",
+          "start": 3,
+          "username": "Uni_btt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BxdgGaI3fm",
+          "end": 36,
+          "expanded_url": "https://x.com/Uni_btt/status/2026691239047999542/photo/1",
+          "media_key": "3_2026691226444115971",
+          "start": 13,
+          "url": "https://t.co/BxdgGaI3fm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026693429875364223",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026691239047999542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uni_btt: https://t.co/BxdgGaI3fm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2026691226444115971",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBA7r2aMAMuMT5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026691226444115971"
+          ],
+          "media_source_tweet_id": [
+            "2026691239047999542"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2026693429875364223",
+        "created_at": "2026-02-25T16:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026693429875364223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358061535340290048",
+              "start": 3,
+              "username": "Uni_btt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxdgGaI3fm",
+              "end": 36,
+              "expanded_url": "https://x.com/Uni_btt/status/2026691239047999542/photo/1",
+              "media_key": "3_2026691226444115971",
+              "start": 13,
+              "url": "https://t.co/BxdgGaI3fm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026693429875364223",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026691239047999542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uni_btt: https://t.co/BxdgGaI3fm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026691226444115971"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "2026691239047999542",
+        "created_at": "2026-02-25T16:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026691239047999542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxdgGaI3fm",
+              "end": 23,
+              "expanded_url": "https://x.com/Uni_btt/status/2026691239047999542/photo/1",
+              "media_key": "3_2026691226444115971",
+              "start": 0,
+              "url": "https://t.co/BxdgGaI3fm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026691239047999542",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BxdgGaI3fm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28792,
+          "following_count": 297,
+          "like_count": 10666,
+          "listed_count": 25,
+          "media_count": 850,
+          "tweet_count": 3175
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "已成年 / 妈妈   @kanakosama0223f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kanakosama0223f"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "pinned_tweet_id": "2003597089046147143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998865969494765570/Cqz1u5ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10770,
+          "following_count": 527,
+          "like_count": 11698,
+          "listed_count": 16,
+          "media_count": 1569,
+          "tweet_count": 11496
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

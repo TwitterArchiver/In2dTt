@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987991919276982272"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1987991962897842274",
+    "created_at": "2025-11-10T21:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T22:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987991962897842274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wGlCbHSnHY",
+          "end": 40,
+          "expanded_url": "https://x.com/In2dTt/status/1987991962897842274/photo/1",
+          "media_key": "3_1987991919276982272",
+          "start": 17,
+          "url": "https://t.co/wGlCbHSnHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987991962897842274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怕死又没钱治就这样好死不如赖着活 https://t.co/wGlCbHSnHY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_1987991919276982272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bEHiTaAAADgLj.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987991919276982272"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1987991962897842274",
+        "created_at": "2025-11-10T21:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T22:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987991962897842274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGlCbHSnHY",
+              "end": 40,
+              "expanded_url": "https://x.com/In2dTt/status/1987991962897842274/photo/1",
+              "media_key": "3_1987991919276982272",
+              "start": 17,
+              "url": "https://t.co/wGlCbHSnHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987991962897842274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怕死又没钱治就这样好死不如赖着活 https://t.co/wGlCbHSnHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28889,
+          "following_count": 276,
+          "like_count": 10551,
+          "listed_count": 26,
+          "media_count": 819,
+          "tweet_count": 3078
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

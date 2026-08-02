@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863070964335910912"
+      ],
+      "media_source_tweet_id": [
+        "1863070974851403873"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1988343107604426907",
+    "created_at": "2025-11-11T20:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T21:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988343107604426907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799210814060240896",
+          "start": 3,
+          "username": "ohgi_ura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HMSeu0C3QW",
+          "end": 49,
+          "expanded_url": "https://x.com/ohgi_ura/status/1863070974851403873/photo/1",
+          "media_key": "3_1863070964335910912",
+          "start": 26,
+          "url": "https://t.co/HMSeu0C3QW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988343107604426907",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 449
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863070974851403873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ohgi_ura: TSUBAME 4/4 https://t.co/HMSeu0C3QW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988343107604426907].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988343107604426907",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988343107604426907"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863070964335910912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdr1K8yWIAAxxzS.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863070964335910912"
+          ]
+        },
+        "author_id": "1799210814060240896",
+        "conversation_id": "1863070974851403873",
+        "created_at": "2024-12-01T04:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T05:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863070974851403873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMSeu0C3QW",
+              "end": 35,
+              "expanded_url": "https://x.com/ohgi_ura/status/1863070974851403873/photo/1",
+              "media_key": "3_1863070964335910912",
+              "start": 12,
+              "url": "https://t.co/HMSeu0C3QW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863070974851403873",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1066,
+          "impression_count": 87591,
+          "like_count": 3686,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 449
+        },
+        "reply_settings": "everyone",
+        "text": "TSUBAME 4/4 https://t.co/HMSeu0C3QW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28882,
+          "following_count": 279,
+          "like_count": 10553,
+          "listed_count": 26,
+          "media_count": 819,
+          "tweet_count": 3079
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T22:44:30.000Z",
+        "description": "nsfw     \n沫浪PIXELS      \nFANBOX: https://t.co/E8kIrY4GN4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ohgi.fanbox.cc",
+                "end": 56,
+                "expanded_url": "http://ohgi.fanbox.cc",
+                "start": 33,
+                "url": "https://t.co/E8kIrY4GN4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/33963586",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/33963586",
+                "start": 0,
+                "url": "https://t.co/YjQVUmsgmD"
+              }
+            ]
+          }
+        },
+        "id": "1799210814060240896",
+        "name": "ohgi_ura ISF15 F-44",
+        "pinned_tweet_id": "1987365138446663950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799210950962393088/YSvZy7MR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64293,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 322,
+          "media_count": 154,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/YjQVUmsgmD",
+        "username": "ohgi_ura",
+        "verified": false
+      }
+    ]
+  }
+}

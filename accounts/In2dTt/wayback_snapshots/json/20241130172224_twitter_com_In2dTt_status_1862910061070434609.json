@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862907715267203073"
+      ],
+      "media_source_tweet_id": [
+        "1862907724415320552"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1862910061070434609",
+    "created_at": "2024-11-30T17:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T18:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862910061070434609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771230355896561664",
+          "start": 3,
+          "username": "in2dkira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/arqrkCHsQE",
+          "end": 37,
+          "expanded_url": "https://x.com/in2dkira/status/1862907724415320552/photo/1",
+          "media_key": "3_1862907715267203073",
+          "start": 14,
+          "url": "https://t.co/arqrkCHsQE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862910061070434609",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862907724415320552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @in2dkira: https://t.co/arqrkCHsQE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862907715267203073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdpgsmnWEAEsrrl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862907715267203073"
+          ],
+          "media_source_tweet_id": [
+            "1862907724415320552"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1862910061070434609",
+        "created_at": "2024-11-30T17:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T18:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862910061070434609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771230355896561664",
+              "start": 3,
+              "username": "in2dkira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/arqrkCHsQE",
+              "end": 37,
+              "expanded_url": "https://x.com/in2dkira/status/1862907724415320552/photo/1",
+              "media_key": "3_1862907715267203073",
+              "start": 14,
+              "url": "https://t.co/arqrkCHsQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862910061070434609",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862907724415320552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @in2dkira: https://t.co/arqrkCHsQE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862907715267203073"
+          ]
+        },
+        "author_id": "1771230355896561664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1862907724415320552",
+        "created_at": "2024-11-30T17:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T18:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862907724415320552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/arqrkCHsQE",
+              "end": 23,
+              "expanded_url": "https://x.com/in2dkira/status/1862907724415320552/photo/1",
+              "media_key": "3_1862907715267203073",
+              "start": 0,
+              "url": "https://t.co/arqrkCHsQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862907724415320552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/arqrkCHsQE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "ダーリン@In2dKira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "In2dKira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29837,
+          "following_count": 265,
+          "like_count": 10828,
+          "listed_count": 28,
+          "media_count": 879,
+          "tweet_count": 3215
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "愛とU @In2dTt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "In2dTt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH68ka"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844793161584906261/o9WcRReU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 11,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/6QBGLH68ka",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966797930008113158"
+      ],
+      "media_source_tweet_id": [
+        "1966797934890283231"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1967040507105996886",
+    "created_at": "2025-09-14T01:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T02:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967040507105996886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 37,
+          "tag": "三連休はフォロワーが増えるらしい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "863045308674056192",
+          "start": 3,
+          "username": "kiyotan_0621"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7lhKDou14x",
+          "end": 78,
+          "expanded_url": "https://x.com/kiyotan_0621/status/1966797934890283231/photo/1",
+          "media_key": "3_1966797930008113158",
+          "start": 55,
+          "url": "https://t.co/7lhKDou14x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967040507105996886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966797934890283231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiyotan_0621: 欲しい人はフォローしてくださ〜い♡\n #三連休はフォロワーが増えるらしい https://t.co/7lhKDou14x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966797930008113158",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0t4S_sbcAYEJye.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966797930008113158"
+          ],
+          "media_source_tweet_id": [
+            "1966797934890283231"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1967040507105996886",
+        "created_at": "2025-09-14T01:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T02:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967040507105996886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 37,
+              "tag": "三連休はフォロワーが増えるらしい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "863045308674056192",
+              "start": 3,
+              "username": "kiyotan_0621"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lhKDou14x",
+              "end": 78,
+              "expanded_url": "https://x.com/kiyotan_0621/status/1966797934890283231/photo/1",
+              "media_key": "3_1966797930008113158",
+              "start": 55,
+              "url": "https://t.co/7lhKDou14x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967040507105996886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966797934890283231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiyotan_0621: 欲しい人はフォローしてくださ〜い♡\n #三連休はフォロワーが増えるらしい https://t.co/7lhKDou14x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966797930008113158"
+          ]
+        },
+        "author_id": "863045308674056192",
+        "conversation_id": "1966797934890283231",
+        "created_at": "2025-09-13T09:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966797934890283231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 19,
+              "tag": "三連休はフォロワーが増えるらしい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lhKDou14x",
+              "end": 60,
+              "expanded_url": "https://x.com/kiyotan_0621/status/1966797934890283231/photo/1",
+              "media_key": "3_1966797930008113158",
+              "start": 37,
+              "url": "https://t.co/7lhKDou14x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966797934890283231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 29682,
+          "like_count": 2556,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "欲しい人はフォローしてくださ〜い♡\n #三連休はフォロワーが増えるらしい https://t.co/7lhKDou14x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29169,
+          "following_count": 264,
+          "like_count": 10500,
+          "listed_count": 26,
+          "media_count": 780,
+          "tweet_count": 2990
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-12T14:56:50.000Z",
+        "description": "||兼業イラストレーター✒️ᝰꪑ ||息抜きでセルフ受肉Vtuberも🎀🩵||FANBOX【https://t.co/xHI6n2zLhh】Skeb【https://t.co/EtgNo0hesq】YouTube(移行中)【https://t.co/QGNjRCiMnC 】※前垢凍結してます",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.sc/FbTjRrT",
+                "end": 69,
+                "expanded_url": "https://onl.sc/FbTjRrT",
+                "start": 46,
+                "url": "https://t.co/xHI6n2zLhh"
+              },
+              {
+                "display_url": "skeb.jp/@kiyotan_1107a",
+                "end": 98,
+                "expanded_url": "https://skeb.jp/@kiyotan_1107a",
+                "start": 75,
+                "url": "https://t.co/EtgNo0hesq"
+              },
+              {
+                "display_url": "x.gd/bp2MQ",
+                "end": 135,
+                "expanded_url": "https://x.gd/bp2MQ",
+                "start": 112,
+                "url": "https://t.co/QGNjRCiMnC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kiyotan1107",
+                "end": 23,
+                "expanded_url": "https://lit.link/kiyotan1107",
+                "start": 0,
+                "url": "https://t.co/V9PsUw3MFN"
+              }
+            ]
+          }
+        },
+        "id": "863045308674056192",
+        "location": "お仕事について→",
+        "name": "きよ蔵める🎀2日目西し02a🩵",
+        "pinned_tweet_id": "1966399329989750987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907058533071564800/P8Y8WlP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13365,
+          "following_count": 418,
+          "like_count": 6288,
+          "listed_count": 126,
+          "media_count": 398,
+          "tweet_count": 14518
+        },
+        "url": "https://t.co/V9PsUw3MFN",
+        "username": "kiyotan_0621",
+        "verified": true
+      }
+    ]
+  }
+}

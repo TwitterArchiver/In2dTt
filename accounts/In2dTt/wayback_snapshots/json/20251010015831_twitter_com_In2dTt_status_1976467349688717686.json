@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976467220709711872",
+        "13_1976467220701249540",
+        "3_1976467220701249537",
+        "3_1976467220688666626"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1976467349688717686",
+    "created_at": "2025-10-10T01:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T02:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976467349688717686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pep4FfeEFM",
+          "end": 30,
+          "expanded_url": "https://x.com/In2dTt/status/1976467349688717686/video/1",
+          "media_key": "3_1976467220709711872",
+          "start": 7,
+          "url": "https://t.co/Pep4FfeEFM"
+        },
+        {
+          "display_url": "pic.x.com/Pep4FfeEFM",
+          "end": 30,
+          "expanded_url": "https://x.com/In2dTt/status/1976467349688717686/video/1",
+          "media_key": "13_1976467220701249540",
+          "start": 7,
+          "url": "https://t.co/Pep4FfeEFM"
+        },
+        {
+          "display_url": "pic.x.com/Pep4FfeEFM",
+          "end": 30,
+          "expanded_url": "https://x.com/In2dTt/status/1976467349688717686/video/1",
+          "media_key": "3_1976467220701249537",
+          "start": 7,
+          "url": "https://t.co/Pep4FfeEFM"
+        },
+        {
+          "display_url": "pic.x.com/Pep4FfeEFM",
+          "end": 30,
+          "expanded_url": "https://x.com/In2dTt/status/1976467349688717686/video/1",
+          "media_key": "3_1976467220688666626",
+          "start": 7,
+          "url": "https://t.co/Pep4FfeEFM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976467349688717686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我猥琐的要死 https://t.co/Pep4FfeEFM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976467220709711872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23SdyibIAAY1Tj.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 5336,
+        "height": 1280,
+        "media_key": "13_1976467220701249540",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976467220701249540/img/gycoIkFSVpcq2Vjs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976467220701249540/vid/avc1/320x568/mM3cVk-1iVYKyGfd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976467220701249540/vid/avc1/480x852/pwmFJuLRcfpv1toz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976467220701249540/vid/avc1/720x1280/i4WBFBc1ixDwvMBd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976467220701249540/pl/UJ57b9Ns5kHpfByZ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976467220701249537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23SdygaAAEBs9A.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976467220688666626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23SdydaAAInO4h.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976467220709711872",
+            "13_1976467220701249540",
+            "3_1976467220701249537",
+            "3_1976467220688666626"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1976467349688717686",
+        "created_at": "2025-10-10T01:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976467349688717686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pep4FfeEFM",
+              "end": 30,
+              "expanded_url": "https://x.com/In2dTt/status/1976467349688717686/video/1",
+              "media_key": "3_1976467220709711872",
+              "start": 7,
+              "url": "https://t.co/Pep4FfeEFM"
+            },
+            {
+              "display_url": "pic.x.com/Pep4FfeEFM",
+              "end": 30,
+              "expanded_url": "https://x.com/In2dTt/status/1976467349688717686/video/1",
+              "media_key": "13_1976467220701249540",
+              "start": 7,
+              "url": "https://t.co/Pep4FfeEFM"
+            },
+            {
+              "display_url": "pic.x.com/Pep4FfeEFM",
+              "end": 30,
+              "expanded_url": "https://x.com/In2dTt/status/1976467349688717686/video/1",
+              "media_key": "3_1976467220701249537",
+              "start": 7,
+              "url": "https://t.co/Pep4FfeEFM"
+            },
+            {
+              "display_url": "pic.x.com/Pep4FfeEFM",
+              "end": 30,
+              "expanded_url": "https://x.com/In2dTt/status/1976467349688717686/video/1",
+              "media_key": "3_1976467220688666626",
+              "start": 7,
+              "url": "https://t.co/Pep4FfeEFM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976467349688717686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我猥琐的要死 https://t.co/Pep4FfeEFM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29009,
+          "following_count": 271,
+          "like_count": 10541,
+          "listed_count": 26,
+          "media_count": 796,
+          "tweet_count": 3032
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

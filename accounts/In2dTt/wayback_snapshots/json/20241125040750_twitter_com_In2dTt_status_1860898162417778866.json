@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1860898162417778866",
+    "created_at": "2024-11-25T04:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T05:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860898162417778866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangming3211/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yangming3211/status/1860858798392680770",
+          "start": 8,
+          "url": "https://t.co/UXTp8P781J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860898162417778866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860858798392680770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我活的像meg https://t.co/UXTp8P781J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1860898162417778866",
+        "created_at": "2024-11-25T04:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T05:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860898162417778866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangming3211/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yangming3211/status/1860858798392680770",
+              "start": 8,
+              "url": "https://t.co/UXTp8P781J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860898162417778866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860858798392680770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我活的像meg https://t.co/UXTp8P781J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626053892378333186",
+        "conversation_id": "1860857566781157815",
+        "created_at": "2024-11-25T01:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T02:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860858798392680770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860858798392680770",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860857566781157815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 单独洗自己的衣服不是非常美好的事嘛，沙发都不能做理解不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "ダーリン@In2dKira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "In2dKira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29796,
+          "following_count": 259,
+          "like_count": 10805,
+          "listed_count": 28,
+          "tweet_count": 3207
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T03:00:42.000Z",
+        "description": "玩着捏",
+        "id": "1626053892378333186",
+        "name": "爱吃辣条的三体人",
+        "pinned_tweet_id": "1628693092596436995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844042268292046848/QMmMoI37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1592,
+          "like_count": 3236,
+          "listed_count": 18,
+          "tweet_count": 298
+        },
+        "username": "yangming3211",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071991311549239296"
+      ],
+      "media_source_tweet_id": [
+        "2074629536973525432"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2074755562970182133",
+    "created_at": "2026-07-08T07:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074755562970182133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "945120781373095936",
+          "start": 3,
+          "username": "Themyster1ous01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ETaPv3dQgy",
+          "end": 80,
+          "expanded_url": "https://x.com/Themyster1ous01/status/2074629536973525432/video/1",
+          "media_key": "13_2071991311549239296",
+          "start": 57,
+          "url": "https://t.co/ETaPv3dQgy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074755562970182133",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 343
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074629536973525432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Themyster1ous01: someone asked me to post this again https://t.co/ETaPv3dQgy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15719,
+        "height": 756,
+        "media_key": "13_2071991311549239296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071991311549239296/img/gGupGOkkMj3CatJS.jpg",
+        "public_metrics": {
+          "view_count": 153698
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071991311549239296/vid/avc1/320x336/0XQ9KzSFlsLVbab8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071991311549239296/vid/avc1/480x504/hVK_KPJ9oYnQ6a4g.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071991311549239296/vid/avc1/720x756/H_U4v8dlonW3UR3l.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071991311549239296/pl/VAoUxTjFxi4ni_8U.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071991311549239296"
+          ],
+          "media_source_tweet_id": [
+            "2074629536973525432"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2074755562970182133",
+        "created_at": "2026-07-08T07:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074755562970182133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "945120781373095936",
+              "start": 3,
+              "username": "Themyster1ous01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETaPv3dQgy",
+              "end": 80,
+              "expanded_url": "https://x.com/Themyster1ous01/status/2074629536973525432/video/1",
+              "media_key": "13_2071991311549239296",
+              "start": 57,
+              "url": "https://t.co/ETaPv3dQgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074755562970182133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 343
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074629536973525432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Themyster1ous01: someone asked me to post this again https://t.co/ETaPv3dQgy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071991311549239296"
+          ]
+        },
+        "author_id": "945120781373095936",
+        "conversation_id": "2074629536973525432",
+        "created_at": "2026-07-07T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074629536973525432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETaPv3dQgy",
+              "end": 59,
+              "expanded_url": "https://x.com/Themyster1ous01/status/2074629536973525432/video/1",
+              "media_key": "13_2071991311549239296",
+              "start": 36,
+              "url": "https://t.co/ETaPv3dQgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074629536973525432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2099,
+          "impression_count": 280083,
+          "like_count": 5744,
+          "quote_count": 21,
+          "reply_count": 44,
+          "retweet_count": 343
+        },
+        "reply_settings": "everyone",
+        "text": "someone asked me to post this again https://t.co/ETaPv3dQgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28901,
+          "following_count": 300,
+          "like_count": 10757,
+          "listed_count": 24,
+          "media_count": 886,
+          "tweet_count": 3267
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-25T02:35:28.000Z",
+        "description": "Responsible for Utatane Nasa's loss of Seiso. Nefarious shitposter.\npfp by @Hnkecho\n\n🎋🍭 / ✂️✨️ / 🍶🦊 / 🔔🕊  / 🖤♥️ / 🌠🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "Hnkecho"
+              }
+            ]
+          }
+        },
+        "id": "945120781373095936",
+        "location": "madness madness madness",
+        "name": "Eldritch Horror",
+        "pinned_tweet_id": "2055717178633060696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047716108338114561/j4_Pe3Im_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5223,
+          "following_count": 1360,
+          "like_count": 299003,
+          "listed_count": 16,
+          "media_count": 3289,
+          "tweet_count": 26560
+        },
+        "url": "",
+        "username": "Themyster1ous01",
+        "verified": false
+      }
+    ]
+  }
+}

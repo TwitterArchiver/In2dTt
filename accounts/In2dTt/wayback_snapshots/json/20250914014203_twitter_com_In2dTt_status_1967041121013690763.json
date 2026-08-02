@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1966828836110430557",
+    "created_at": "2025-09-14T01:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T02:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967041121013690763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506177059587964928",
+          "start": 0,
+          "username": "Noire6959"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967041121013690763",
+    "in_reply_to_user_id": "1506177059587964928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966828836110430557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noire6959 素晴らしい…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1966828804372119553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uUYHqbQAEhggS.jpg",
+        "width": 2920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1966828836110430557",
+        "created_at": "2025-09-14T01:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T02:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967041121013690763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506177059587964928",
+              "start": 0,
+              "username": "Noire6959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967041121013690763",
+        "in_reply_to_user_id": "1506177059587964928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966828836110430557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noire6959 素晴らしい…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966828804372119553"
+          ]
+        },
+        "author_id": "1506177059587964928",
+        "conversation_id": "1966828836110430557",
+        "created_at": "2025-09-13T11:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966828836110430557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZUJja0JB3",
+              "end": 27,
+              "expanded_url": "https://x.com/Noire6959/status/1966828836110430557/photo/1",
+              "media_key": "3_1966828804372119553",
+              "start": 4,
+              "url": "https://t.co/kZUJja0JB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966828836110430557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1476,
+          "impression_count": 73957,
+          "like_count": 7442,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 709
+        },
+        "reply_settings": "everyone",
+        "text": "ふらわ https://t.co/kZUJja0JB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29169,
+          "following_count": 265,
+          "like_count": 10503,
+          "listed_count": 26,
+          "media_count": 780,
+          "tweet_count": 2992
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T07:52:59.000Z",
+        "description": "イーロンマスクさん許してくださいお願いします何でもはしません かわいいふらわを描きたいだけなんです bluesky →https://t.co/hpZbR3LXCJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/noire0…",
+                "end": 82,
+                "expanded_url": "https://bsky.app/profile/noire0509.bsky.social",
+                "start": 59,
+                "url": "https://t.co/hpZbR3LXCJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/2496959",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/2496959",
+                "start": 0,
+                "url": "https://t.co/A9VqfBZ5da"
+              }
+            ]
+          }
+        },
+        "id": "1506177059587964928",
+        "name": "Noir🥦",
+        "pinned_tweet_id": "1949426020492394834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901240427845660672/1m_z5zqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11273,
+          "following_count": 193,
+          "like_count": 35573,
+          "listed_count": 86,
+          "media_count": 655,
+          "tweet_count": 17751
+        },
+        "url": "https://t.co/A9VqfBZ5da",
+        "username": "Noire6959",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1868263893795262796",
+    "created_at": "2024-12-15T11:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868264162104897546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868264162104897546",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868263893795262796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira 骂你妈呢 你爹问我的 是不是还要我包庇你呀 他自己问我你是不是嗑药了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1868263893795262796",
+        "created_at": "2024-12-15T11:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868264162104897546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868264162104897546",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868263893795262796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira 骂你妈呢 你爹问我的 是不是还要我包庇你呀 他自己问我你是不是嗑药了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "1868263893795262796",
+        "created_at": "2024-12-15T11:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868263893795262796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868263893795262796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了 他妈的找我家里人告状od啥的 我现在也没家了 要不被抓精神病院 你妈个逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "痛い",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1867914851219325130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867923776899268608/uCet3MkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29874,
+          "following_count": 265,
+          "like_count": 10927,
+          "listed_count": 28,
+          "media_count": 895,
+          "tweet_count": 3285
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "無い",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844793161584906261/o9WcRReU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 9,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

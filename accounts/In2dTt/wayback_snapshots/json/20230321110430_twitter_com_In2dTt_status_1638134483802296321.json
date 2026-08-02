@@ -1,0 +1,98 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1638134483802296321",
+    "created_at": "2023-03-21T11:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-21T11:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1638134483802296321"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1638134483802296321",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得介绍未成年做那种事不太好，而且大家都是未成年，好吧也不关我，我想太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1638134483802296321",
+        "created_at": "2023-03-21T11:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-21T11:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1638134483802296321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1638134483802296321",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得介绍未成年做那种事不太好，而且大家都是未成年，好吧也不关我，我想太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆赛博出道，尸块妄想组蓝色担当@corpse_delusion\nダーリン@hnxio65446472",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "corpse_delusion"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "hnxio65446472"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "swt tt in2d",
+        "pinned_tweet_id": "1635193596222779393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635247267769913344/LMTAuxng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16575,
+          "following_count": 131,
+          "listed_count": 18,
+          "tweet_count": 1505
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

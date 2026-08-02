@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992071041611603968",
+        "3_1992071041645244416",
+        "3_1992071041838108672",
+        "3_1992071041850695680"
+      ],
+      "media_source_tweet_id": [
+        "1992071050180571549",
+        "1992071050180571549",
+        "1992071050180571549",
+        "1992071050180571549"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992079146093269400",
+    "created_at": "2025-11-22T03:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992079146093269400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811812787058016257",
+          "start": 3,
+          "username": "kanakosama0223f"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m1rAZiWtol",
+          "end": 104,
+          "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+          "media_key": "3_1992071041611603968",
+          "start": 81,
+          "url": "https://t.co/m1rAZiWtol"
+        },
+        {
+          "display_url": "pic.x.com/m1rAZiWtol",
+          "end": 104,
+          "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+          "media_key": "3_1992071041645244416",
+          "start": 81,
+          "url": "https://t.co/m1rAZiWtol"
+        },
+        {
+          "display_url": "pic.x.com/m1rAZiWtol",
+          "end": 104,
+          "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+          "media_key": "3_1992071041838108672",
+          "start": 81,
+          "url": "https://t.co/m1rAZiWtol"
+        },
+        {
+          "display_url": "pic.x.com/m1rAZiWtol",
+          "end": 104,
+          "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+          "media_key": "3_1992071041850695680",
+          "start": 81,
+          "url": "https://t.co/m1rAZiWtol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992079146093269400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992071050180571549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanakosama0223f: 我素颜也就这样不好看 就带了个美瞳 睫毛是种的 没p过原相机 但也没你丑🥹🥹😂荷包蛋你真的很莫名其妙。。。(p4荷包蛋 https://t.co/m1rAZiWtol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2026,
+        "media_key": "3_1992071041611603968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VCDtKaIAANB5W.jpg",
+        "width": 792
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992071041645244416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VCDtSbcAAwvRP.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992071041838108672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VCDuAaUAAvRoD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1992071041850695680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VCDuDaYAAWRUq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992071041611603968",
+            "3_1992071041645244416",
+            "3_1992071041838108672",
+            "3_1992071041850695680"
+          ],
+          "media_source_tweet_id": [
+            "1992071050180571549",
+            "1992071050180571549",
+            "1992071050180571549",
+            "1992071050180571549"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992079146093269400",
+        "created_at": "2025-11-22T03:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992079146093269400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811812787058016257",
+              "start": 3,
+              "username": "kanakosama0223f"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1rAZiWtol",
+              "end": 104,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+              "media_key": "3_1992071041611603968",
+              "start": 81,
+              "url": "https://t.co/m1rAZiWtol"
+            },
+            {
+              "display_url": "pic.x.com/m1rAZiWtol",
+              "end": 104,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+              "media_key": "3_1992071041645244416",
+              "start": 81,
+              "url": "https://t.co/m1rAZiWtol"
+            },
+            {
+              "display_url": "pic.x.com/m1rAZiWtol",
+              "end": 104,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+              "media_key": "3_1992071041838108672",
+              "start": 81,
+              "url": "https://t.co/m1rAZiWtol"
+            },
+            {
+              "display_url": "pic.x.com/m1rAZiWtol",
+              "end": 104,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+              "media_key": "3_1992071041850695680",
+              "start": 81,
+              "url": "https://t.co/m1rAZiWtol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992079146093269400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992071050180571549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanakosama0223f: 我素颜也就这样不好看 就带了个美瞳 睫毛是种的 没p过原相机 但也没你丑🥹🥹😂荷包蛋你真的很莫名其妙。。。(p4荷包蛋 https://t.co/m1rAZiWtol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992071041611603968",
+            "3_1992071041645244416",
+            "3_1992071041838108672",
+            "3_1992071041850695680"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992071050180571549",
+        "created_at": "2025-11-22T03:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992071050180571549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1rAZiWtol",
+              "end": 83,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+              "media_key": "3_1992071041611603968",
+              "start": 60,
+              "url": "https://t.co/m1rAZiWtol"
+            },
+            {
+              "display_url": "pic.x.com/m1rAZiWtol",
+              "end": 83,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+              "media_key": "3_1992071041645244416",
+              "start": 60,
+              "url": "https://t.co/m1rAZiWtol"
+            },
+            {
+              "display_url": "pic.x.com/m1rAZiWtol",
+              "end": 83,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+              "media_key": "3_1992071041838108672",
+              "start": 60,
+              "url": "https://t.co/m1rAZiWtol"
+            },
+            {
+              "display_url": "pic.x.com/m1rAZiWtol",
+              "end": 83,
+              "expanded_url": "https://x.com/kanakosama0223f/status/1992071050180571549/photo/1",
+              "media_key": "3_1992071041850695680",
+              "start": 60,
+              "url": "https://t.co/m1rAZiWtol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992071050180571549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我素颜也就这样不好看 就带了个美瞳 睫毛是种的 没p过原相机 但也没你丑🥹🥹😂荷包蛋你真的很莫名其妙。。。(p4荷包蛋 https://t.co/m1rAZiWtol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28905,
+          "following_count": 286,
+          "like_count": 10573,
+          "listed_count": 26,
+          "media_count": 824,
+          "tweet_count": 3098
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "kanako0223ff"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1901264285399122208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984204969285939200/35wL_0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13582,
+          "following_count": 94,
+          "like_count": 6037,
+          "listed_count": 19,
+          "media_count": 641,
+          "tweet_count": 4020
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

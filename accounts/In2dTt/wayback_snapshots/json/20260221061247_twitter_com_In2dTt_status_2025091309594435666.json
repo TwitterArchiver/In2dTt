@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024702100647927808"
+      ],
+      "media_source_tweet_id": [
+        "2024702135326376112"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2025091309594435666",
+    "created_at": "2026-02-21T06:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025091309594435666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811812787058016257",
+          "start": 3,
+          "username": "kanakosama0223f"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xalBAdAem",
+          "end": 54,
+          "expanded_url": "https://x.com/kanakosama0223f/status/2024702135326376112/photo/1",
+          "media_key": "3_2024702100647927808",
+          "start": 31,
+          "url": "https://t.co/7xalBAdAem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025091309594435666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024702135326376112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanakosama0223f: 我和tt见面就这样 https://t.co/7xalBAdAem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024702100647927808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkv1U0bYAAGYtk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024702100647927808"
+          ],
+          "media_source_tweet_id": [
+            "2024702135326376112"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2025091309594435666",
+        "created_at": "2026-02-21T06:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025091309594435666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811812787058016257",
+              "start": 3,
+              "username": "kanakosama0223f"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xalBAdAem",
+              "end": 54,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2024702135326376112/photo/1",
+              "media_key": "3_2024702100647927808",
+              "start": 31,
+              "url": "https://t.co/7xalBAdAem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025091309594435666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024702135326376112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanakosama0223f: 我和tt见面就这样 https://t.co/7xalBAdAem"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024702100647927808"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2024702135326376112",
+        "created_at": "2026-02-20T04:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024702135326376112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xalBAdAem",
+              "end": 33,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2024702135326376112/photo/1",
+              "media_key": "3_2024702100647927808",
+              "start": 10,
+              "url": "https://t.co/7xalBAdAem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024702135326376112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2307,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和tt见面就这样 https://t.co/7xalBAdAem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28759,
+          "following_count": 294,
+          "like_count": 10647,
+          "listed_count": 25,
+          "media_count": 844,
+          "tweet_count": 3161
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288 我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2012755946506756346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008265402099654656/E9mXaAvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16539,
+          "following_count": 104,
+          "like_count": 7172,
+          "listed_count": 22,
+          "media_count": 908,
+          "tweet_count": 4929
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

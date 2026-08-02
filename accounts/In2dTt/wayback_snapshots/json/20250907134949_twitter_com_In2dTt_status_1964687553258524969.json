@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964687539354406912"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1964687553258524969",
+    "created_at": "2025-09-07T13:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T14:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964687553258524969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZiDKkhZJ7w",
+          "end": 64,
+          "expanded_url": "https://x.com/In2dTt/status/1964687553258524969/photo/1",
+          "media_key": "3_1964687539354406912",
+          "start": 41,
+          "url": "https://t.co/ZiDKkhZJ7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964687553258524969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的要戒掉這些了 …我在嘗試 這個已經浪費了我太多的時間…我會嘗試戒掉的…啊… https://t.co/ZiDKkhZJ7w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964687539354406912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0P46F3bEAAP6a3.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964687539354406912"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1964687553258524969",
+        "created_at": "2025-09-07T13:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T14:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964687553258524969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiDKkhZJ7w",
+              "end": 64,
+              "expanded_url": "https://x.com/In2dTt/status/1964687553258524969/photo/1",
+              "media_key": "3_1964687539354406912",
+              "start": 41,
+              "url": "https://t.co/ZiDKkhZJ7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964687553258524969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要戒掉這些了 …我在嘗試 這個已經浪費了我太多的時間…我會嘗試戒掉的…啊… https://t.co/ZiDKkhZJ7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29170,
+          "following_count": 255,
+          "like_count": 10475,
+          "listed_count": 26,
+          "media_count": 775,
+          "tweet_count": 2969
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

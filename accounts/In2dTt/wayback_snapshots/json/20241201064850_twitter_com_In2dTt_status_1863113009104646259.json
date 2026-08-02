@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1863112977102020608"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1863113009104646259",
+    "created_at": "2024-12-01T06:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T07:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863113009104646259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpyAhxqizr",
+          "end": 23,
+          "expanded_url": "https://x.com/In2dTt/status/1863113009104646259/video/1",
+          "media_key": "7_1863112977102020608",
+          "start": 0,
+          "url": "https://t.co/dpyAhxqizr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863113009104646259",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/dpyAhxqizr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12286,
+        "height": 1280,
+        "media_key": "7_1863112977102020608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1863112977102020608/pu/img/gyik7h7X1dmOlHpB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863112977102020608/pu/vid/avc1/320x568/-xUUWwE1V5a-SPAr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863112977102020608/pu/vid/avc1/480x852/BJQdaipAfGIQjoSK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863112977102020608/pu/vid/avc1/720x1280/IbqFchG9EWJKiTnB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1863112977102020608/pu/pl/Nt2ZqcT6SvW4Uc3B.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1863112977102020608"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1863113009104646259",
+        "created_at": "2024-12-01T06:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T07:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863113009104646259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpyAhxqizr",
+              "end": 23,
+              "expanded_url": "https://x.com/In2dTt/status/1863113009104646259/video/1",
+              "media_key": "7_1863112977102020608",
+              "start": 0,
+              "url": "https://t.co/dpyAhxqizr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863113009104646259",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dpyAhxqizr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "ダーリン@In2dKira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "In2dKira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29823,
+          "following_count": 265,
+          "like_count": 10832,
+          "listed_count": 28,
+          "media_count": 881,
+          "tweet_count": 3217
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

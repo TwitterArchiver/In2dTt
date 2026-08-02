@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967071444841746432"
+      ],
+      "media_source_tweet_id": [
+        "1967072041791877164"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1967110418410975298",
+    "created_at": "2025-09-14T06:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T07:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967110418410975298"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 21,
+          "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1699997007107223552",
+          "start": 3,
+          "username": "Virgo_illustsub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l8R7Xrt3Il",
+          "end": 72,
+          "expanded_url": "https://x.com/Virgo_illustsub/status/1967072041791877164/photo/1",
+          "media_key": "3_1967071444841746432",
+          "start": 49,
+          "url": "https://t.co/l8R7Xrt3Il"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967110418410975298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 469
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967072041791877164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Virgo_illustsub: ＃夏が終わりそうだし今年描いた水着絵を貼ろう\n🫠🍨☄️ https://t.co/l8R7Xrt3Il"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_1967071444841746432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0xxDp2bUAAQ1Rp.jpg",
+        "width": 4088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967071444841746432"
+          ],
+          "media_source_tweet_id": [
+            "1967072041791877164"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1967110418410975298",
+        "created_at": "2025-09-14T06:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T07:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967110418410975298"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 21,
+              "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1699997007107223552",
+              "start": 3,
+              "username": "Virgo_illustsub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8R7Xrt3Il",
+              "end": 72,
+              "expanded_url": "https://x.com/Virgo_illustsub/status/1967072041791877164/photo/1",
+              "media_key": "3_1967071444841746432",
+              "start": 49,
+              "url": "https://t.co/l8R7Xrt3Il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967110418410975298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 469
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967072041791877164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Virgo_illustsub: ＃夏が終わりそうだし今年描いた水着絵を貼ろう\n🫠🍨☄️ https://t.co/l8R7Xrt3Il"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967071444841746432"
+          ]
+        },
+        "author_id": "1699997007107223552",
+        "conversation_id": "1967072041791877164",
+        "created_at": "2025-09-14T03:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967072041791877164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 0,
+              "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8R7Xrt3Il",
+              "end": 51,
+              "expanded_url": "https://x.com/Virgo_illustsub/status/1967072041791877164/photo/1",
+              "media_key": "3_1967071444841746432",
+              "start": 28,
+              "url": "https://t.co/l8R7Xrt3Il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967072041791877164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1342,
+          "impression_count": 55666,
+          "like_count": 6804,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "＃夏が終わりそうだし今年描いた水着絵を貼ろう\n🫠🍨☄️ https://t.co/l8R7Xrt3Il"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29163,
+          "following_count": 265,
+          "like_count": 10520,
+          "listed_count": 26,
+          "media_count": 781,
+          "tweet_count": 2997
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T04:05:09.000Z",
+        "description": "イラスト。ホロライブメインで描きます。\n過去絵→@Virgo76612871",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "Virgo76612871"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58761782",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58761782",
+                "start": 0,
+                "url": "https://t.co/T36YIj2AUv"
+              }
+            ]
+          }
+        },
+        "id": "1699997007107223552",
+        "name": "Virgoの絵置き場🎨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700829068235837440/3EdSUALA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58045,
+          "following_count": 169,
+          "like_count": 3164,
+          "listed_count": 245,
+          "media_count": 186,
+          "tweet_count": 1601
+        },
+        "url": "https://t.co/T36YIj2AUv",
+        "username": "Virgo_illustsub",
+        "verified": false
+      }
+    ]
+  }
+}

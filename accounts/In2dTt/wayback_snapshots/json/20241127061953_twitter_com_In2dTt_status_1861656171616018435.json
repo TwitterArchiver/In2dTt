@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1861483788603359232"
+      ],
+      "media_source_tweet_id": [
+        "1861483877124186409"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1861656171616018435",
+    "created_at": "2024-11-27T06:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T07:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861656171616018435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771230355896561664",
+          "start": 3,
+          "username": "in2dkira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YGix3MSg8O",
+          "end": 46,
+          "expanded_url": "https://x.com/in2dkira/status/1861483877124186409/video/1",
+          "media_key": "7_1861483788603359232",
+          "start": 23,
+          "url": "https://t.co/YGix3MSg8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861656171616018435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861483877124186409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @in2dkira: 自己来卡拉OK了 https://t.co/YGix3MSg8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13900,
+        "height": 1280,
+        "media_key": "7_1861483788603359232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1861483788603359232/pu/img/qwrZerpyW3e-dGdZ.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861483788603359232/pu/vid/avc1/320x568/ASnaF59ZI6uA8wmq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861483788603359232/pu/vid/avc1/480x852/Fgh1M0T6HKNLZBMN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861483788603359232/pu/vid/avc1/720x1280/-pc7a8s9rNMxQzHL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1861483788603359232/pu/pl/FMPjMp7yIqNgM2Ll.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861483788603359232"
+          ],
+          "media_source_tweet_id": [
+            "1861483877124186409"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1861656171616018435",
+        "created_at": "2024-11-27T06:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T07:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861656171616018435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771230355896561664",
+              "start": 3,
+              "username": "in2dkira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGix3MSg8O",
+              "end": 46,
+              "expanded_url": "https://x.com/in2dkira/status/1861483877124186409/video/1",
+              "media_key": "7_1861483788603359232",
+              "start": 23,
+              "url": "https://t.co/YGix3MSg8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861656171616018435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861483877124186409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @in2dkira: 自己来卡拉OK了 https://t.co/YGix3MSg8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861483788603359232"
+          ]
+        },
+        "author_id": "1771230355896561664",
+        "conversation_id": "1861483877124186409",
+        "created_at": "2024-11-26T18:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T19:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861483877124186409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGix3MSg8O",
+              "end": 32,
+              "expanded_url": "https://x.com/in2dkira/status/1861483877124186409/video/1",
+              "media_key": "7_1861483788603359232",
+              "start": 9,
+              "url": "https://t.co/YGix3MSg8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861483877124186409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自己来卡拉OK了 https://t.co/YGix3MSg8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "ダーリン@In2dKira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "In2dKira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29794,
+          "following_count": 262,
+          "like_count": 10818,
+          "listed_count": 28,
+          "tweet_count": 3214
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "愛とU @In2dTt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "In2dTt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH68ka"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844793161584906261/o9WcRReU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 11,
+          "like_count": 477,
+          "listed_count": 1,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/6QBGLH68ka",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

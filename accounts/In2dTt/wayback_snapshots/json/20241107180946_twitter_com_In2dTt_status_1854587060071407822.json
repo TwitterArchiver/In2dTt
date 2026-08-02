@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1854484153695097342",
+    "created_at": "2024-11-07T18:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T19:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854587060071407822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626053892378333186",
+          "start": 0,
+          "username": "yangming3211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854587060071407822",
+    "in_reply_to_user_id": "1626053892378333186",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854582050764079586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangming3211 嘻嘻 謝謝你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1854484153695097342",
+        "created_at": "2024-11-07T18:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T19:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854587060071407822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626053892378333186",
+              "start": 0,
+              "username": "yangming3211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854587060071407822",
+        "in_reply_to_user_id": "1626053892378333186",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854582050764079586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangming3211 嘻嘻 謝謝你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626053892378333186",
+        "conversation_id": "1854484153695097342",
+        "created_at": "2024-11-07T17:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T18:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854582050764079586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854582050764079586",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854484153695097342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 和第一次刷到你干净漂亮了不少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27932,
+          "following_count": 248,
+          "like_count": 10584,
+          "listed_count": 27,
+          "tweet_count": 3122
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T03:00:42.000Z",
+        "description": "玩着捏",
+        "id": "1626053892378333186",
+        "name": "爱吃辣条的三体人",
+        "pinned_tweet_id": "1628693092596436995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844042268292046848/QMmMoI37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 1542,
+          "like_count": 2788,
+          "listed_count": 18,
+          "tweet_count": 267
+        },
+        "username": "yangming3211",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981336486495596544"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1981336723725701503",
+    "created_at": "2025-10-23T12:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T13:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981336723725701503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JMoxsnWZaH",
+          "end": 29,
+          "expanded_url": "https://x.com/In2dTt/status/1981336723725701503/video/1",
+          "media_key": "13_1981336486495596544",
+          "start": 6,
+          "url": "https://t.co/JMoxsnWZaH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981336723725701503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "胃袋露出中 https://t.co/JMoxsnWZaH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 1280,
+        "media_key": "13_1981336486495596544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981336486495596544/img/-r_vhid02texvxFL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981336486495596544/vid/avc1/320x568/leKn7k-6_Sj8jhLf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981336486495596544/vid/avc1/480x852/nUUlCWw4TILKoEdz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981336486495596544/vid/avc1/720x1280/AwvbLVsOVYs8cISB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981336486495596544/pl/rXJ4vyknwgYuyHfW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981336486495596544"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1981336723725701503",
+        "created_at": "2025-10-23T12:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T13:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981336723725701503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMoxsnWZaH",
+              "end": 29,
+              "expanded_url": "https://x.com/In2dTt/status/1981336723725701503/video/1",
+              "media_key": "13_1981336486495596544",
+              "start": 6,
+              "url": "https://t.co/JMoxsnWZaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981336723725701503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胃袋露出中 https://t.co/JMoxsnWZaH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1963092122191704399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28958,
+          "following_count": 277,
+          "like_count": 10516,
+          "listed_count": 26,
+          "media_count": 804,
+          "tweet_count": 3046
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

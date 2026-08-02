@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076075753767415808"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2075252044571811936",
+    "created_at": "2026-07-11T22:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T23:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076075759559750062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1475103839795970048",
+          "start": 0,
+          "username": "kaway01111"
+        },
+        {
+          "end": 25,
+          "id": "1386670401422434304",
+          "start": 12,
+          "username": "xx1012000456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s1XqgAvpkb",
+          "end": 64,
+          "expanded_url": "https://x.com/In2dTt/status/2076075759559750062/photo/1",
+          "media_key": "3_2076075753767415808",
+          "start": 41,
+          "url": "https://t.co/s1XqgAvpkb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076075759559750062",
+    "in_reply_to_user_id": "1475103839795970048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076045874367705271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaway01111 @xx1012000456 你愿意就继续吧16型是指癌的 https://t.co/s1XqgAvpkb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2076075753767415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-z5gYbsAAN4Os.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076075753767415808"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2075252044571811936",
+        "created_at": "2026-07-11T22:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076075759559750062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1475103839795970048",
+              "start": 0,
+              "username": "kaway01111"
+            },
+            {
+              "end": 25,
+              "id": "1386670401422434304",
+              "start": 12,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1XqgAvpkb",
+              "end": 64,
+              "expanded_url": "https://x.com/In2dTt/status/2076075759559750062/photo/1",
+              "media_key": "3_2076075753767415808",
+              "start": 41,
+              "url": "https://t.co/s1XqgAvpkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076075759559750062",
+        "in_reply_to_user_id": "1475103839795970048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076045874367705271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaway01111 @xx1012000456 你愿意就继续吧16型是指癌的 https://t.co/s1XqgAvpkb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475103839795970048",
+        "conversation_id": "2075252044571811936",
+        "created_at": "2026-07-11T20:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076045874367705271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 21,
+              "id": "1548471557873610752",
+              "start": 14,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076045874367705271",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075662052824424617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @In2dTt 是的，很常见的而且Knk 2024年已经治好了呀 唉 我也不知道怎么说，信的就信吧，不信的也无所谓呢，这些都是个人的想法呀～～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28945,
+          "following_count": 301,
+          "like_count": 10716,
+          "listed_count": 24,
+          "media_count": 835,
+          "tweet_count": 3147
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-26T13:59:08.000Z",
+        "description": "抖M 看私讯挑回 不常上线 🇭🇰香港人呢",
+        "id": "1475103839795970048",
+        "location": "宠物中心",
+        "name": "gagafi",
+        "pinned_tweet_id": "2072300596150129065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1480092988441174018/88kDib37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4719,
+          "following_count": 146,
+          "like_count": 2893,
+          "listed_count": 17,
+          "media_count": 31,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "kaway01111",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 679,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1947
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

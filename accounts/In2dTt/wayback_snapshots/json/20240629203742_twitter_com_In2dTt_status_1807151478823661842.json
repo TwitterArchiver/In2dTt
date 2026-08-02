@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1807151478823661842",
+    "created_at": "2024-06-29T20:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T21:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807151478823661842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771230355896561664",
+          "start": 3,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807151478823661842",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807095735361696228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @in2dkira: yzy要來強上我 她不知道對不起湯湯？六紅軍在那護犢子去幫楊子芸 你們眼裡有過湯湯？ 現在又說幫湯湯說話什麼的 太好笑了 出了事情一個不認  光速和我撇清楚關係 妳們也還真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1807151478823661842",
+        "created_at": "2024-06-29T20:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T21:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807151478823661842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771230355896561664",
+              "start": 3,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807151478823661842",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807095735361696228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @in2dkira: yzy要來強上我 她不知道對不起湯湯？六紅軍在那護犢子去幫楊子芸 你們眼裡有過湯湯？ 現在又說幫湯湯說話什麼的 太好笑了 出了事情一個不認  光速和我撇清楚關係 妳們也還真是"
+      },
+      {
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "1807095735361696228",
+        "created_at": "2024-06-29T16:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T17:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807095735361696228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807095735361696228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yzy要來強上我 她不知道對不起湯湯？六紅軍在那護犢子去幫楊子芸 你們眼裡有過湯湯？ 現在又說幫湯湯說話什麼的 太好笑了 出了事情一個不認  光速和我撇清楚關係 妳們也還真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28279,
+          "following_count": 229,
+          "like_count": 10461,
+          "listed_count": 28,
+          "tweet_count": 2973
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "フオニイ",
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771230853647200258/HbVmC4XK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1,
+          "like_count": 113,
+          "listed_count": 1,
+          "tweet_count": 37
+        },
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

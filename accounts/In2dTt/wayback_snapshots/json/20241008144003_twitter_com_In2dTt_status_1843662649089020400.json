@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1843641068237271201",
+    "created_at": "2024-10-08T14:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T15:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843662649089020400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1251033624222158849",
+          "start": 0,
+          "username": "baozou0121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843662649089020400",
+    "in_reply_to_user_id": "1251033624222158849",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843641068237271201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozou0121 🐍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1843641068237271201",
+        "created_at": "2024-10-08T14:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T15:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843662649089020400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1251033624222158849",
+              "start": 0,
+              "username": "baozou0121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843662649089020400",
+        "in_reply_to_user_id": "1251033624222158849",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843641068237271201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozou0121 🐍了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843641032619294720"
+          ]
+        },
+        "author_id": "1251033624222158849",
+        "conversation_id": "1843641068237271201",
+        "created_at": "2024-10-08T13:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T14:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843641068237271201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAs2n6jdQH",
+              "end": 31,
+              "expanded_url": "https://x.com/baozou0121/status/1843641068237271201/photo/1",
+              "media_key": "3_1843641032619294720",
+              "start": 8,
+              "url": "https://t.co/jAs2n6jdQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843641068237271201",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1560,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们直男真单纯 https://t.co/jAs2n6jdQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27946,
+          "following_count": 238,
+          "like_count": 10485,
+          "listed_count": 26,
+          "tweet_count": 3059
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T06:24:04.000Z",
+        "description": "同志们好！我是日本人喜欢学习汉语、中国文化、和奇怪的知识！如果我的中文错了，请告诉我！今天也用力踩下油门🩵 #王洪文迷你比基尼社团\n🚫请勿转载🚫请勿在我的评论区发歧视性言论、政治宣传、骚扰、吵架。违反了就给你看排泄癖好小说\nR-18: @baozouR18\n接稿 https://t.co/1HTSZwaDzr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 54,
+                "tag": "王洪文迷你比基尼社团"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "baozouR18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@baozou01",
+                "end": 155,
+                "expanded_url": "https://skeb.jp/@baozou01",
+                "start": 132,
+                "url": "https://t.co/1HTSZwaDzr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1159370376",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1159370376",
+                "start": 0,
+                "url": "https://t.co/2z547YWi9M"
+              }
+            ]
+          }
+        },
+        "id": "1251033624222158849",
+        "location": "🇯🇵",
+        "name": "暴走半島",
+        "pinned_tweet_id": "1731493071790232033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474259239279665156/KN7ImQ0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21341,
+          "following_count": 285,
+          "like_count": 59526,
+          "listed_count": 43,
+          "tweet_count": 7053
+        },
+        "url": "https://t.co/2z547YWi9M",
+        "username": "baozou0121",
+        "verified": true
+      }
+    ]
+  }
+}

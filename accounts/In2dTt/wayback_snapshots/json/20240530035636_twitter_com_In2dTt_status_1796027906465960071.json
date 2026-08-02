@@ -1,0 +1,252 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1795951525694476288"
+      ],
+      "media_source_tweet_id": [
+        "1795951530572480537"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1796027906465960071",
+    "created_at": "2024-05-30T03:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T04:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796027906465960071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1659032738014347266",
+          "start": 3,
+          "username": "madokagratis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/1QHbbSdyc9",
+          "end": 41,
+          "expanded_url": "https://twitter.com/madokagratis/status/1795951530572480537/photo/1",
+          "media_key": "3_1795951525694476288",
+          "start": 18,
+          "url": "https://t.co/1QHbbSdyc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796027906465960071",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795951530572480537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madokagratis: https://t.co/1QHbbSdyc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_1795951525694476288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOyAZbLXEAAq6nb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795951525694476288"
+          ],
+          "media_source_tweet_id": [
+            "1795951530572480537"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1796027906465960071",
+        "created_at": "2024-05-30T03:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T04:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796027906465960071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1659032738014347266",
+              "start": 3,
+              "username": "madokagratis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1QHbbSdyc9",
+              "end": 41,
+              "expanded_url": "https://twitter.com/madokagratis/status/1795951530572480537/photo/1",
+              "media_key": "3_1795951525694476288",
+              "start": 18,
+              "url": "https://t.co/1QHbbSdyc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796027906465960071",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795951530572480537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madokagratis: https://t.co/1QHbbSdyc9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795951525694476288"
+          ]
+        },
+        "author_id": "1659032738014347266",
+        "conversation_id": "1795951530572480537",
+        "created_at": "2024-05-29T22:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T23:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795951530572480537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1QHbbSdyc9",
+              "end": 23,
+              "expanded_url": "https://twitter.com/madokagratis/status/1795951530572480537/photo/1",
+              "media_key": "3_1795951525694476288",
+              "start": 0,
+              "url": "https://t.co/1QHbbSdyc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795951530572480537",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 7965,
+          "like_count": 944,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1QHbbSdyc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28358,
+          "following_count": 227,
+          "like_count": 10420,
+          "listed_count": 28,
+          "tweet_count": 2915
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T03:07:15.000Z",
+        "description": "MADOKA ☆ MAGICA ele/dele\nlet's measure the weight of God with the scale in our hands",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolita.♡",
+                "end": 23,
+                "expanded_url": "http://lolita.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/laSGxDM3Dm"
+              }
+            ]
+          }
+        },
+        "id": "1659032738014347266",
+        "location": "discord.gg/wnBKtNfEcU",
+        "name": "madoka garota magica deusa",
+        "pinned_tweet_id": "1722425702773871090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698725835514032128/JijmfYmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7222,
+          "following_count": 598,
+          "like_count": 2120,
+          "listed_count": 6,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/laSGxDM3Dm",
+        "username": "madokagratis",
+        "verified": false
+      }
+    ]
+  }
+}

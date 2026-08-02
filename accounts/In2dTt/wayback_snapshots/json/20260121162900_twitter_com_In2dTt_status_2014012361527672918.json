@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2014012361527672918",
+    "created_at": "2026-01-21T16:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014012361527672918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842268081567272960",
+          "start": 3,
+          "username": "BrittanyBe89332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014012361527672918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013655233482879417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BrittanyBe89332: 我早就找不回刚玩推特的那种青涩的热情了，我一直在迷失"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2014012361527672918",
+        "created_at": "2026-01-21T16:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014012361527672918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842268081567272960",
+              "start": 3,
+              "username": "BrittanyBe89332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014012361527672918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013655233482879417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BrittanyBe89332: 我早就找不回刚玩推特的那种青涩的热情了，我一直在迷失"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842268081567272960",
+        "conversation_id": "2013655233482879417",
+        "created_at": "2026-01-20T16:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013655233482879417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013655233482879417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4415,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我早就找不回刚玩推特的那种青涩的热情了，我一直在迷失"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28878,
+          "following_count": 287,
+          "like_count": 10642,
+          "listed_count": 26,
+          "media_count": 834,
+          "tweet_count": 3134
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "只有两个号被骗了别找我@Deehoo0203 | ins↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Deehoo0203"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/stalkill11?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/stalkill11?igsh=MWl3Z282YXVhYmJiNw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/AqzBHlheJ0"
+              }
+            ]
+          }
+        },
+        "id": "1842268081567272960",
+        "location": "🚪288/520/1314",
+        "name": "我咋哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979975049563066368/WOhOVKlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35834,
+          "following_count": 244,
+          "like_count": 891,
+          "listed_count": 76,
+          "media_count": 117,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/AqzBHlheJ0",
+        "username": "BrittanyBe89332",
+        "verified": false
+      }
+    ]
+  }
+}

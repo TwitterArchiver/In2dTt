@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1858757630032048283",
+    "created_at": "2024-11-20T00:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T01:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859038750921433468"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "akira",
+          "probability": 0.709,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "968036693981872128",
+          "start": 0,
+          "username": "lbuprofen_swnsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859038750921433468",
+    "in_reply_to_user_id": "968036693981872128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858964648676257813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbuprofen_swnsn akira同意发的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1858757630032048283",
+        "created_at": "2024-11-20T00:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T01:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859038750921433468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "akira",
+              "probability": 0.709,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "968036693981872128",
+              "start": 0,
+              "username": "lbuprofen_swnsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859038750921433468",
+        "in_reply_to_user_id": "968036693981872128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858964648676257813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbuprofen_swnsn akira同意发的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968036693981872128",
+        "conversation_id": "1858757630032048283",
+        "created_at": "2024-11-19T20:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T21:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858964648676257813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858964648676257813",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858757630032048283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1858175389622763625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29708,
+          "following_count": 257,
+          "like_count": 10756,
+          "listed_count": 29,
+          "tweet_count": 3184
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T08:15:07.000Z",
+        "description": "废物/药学生/准备很快的润/哈哈，那我没用的话那我还是去死吧/管他，反正也没人关心我，准备入手jdm",
+        "id": "968036693981872128",
+        "location": "马里亚纳海沟",
+        "name": "sawano💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848735058712268801/Wzbhm-RY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 375,
+          "like_count": 1709,
+          "listed_count": 2,
+          "tweet_count": 287
+        },
+        "username": "lbuprofen_swnsn",
+        "verified": false
+      }
+    ]
+  }
+}

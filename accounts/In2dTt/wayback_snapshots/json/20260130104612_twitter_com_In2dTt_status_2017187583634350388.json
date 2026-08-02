@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017187562448912384",
+        "3_2017187562427916289",
+        "3_2017187562444800000"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2017187583634350388",
+    "created_at": "2026-01-30T10:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T11:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017187583634350388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8HmCrbuOyt",
+          "end": 56,
+          "expanded_url": "https://x.com/In2dTt/status/2017187583634350388/photo/1",
+          "media_key": "3_2017187562448912384",
+          "start": 33,
+          "url": "https://t.co/8HmCrbuOyt"
+        },
+        {
+          "display_url": "pic.x.com/8HmCrbuOyt",
+          "end": 56,
+          "expanded_url": "https://x.com/In2dTt/status/2017187583634350388/photo/1",
+          "media_key": "3_2017187562427916289",
+          "start": 33,
+          "url": "https://t.co/8HmCrbuOyt"
+        },
+        {
+          "display_url": "pic.x.com/8HmCrbuOyt",
+          "end": 56,
+          "expanded_url": "https://x.com/In2dTt/status/2017187583634350388/photo/1",
+          "media_key": "3_2017187562444800000",
+          "start": 33,
+          "url": "https://t.co/8HmCrbuOyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017187583634350388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想要神的慈悲 我只想要作为人的关怀 \n我要汤汤 我要我的灵魂 https://t.co/8HmCrbuOyt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017187583634350388].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017187583634350388",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017187583634350388"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2017187562448912384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_59ZokagAA5a4G.jpg",
+        "width": 1148
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2017187562427916289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_59ZofaIAEQfWK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017187562444800000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_59ZojbwAAPI7H.jpg",
+        "width": 1856
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "🚪52r電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "1994845175773106661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963078425377439746/0vY8foCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28795,
+          "following_count": 290,
+          "like_count": 10644,
+          "listed_count": 26,
+          "media_count": 837,
+          "tweet_count": 3139
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

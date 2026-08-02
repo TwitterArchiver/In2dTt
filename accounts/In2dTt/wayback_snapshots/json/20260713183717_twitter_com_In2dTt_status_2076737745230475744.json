@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2076324825623331310",
+    "created_at": "2026-07-13T18:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076737745230475744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1153970326604144640",
+          "start": 0,
+          "username": "Ruters0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076737745230475744",
+    "in_reply_to_user_id": "1153970326604144640",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076324825623331310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruters0615 …"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076324780102623232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCWYvxboAA-leT.jpg",
+        "width": 854
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2076324780110934016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCWYvzacAA3bSs.jpg",
+        "width": 744
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2076324780102553600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCWYvxakAAloc5.jpg",
+        "width": 696
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2076324780085764096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCWYvtaYAAhVCx.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2076324825623331310",
+        "created_at": "2026-07-13T18:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076737745230475744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153970326604144640",
+              "start": 0,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076737745230475744",
+        "in_reply_to_user_id": "1153970326604144640",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076324825623331310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruters0615 …"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076324780102623232",
+            "3_2076324780110934016",
+            "3_2076324780102553600",
+            "3_2076324780085764096"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "2076324825623331310",
+        "created_at": "2026-07-12T15:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076324825623331310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5591pEvjg",
+              "end": 43,
+              "expanded_url": "https://x.com/Ruters0615/status/2076324825623331310/photo/1",
+              "media_key": "3_2076324780102623232",
+              "start": 20,
+              "url": "https://t.co/z5591pEvjg"
+            },
+            {
+              "display_url": "pic.x.com/z5591pEvjg",
+              "end": 43,
+              "expanded_url": "https://x.com/Ruters0615/status/2076324825623331310/photo/1",
+              "media_key": "3_2076324780110934016",
+              "start": 20,
+              "url": "https://t.co/z5591pEvjg"
+            },
+            {
+              "display_url": "pic.x.com/z5591pEvjg",
+              "end": 43,
+              "expanded_url": "https://x.com/Ruters0615/status/2076324825623331310/photo/1",
+              "media_key": "3_2076324780102553600",
+              "start": 20,
+              "url": "https://t.co/z5591pEvjg"
+            },
+            {
+              "display_url": "pic.x.com/z5591pEvjg",
+              "end": 43,
+              "expanded_url": "https://x.com/Ruters0615/status/2076324825623331310/photo/1",
+              "media_key": "3_2076324780085764096",
+              "start": 20,
+              "url": "https://t.co/z5591pEvjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076324825623331310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 13049,
+          "like_count": 124,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "《  东  方  中  国  乡  》 https://t.co/z5591pEvjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28955,
+          "following_count": 301,
+          "like_count": 10734,
+          "listed_count": 24,
+          "media_count": 836,
+          "tweet_count": 3152
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297402,
+          "following_count": 2386,
+          "like_count": 2421,
+          "listed_count": 945,
+          "media_count": 2449,
+          "tweet_count": 3268
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1858774543038640419",
+    "created_at": "2024-12-17T08:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T09:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868935362556706825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1532369209614688256",
+          "start": 0,
+          "username": "shuibei94559640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868935362556706825",
+    "in_reply_to_user_id": "1532369209614688256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858774543038640419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuibei94559640 啊？不要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1858774543038640419",
+        "created_at": "2024-12-17T08:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T09:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868935362556706825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532369209614688256",
+              "start": 0,
+              "username": "shuibei94559640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868935362556706825",
+        "in_reply_to_user_id": "1532369209614688256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858774543038640419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuibei94559640 啊？不要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532369209614688256",
+        "conversation_id": "1858774543038640419",
+        "created_at": "2024-11-19T07:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T08:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858774543038640419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858774543038640419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟宝宝，谁还能联系到她啊，她当时给我发想你了，我都还没有意识到，啊啊啊啊，我想知道小鸟现在还好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "私と…",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "抽象皇帝汤汤",
+        "pinned_tweet_id": "1867914851219325130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867923776899268608/uCet3MkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29891,
+          "following_count": 265,
+          "like_count": 10960,
+          "listed_count": 28,
+          "media_count": 898,
+          "tweet_count": 3312
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-02T14:31:21.000Z",
+        "description": "可爱的水母，伟大的！我需要很多很多的钱",
+        "id": "1532369209614688256",
+        "location": "窗帘",
+        "name": "水母先生！",
+        "pinned_tweet_id": "1844147215515910325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716287195701805056/CZU_I0W7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 445,
+          "like_count": 9454,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 2522
+        },
+        "username": "shuibei94559640",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2066765427825631435",
+    "created_at": "2026-06-16T07:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066789262901776840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066626659768532992",
+          "start": 0,
+          "username": "Kanakoyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066789262901776840",
+    "in_reply_to_user_id": "2066626659768532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066765427825631435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanakoyq 麦块牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2066765427825631435",
+        "created_at": "2026-06-16T07:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066789262901776840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066626659768532992",
+              "start": 0,
+              "username": "Kanakoyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066789262901776840",
+        "in_reply_to_user_id": "2066626659768532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066765427825631435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanakoyq 麦块牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066626659768532992",
+        "conversation_id": "2066765427825631435",
+        "created_at": "2026-06-16T06:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066765427825631435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066765427825631435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "tt和我打电话 打一半说要去玩麦块 麦块赢knk败"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28859,
+          "following_count": 293,
+          "like_count": 10630,
+          "listed_count": 24,
+          "media_count": 879,
+          "tweet_count": 3251
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T21:02:08.000Z",
+        "description": "07 INTP 中推惨圈红色担当 無邪之翼 \n我推：@Uni_btt\n小跟班/好朋友：@TudouCn24795",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "Uni_btt"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "TudouCn24795"
+              }
+            ]
+          }
+        },
+        "id": "2066626659768532992",
+        "name": "草莓水烟枪🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066628433615220736/yZceHquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 11,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "Kanakoyq",
+        "verified": false
+      }
+    ]
+  }
+}

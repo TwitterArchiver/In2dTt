@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1850771016953303040"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "1850771052202201432",
+    "created_at": "2024-10-28T05:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T06:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850771052202201432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xTOenYn9K",
+          "end": 23,
+          "expanded_url": "https://x.com/In2dTt/status/1850771052202201432/video/1",
+          "media_key": "7_1850771016953303040",
+          "start": 0,
+          "url": "https://t.co/8xTOenYn9K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850771052202201432",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/8xTOenYn9K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12403,
+        "height": 1280,
+        "media_key": "7_1850771016953303040",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1850771016953303040/pu/img/w0FxNEvHAnIw3in2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850771016953303040/pu/vid/avc1/320x568/70sqdmvYbsWbhsvb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850771016953303040/pu/vid/avc1/480x852/SUMi7NEyGS67p8ks.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1850771016953303040/pu/vid/avc1/720x1280/gd4KzisEjRlhBGuw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1850771016953303040/pu/pl/l7-wlhrKtVQIbS-s.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1850771016953303040"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "1850771052202201432",
+        "created_at": "2024-10-28T05:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T06:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850771052202201432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xTOenYn9K",
+              "end": 23,
+              "expanded_url": "https://x.com/In2dTt/status/1850771052202201432/video/1",
+              "media_key": "7_1850771016953303040",
+              "start": 0,
+              "url": "https://t.co/8xTOenYn9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850771052202201432",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8xTOenYn9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27808,
+          "following_count": 240,
+          "like_count": 10524,
+          "listed_count": 27,
+          "tweet_count": 3083
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

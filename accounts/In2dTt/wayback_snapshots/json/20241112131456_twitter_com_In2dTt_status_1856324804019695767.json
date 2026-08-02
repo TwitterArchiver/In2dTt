@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "1856324804019695767",
+    "created_at": "2024-11-12T13:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T14:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856324804019695767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1583317300152651776",
+          "start": 3,
+          "username": "Tsuki_NekoY"
+        },
+        {
+          "end": 24,
+          "id": "1548471557873610752",
+          "start": 17,
+          "username": "In2dTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856324804019695767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856324578919977246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsuki_NekoY: @In2dTt 草草草（慌\n湯是rikana唯一的小鈴鐺&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1856324804019695767",
+        "created_at": "2024-11-12T13:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T14:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856324804019695767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1583317300152651776",
+              "start": 3,
+              "username": "Tsuki_NekoY"
+            },
+            {
+              "end": 24,
+              "id": "1548471557873610752",
+              "start": 17,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856324804019695767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856324578919977246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsuki_NekoY: @In2dTt 草草草（慌\n湯是rikana唯一的小鈴鐺&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583317300152651776",
+        "conversation_id": "1856260251533873400",
+        "created_at": "2024-11-12T13:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T14:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856324578919977246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856324578919977246",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856323468763054282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 草草草（慌\n湯是rikana唯一的小鈴鐺&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "汤汤",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "汤汤",
+        "pinned_tweet_id": "1826918278339416531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837417510720741376/nNJ7XyR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27879,
+          "following_count": 256,
+          "like_count": 10676,
+          "listed_count": 27,
+          "tweet_count": 3150
+        },
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T04:40:54.000Z",
+        "description": "転載禁止/陰キャ/⚓️/精神障害/無性別/Sakuraの猫猫/日本語/裏@SakuraNekosama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "SakuraNekosama"
+              }
+            ]
+          }
+        },
+        "id": "1583317300152651776",
+        "location": "東京  🚪88/150/520   私信只回口令红包",
+        "name": "Rikanaちゃん",
+        "pinned_tweet_id": "1846531641117941988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856000292158062592/JQ-hbA8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 56,
+          "like_count": 709,
+          "listed_count": 2,
+          "tweet_count": 1285
+        },
+        "username": "Tsuki_NekoY",
+        "verified": false
+      }
+    ]
+  }
+}

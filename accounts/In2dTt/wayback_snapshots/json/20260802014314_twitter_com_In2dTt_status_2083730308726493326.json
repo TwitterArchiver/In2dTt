@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083730286110732288",
+        "3_2083730286115004416",
+        "3_2083730286110818304"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2083730308726493326",
+    "created_at": "2026-08-02T01:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083730308726493326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/17ZsvN5DHI",
+          "end": 50,
+          "expanded_url": "https://x.com/In2dTt/status/2083730308726493326/photo/1",
+          "media_key": "3_2083730286110732288",
+          "start": 27,
+          "url": "https://t.co/17ZsvN5DHI"
+        },
+        {
+          "display_url": "pic.x.com/17ZsvN5DHI",
+          "end": 50,
+          "expanded_url": "https://x.com/In2dTt/status/2083730308726493326/photo/1",
+          "media_key": "3_2083730286115004416",
+          "start": 27,
+          "url": "https://t.co/17ZsvN5DHI"
+        },
+        {
+          "display_url": "pic.x.com/17ZsvN5DHI",
+          "end": 50,
+          "expanded_url": "https://x.com/In2dTt/status/2083730308726493326/photo/1",
+          "media_key": "3_2083730286110818304",
+          "start": 27,
+          "url": "https://t.co/17ZsvN5DHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083730308726493326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "内心的痛苦无法言说 音乐和绘画大概是我唯一的吐真剂吧 https://t.co/17ZsvN5DHI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083730286110732288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrlp7dacAAsCj1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083730286115004416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrlp7eboAAjXQl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083730286110818304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrlp7dbwAAPR7n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083730286110732288",
+            "3_2083730286115004416",
+            "3_2083730286110818304"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2083730308726493326",
+        "created_at": "2026-08-02T01:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083730308726493326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17ZsvN5DHI",
+              "end": 50,
+              "expanded_url": "https://x.com/In2dTt/status/2083730308726493326/photo/1",
+              "media_key": "3_2083730286110732288",
+              "start": 27,
+              "url": "https://t.co/17ZsvN5DHI"
+            },
+            {
+              "display_url": "pic.x.com/17ZsvN5DHI",
+              "end": 50,
+              "expanded_url": "https://x.com/In2dTt/status/2083730308726493326/photo/1",
+              "media_key": "3_2083730286115004416",
+              "start": 27,
+              "url": "https://t.co/17ZsvN5DHI"
+            },
+            {
+              "display_url": "pic.x.com/17ZsvN5DHI",
+              "end": 50,
+              "expanded_url": "https://x.com/In2dTt/status/2083730308726493326/photo/1",
+              "media_key": "3_2083730286110818304",
+              "start": 27,
+              "url": "https://t.co/17ZsvN5DHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083730308726493326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "内心的痛苦无法言说 音乐和绘画大概是我唯一的吐真剂吧 https://t.co/17ZsvN5DHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28874,
+          "following_count": 318,
+          "like_count": 10993,
+          "listed_count": 24,
+          "media_count": 851,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

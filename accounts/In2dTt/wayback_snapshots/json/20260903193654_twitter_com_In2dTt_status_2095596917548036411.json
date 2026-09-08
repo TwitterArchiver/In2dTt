@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2095596215379664964",
+    "created_at": "2026-09-03T19:36:54.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T20:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095596917548036411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1238332293074337793",
+          "start": 0,
+          "username": "kia72449311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095596917548036411",
+    "in_reply_to_user_id": "1238332293074337793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095596263760687509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kia72449311 号借我玩玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2095596215379664964",
+        "created_at": "2026-09-03T19:36:54.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T20:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095596917548036411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1238332293074337793",
+              "start": 0,
+              "username": "kia72449311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095596917548036411",
+        "in_reply_to_user_id": "1238332293074337793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095596263760687509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kia72449311 号借我玩玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238332293074337793",
+        "conversation_id": "2095596215379664964",
+        "created_at": "2026-09-03T19:34:18.000Z",
+        "display_text_range": [
+          8,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T20:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095596263760687509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095596263760687509",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095596215379664964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 休整一下也挺好，等状态满格再回归～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2095596917548036411",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28729,
+          "following_count": 340,
+          "like_count": 11492,
+          "listed_count": 24,
+          "media_count": 823,
+          "tweet_count": 3246
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-13T05:13:31.000Z",
+        "description": "日常刷刷视频、看看海外网站，用迅狐VPN基本够用了。下载链接就在主页下方",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/N8QVeVArGc"
+              }
+            ]
+          }
+        },
+        "id": "1238332293074337793",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095596403951120685",
+        "name": "FoxLink迅狐VPN节点",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1238332293074337793/1586292523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091452771191144448/3qsZHPZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 300,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/N8QVeVArGc",
+        "username": "kia72449311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2090395463728193861",
+    "created_at": "2026-08-20T11:08:10.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090395463728193861"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090395463728193861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "里世界大崩塌所有汤同意决定处死神明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2090395463728193861",
+        "created_at": "2026-08-20T11:08:10.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090395463728193861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090395463728193861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "里世界大崩塌所有汤同意决定处死神明"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2090395463728193861",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084103476741828608/OKQLJanl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28749,
+          "following_count": 331,
+          "like_count": 11271,
+          "listed_count": 24,
+          "media_count": 814,
+          "tweet_count": 3204
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

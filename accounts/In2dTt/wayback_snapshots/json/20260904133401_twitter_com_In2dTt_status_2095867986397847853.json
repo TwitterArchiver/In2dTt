@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2095867986397847853",
+    "created_at": "2026-09-04T13:34:01.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095867986397847853"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095867986397847853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在就是可塑性记忆概念 和airi同居这么多天我每天都吃sns重塑一下记忆  到现在都和他像第一天认识一样紧张"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2095867986397847853",
+        "created_at": "2026-09-04T13:34:01.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095867986397847853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095867986397847853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在就是可塑性记忆概念 和airi同居这么多天我每天都吃sns重塑一下记忆  到现在都和他像第一天认识一样紧张"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2095867986397847853",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28734,
+          "following_count": 341,
+          "like_count": 11522,
+          "listed_count": 24,
+          "media_count": 823,
+          "tweet_count": 3250
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,668 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401883640598986757",
+          "name": "Face makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1401883640598986757",
+          "name": "Face makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Make-up and Cosmetics",
+          "id": "855442035314089988",
+          "name": "Makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Foundation",
+          "id": "856595706311606272",
+          "name": "Foundation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Foundation",
+          "id": "856595706311606272",
+          "name": "Foundation"
+        }
+      }
+    ],
+    "conversation_id": "2092547392839303190",
+    "created_at": "2026-08-26T09:39:10.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092547392839303190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835673145661083648",
+          "start": 3,
+          "username": "rechi_sub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092547392839303190",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 473
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092188252128333871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rechi_sub: まってこれ裏で彼氏がリズム天国やってる声全部入っててしぬWWWWWWWWWWWWWWW\nﾋﾟﾋﾟｯ ｴｲﾔｰ‼️とかやってるやばい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401883640598986757",
+              "name": "Face makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1401883640598986757",
+              "name": "Face makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Foundation",
+              "id": "856595706311606272",
+              "name": "Foundation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Foundation",
+              "id": "856595706311606272",
+              "name": "Foundation"
+            }
+          }
+        ],
+        "conversation_id": "2092547392839303190",
+        "created_at": "2026-08-26T09:39:10.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092547392839303190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835673145661083648",
+              "start": 3,
+              "username": "rechi_sub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092547392839303190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 473
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092188252128333871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rechi_sub: まってこれ裏で彼氏がリズム天国やってる声全部入っててしぬWWWWWWWWWWWWWWW\nﾋﾟﾋﾟｯ ｴｲﾔｰ‼️とかやってるやばい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835673145661083648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401883640598986757",
+              "name": "Face makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1401883640598986757",
+              "name": "Face makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Foundation",
+              "id": "856595706311606272",
+              "name": "Foundation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Foundation",
+              "id": "856595706311606272",
+              "name": "Foundation"
+            }
+          }
+        ],
+        "conversation_id": "2092188252128333871",
+        "created_at": "2026-08-25T09:52:04.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092188252128333871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rechi325/statu…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/rechi325/status/2091895324038369370",
+              "start": 66,
+              "url": "https://t.co/i9QFPVZGqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092188252128333871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1953,
+          "impression_count": 2357283,
+          "like_count": 20187,
+          "quote_count": 138,
+          "reply_count": 57,
+          "retweet_count": 473
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091895324038369370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まってこれ裏で彼氏がリズム天国やってる声全部入っててしぬWWWWWWWWWWWWWWW\nﾋﾟﾋﾟｯ ｴｲﾔｰ‼️とかやってるやばい https://t.co/i9QFPVZGqt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️🚪288口令",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2092547392839303190",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28751,
+          "following_count": 335,
+          "like_count": 11341,
+          "listed_count": 24,
+          "media_count": 820,
+          "tweet_count": 3219
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-16T13:32:44.000Z",
+        "description": "生肉が好き。美容とご飯とADHD人生の話。コスメとかスキンケアはこっち@rechi325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "rechi325"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/rechi_sub",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/rechi_sub",
+                "start": 0,
+                "url": "https://t.co/yhf99U6WtY"
+              }
+            ]
+          }
+        },
+        "id": "1835673145661083648",
+        "is_identity_verified": false,
+        "location": "INTP人（んちゅ）",
+        "most_recent_tweet_id": "2092525356020531461",
+        "name": "うにの部屋",
+        "pinned_tweet_id": "1948632713457742163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835673145661083648/1753897642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889569367526088705/cEgOpjNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11617,
+          "following_count": 66,
+          "like_count": 4781,
+          "listed_count": 38,
+          "media_count": 463,
+          "tweet_count": 2132
+        },
+        "url": "https://t.co/yhf99U6WtY",
+        "username": "rechi_sub",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

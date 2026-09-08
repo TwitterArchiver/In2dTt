@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2095390629933309952"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2095390656814539212",
+    "created_at": "2026-09-03T05:57:17.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095390656814539212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z2TWmwt9y2",
+          "end": 26,
+          "expanded_url": "https://x.com/In2dTt/status/2095390656814539212/photo/1",
+          "media_key": "16_2095390629933309952",
+          "start": 3,
+          "url": "https://t.co/z2TWmwt9y2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095390656814539212",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2095390629933309952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "颜艺 https://t.co/z2TWmwt9y2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2095390629933309952",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRRSrRLbYAAJh8P.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRRSrRLbYAAJh8P.mp4"
+          }
+        ],
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095390629933309952"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2095390656814539212",
+        "created_at": "2026-09-03T05:57:17.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095390656814539212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2TWmwt9y2",
+              "end": 26,
+              "expanded_url": "https://x.com/In2dTt/status/2095390656814539212/photo/1",
+              "media_key": "16_2095390629933309952",
+              "start": 3,
+              "url": "https://t.co/z2TWmwt9y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095390656814539212",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2095390629933309952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "颜艺 https://t.co/z2TWmwt9y2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2095390656814539212",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28729,
+          "following_count": 337,
+          "like_count": 11480,
+          "listed_count": 24,
+          "media_count": 823,
+          "tweet_count": 3244
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

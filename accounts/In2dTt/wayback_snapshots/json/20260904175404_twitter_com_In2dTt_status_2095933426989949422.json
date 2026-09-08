@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095933414545489921",
+        "3_2095933414558085121"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2095933426989949422",
+    "created_at": "2026-09-04T17:54:04.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T18:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095933426989949422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgbGj0G3WM",
+          "end": 31,
+          "expanded_url": "https://x.com/In2dTt/status/2095933426989949422/photo/1",
+          "media_key": "3_2095933414545489921",
+          "start": 8,
+          "url": "https://t.co/fgbGj0G3WM"
+        },
+        {
+          "display_url": "pic.x.com/fgbGj0G3WM",
+          "end": 31,
+          "expanded_url": "https://x.com/In2dTt/status/2095933426989949422/photo/1",
+          "media_key": "3_2095933414558085121",
+          "start": 8,
+          "url": "https://t.co/fgbGj0G3WM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095933426989949422",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095933414545489921"
+      },
+      {
+        "media_key": "3_2095933414558085121"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中学时期和现在 https://t.co/fgbGj0G3WM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2095933414545489921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZAVfbbAAEMrE_.jpg",
+        "width": 600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095933414558085121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZAVfebMAEUCOK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095933414545489921",
+            "3_2095933414558085121"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2095933426989949422",
+        "created_at": "2026-09-04T17:54:04.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095933426989949422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgbGj0G3WM",
+              "end": 31,
+              "expanded_url": "https://x.com/In2dTt/status/2095933426989949422/photo/1",
+              "media_key": "3_2095933414545489921",
+              "start": 8,
+              "url": "https://t.co/fgbGj0G3WM"
+            },
+            {
+              "display_url": "pic.x.com/fgbGj0G3WM",
+              "end": 31,
+              "expanded_url": "https://x.com/In2dTt/status/2095933426989949422/photo/1",
+              "media_key": "3_2095933414558085121",
+              "start": 8,
+              "url": "https://t.co/fgbGj0G3WM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095933426989949422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095933414545489921"
+          },
+          {
+            "media_key": "3_2095933414558085121"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中学时期和现在 https://t.co/fgbGj0G3WM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2095933426989949422",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28732,
+          "following_count": 341,
+          "like_count": 11524,
+          "listed_count": 24,
+          "media_count": 824,
+          "tweet_count": 3251
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

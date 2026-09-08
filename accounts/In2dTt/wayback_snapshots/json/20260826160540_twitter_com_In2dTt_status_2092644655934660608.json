@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057189517912952832"
+      ],
+      "media_source_tweet_id": [
+        "2057189528625127613"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2092644655934660608",
+    "created_at": "2026-08-26T16:05:40.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092644655934660608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886465781950767107",
+          "start": 3,
+          "username": "fufudbd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLJywg88XG",
+          "end": 40,
+          "expanded_url": "https://x.com/fufudbd/status/2057189528625127613/photo/1",
+          "media_key": "3_2057189517912952832",
+          "start": 17,
+          "url": "https://t.co/JLJywg88XG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092644655934660608",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2057189517912952832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057189528625127613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fufudbd: 汪汪汪 https://t.co/JLJywg88XG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2057189517912952832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIya95Lb0AAmmHq.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057189517912952832"
+          ],
+          "media_source_tweet_id": [
+            "2057189528625127613"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2092644655934660608",
+        "created_at": "2026-08-26T16:05:40.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092644655934660608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886465781950767107",
+              "start": 3,
+              "username": "fufudbd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLJywg88XG",
+              "end": 40,
+              "expanded_url": "https://x.com/fufudbd/status/2057189528625127613/photo/1",
+              "media_key": "3_2057189517912952832",
+              "start": 17,
+              "url": "https://t.co/JLJywg88XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092644655934660608",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2057189517912952832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057189528625127613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fufudbd: 汪汪汪 https://t.co/JLJywg88XG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057189517912952832"
+          ]
+        },
+        "author_id": "1886465781950767107",
+        "conversation_id": "2057189528625127613",
+        "created_at": "2026-05-20T19:59:39.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-20T20:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057189528625127613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLJywg88XG",
+              "end": 27,
+              "expanded_url": "https://x.com/fufudbd/status/2057189528625127613/photo/1",
+              "media_key": "3_2057189517912952832",
+              "start": 4,
+              "url": "https://t.co/JLJywg88XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057189528625127613",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2057189517912952832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "汪汪汪 https://t.co/JLJywg88XG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️🚪288口令",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2092644655934660608",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28753,
+          "following_count": 335,
+          "like_count": 11358,
+          "listed_count": 24,
+          "media_count": 819,
+          "tweet_count": 3219
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T17:24:36.000Z",
+        "description": "这里爱莉 地雷男子intp 小男孩qwq 坐标上海/千叶 181 94斤可以找我一起打mai 想要一个爱我的人",
+        "id": "1886465781950767107",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2092616428004557233",
+        "name": "airi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886465781950767107/1743024034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969803931468644352/UC2DPh6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 252,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "fufudbd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

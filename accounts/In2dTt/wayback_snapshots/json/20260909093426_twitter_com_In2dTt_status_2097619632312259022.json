@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056722364491354112"
+      ],
+      "media_source_tweet_id": [
+        "2056722369587421296"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2097619632312259022",
+    "created_at": "2026-09-09T09:34:26.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097619632312259022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "911570755330105345",
+          "start": 3,
+          "username": "nougami_16344"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZrXMwCAHC",
+          "end": 47,
+          "expanded_url": "https://x.com/nougami_16344/status/2056722369587421296/photo/1",
+          "media_key": "3_2056722364491354112",
+          "start": 24,
+          "url": "https://t.co/FZrXMwCAHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097619632312259022",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2056722364491354112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 510
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056722369587421296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nougami_16344: すけべ牛 https://t.co/FZrXMwCAHC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056722364491354112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIryF_Eb0AAu-yj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056722364491354112"
+          ],
+          "media_source_tweet_id": [
+            "2056722369587421296"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2097619632312259022",
+        "created_at": "2026-09-09T09:34:26.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097619632312259022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "911570755330105345",
+              "start": 3,
+              "username": "nougami_16344"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZrXMwCAHC",
+              "end": 47,
+              "expanded_url": "https://x.com/nougami_16344/status/2056722369587421296/photo/1",
+              "media_key": "3_2056722364491354112",
+              "start": 24,
+              "url": "https://t.co/FZrXMwCAHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097619632312259022",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2056722364491354112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 510
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056722369587421296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nougami_16344: すけべ牛 https://t.co/FZrXMwCAHC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056722364491354112"
+          ]
+        },
+        "author_id": "911570755330105345",
+        "conversation_id": "2056722369587421296",
+        "created_at": "2026-05-19T13:03:19.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056722369587421296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZrXMwCAHC",
+              "end": 28,
+              "expanded_url": "https://x.com/nougami_16344/status/2056722369587421296/photo/1",
+              "media_key": "3_2056722364491354112",
+              "start": 5,
+              "url": "https://t.co/FZrXMwCAHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056722369587421296",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2056722364491354112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2674,
+          "impression_count": 176935,
+          "like_count": 14703,
+          "quote_count": 12,
+          "reply_count": 58,
+          "retweet_count": 510
+        },
+        "reply_settings": "everyone",
+        "text": "すけべ牛 https://t.co/FZrXMwCAHC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2097619632312259022",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28737,
+          "following_count": 344,
+          "like_count": 11611,
+          "listed_count": 24,
+          "media_count": 827,
+          "tweet_count": 3268
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-23T12:39:39.000Z",
+        "description": "🦄❤️‍🔥魔人探偵脳噛ネウロが好きです▽ここいる@BAR__CANDY🍭同伴はシャンパン🍾フェミニスト🔥投稿画像の二次利用禁止🈲https://t.co/KssNUpUO0E",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "BAR__CANDY"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/nougami16344?r…",
+                "end": 87,
+                "expanded_url": "https://instagram.com/nougami16344?r=nametag7eRGMqdd60c5aLjpGxySU",
+                "start": 64,
+                "url": "https://t.co/KssNUpUO0E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2LI4PGLLXGEM0?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/lxr99DJP7p"
+              }
+            ]
+          }
+        },
+        "id": "911570755330105345",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097616497682374786",
+        "name": "のうがみまい🦄❤️‍🔥",
+        "pinned_tweet_id": "2093687749333356814",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/911570755330105345/1774882936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096317520986963969/wZCoy1EB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63128,
+          "following_count": 1417,
+          "like_count": 287788,
+          "listed_count": 325,
+          "media_count": 14366,
+          "tweet_count": 182559
+        },
+        "url": "https://t.co/lxr99DJP7p",
+        "username": "nougami_16344",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

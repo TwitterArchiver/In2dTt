@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2096927690943279280",
+    "created_at": "2026-09-08T19:31:07.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T20:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097407403184836940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950521580288884736",
+          "start": 0,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097407403184836940",
+    "in_reply_to_user_id": "1950521580288884736",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097286788926611832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeKam10623 OK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2096927690943279280",
+        "created_at": "2026-09-08T19:31:07.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097407403184836940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950521580288884736",
+              "start": 0,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097407403184836940",
+        "in_reply_to_user_id": "1950521580288884736",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097286788926611832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeKam10623 OK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950521580288884736",
+        "conversation_id": "2096927690943279280",
+        "created_at": "2026-09-08T11:31:50.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097286788926611832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097286788926611832",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096927690943279280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 可是汤汤就是一个大姐姐呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2097407403184836940",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28738,
+          "following_count": 343,
+          "like_count": 11576,
+          "listed_count": 24,
+          "media_count": 826,
+          "tweet_count": 3264
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "坐标重庆/不定时去江浙沪 接线下包路費可🛩️",
+        "id": "1950521580288884736",
+        "is_identity_verified": false,
+        "location": "🚪199/288/388/520",
+        "most_recent_tweet_id": "2097360239431426501",
+        "name": "血",
+        "pinned_tweet_id": "2097258181445423186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1950521580288884736/1759548486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095708374461755392/KUfGgvbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6626,
+          "following_count": 131,
+          "like_count": 448,
+          "listed_count": 14,
+          "media_count": 78,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "AmeKam10623",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

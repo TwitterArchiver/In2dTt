@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102511842971332608"
+      ]
+    },
+    "author_id": "1548471557873610752",
+    "conversation_id": "2102511979340697645",
+    "created_at": "2026-09-22T21:34:53.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T22:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102511979340697645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v6pG6PPmVf",
+          "end": 23,
+          "expanded_url": "https://x.com/In2dTt/status/2102511979340697645/video/1",
+          "media_key": "13_2102511842971332608",
+          "start": 0,
+          "url": "https://t.co/v6pG6PPmVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102511979340697645",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2102511842971332608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/v6pG6PPmVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13666,
+        "height": 1280,
+        "media_key": "13_2102511842971332608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102511842971332608/img/ONugPZhirNDI9TRM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102511842971332608/vid/avc1/320x568/6BmOdXvmP2j4lwnI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102511842971332608/vid/avc1/480x852/rChWdkVP6ajpyueW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102511842971332608/vid/avc1/720x1280/Png9lKwQdBCBfyo7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102511842971332608/pl/t7o5JAYI-6EV8zdM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102511842971332608"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2102511979340697645",
+        "created_at": "2026-09-22T21:34:53.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T22:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102511979340697645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6pG6PPmVf",
+              "end": 23,
+              "expanded_url": "https://x.com/In2dTt/status/2102511979340697645/video/1",
+              "media_key": "13_2102511842971332608",
+              "start": 0,
+              "url": "https://t.co/v6pG6PPmVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102511979340697645",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2102511842971332608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v6pG6PPmVf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️🚪52",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2102511979340697645",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2095937154006606101",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29225,
+          "following_count": 343,
+          "like_count": 11613,
+          "listed_count": 24,
+          "media_count": 834,
+          "tweet_count": 3282
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

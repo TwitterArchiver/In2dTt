@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2097220901167370260",
+    "created_at": "2026-09-09T09:42:58.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097621780190163051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034332431223001088",
+          "start": 0,
+          "username": "BIG21514946"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097621780190163051",
+    "in_reply_to_user_id": "2034332431223001088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097315974634680559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BIG21514946 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2097220901167370260",
+        "created_at": "2026-09-09T09:42:58.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097621780190163051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034332431223001088",
+              "start": 0,
+              "username": "BIG21514946"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097621780190163051",
+        "in_reply_to_user_id": "2034332431223001088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097315974634680559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BIG21514946 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034332431223001088",
+        "conversation_id": "2097220901167370260",
+        "created_at": "2026-09-08T13:27:49.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097315974634680559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097315974634680559",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097220901167370260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt ？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2097621780190163051",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28737,
+          "following_count": 344,
+          "like_count": 11612,
+          "listed_count": 24,
+          "media_count": 827,
+          "tweet_count": 3269
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-18T18:13:55.000Z",
+        "description": "里垢\n0人在意",
+        "id": "2034332431223001088",
+        "is_identity_verified": false,
+        "location": "四川市成都省",
+        "most_recent_tweet_id": "2097315974634680559",
+        "name": "UUAC二号机",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034332431223001088/1776083249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043667319516536832/6vS8X3_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "BIG21514946",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

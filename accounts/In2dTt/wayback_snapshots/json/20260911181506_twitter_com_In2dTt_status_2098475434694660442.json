@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2095937154006606101",
+    "created_at": "2026-09-11T18:15:06.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T19:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098475434694660442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098475434694660442",
+    "in_reply_to_user_id": "1548471557873610752",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095937154006606101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🚪52"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2095937130921164800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZDt0AbgAAMyvb.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095937130912686080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZDtz-aIAAGzc_.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2095937154006606101",
+        "created_at": "2026-09-11T18:15:06.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098475434694660442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098475434694660442",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095937154006606101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚪52"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095937130921164800",
+            "3_2095937130912686080"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2095937154006606101",
+        "created_at": "2026-09-04T18:08:52.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095937154006606101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTaLYdSYQp",
+              "end": 29,
+              "expanded_url": "https://x.com/In2dTt/status/2095937154006606101/photo/1",
+              "media_key": "3_2095937130921164800",
+              "start": 6,
+              "url": "https://t.co/rTaLYdSYQp"
+            },
+            {
+              "display_url": "pic.x.com/rTaLYdSYQp",
+              "end": 29,
+              "expanded_url": "https://x.com/In2dTt/status/2095937154006606101/photo/1",
+              "media_key": "3_2095937130912686080",
+              "start": 6,
+              "url": "https://t.co/rTaLYdSYQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095937154006606101",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095937130921164800"
+          },
+          {
+            "media_key": "3_2095937130912686080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2771,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求点救济金 https://t.co/rTaLYdSYQp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2098475434694660442",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2095937154006606101",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28836,
+          "following_count": 343,
+          "like_count": 11646,
+          "listed_count": 24,
+          "media_count": 829,
+          "tweet_count": 3275
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

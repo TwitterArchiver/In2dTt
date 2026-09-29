@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2098037777078349825",
+    "created_at": "2026-09-10T20:26:23.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T21:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098146085495861312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921588381844467712",
+          "start": 0,
+          "username": "fxxkXXww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098146085495861312",
+    "in_reply_to_user_id": "1921588381844467712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098037777078349825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fxxkXXww 哦哦哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5600,
+        "height": 960,
+        "media_key": "13_2098037749735624704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098037749735624704/img/oALUFMrFBe2nHwY0.jpg",
+        "public_metrics": {
+          "view_count": 253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098037749735624704/vid/avc1/320x426/YG4fU7zhNVlXTaen.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098037749735624704/vid/avc1/480x640/-h4kaJ7pUQ-AOLbn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098037749735624704/vid/avc1/720x960/lDtXJqdhG_0sl5Hj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098037749735624704/pl/Zyl3Qg4lMc6K_dgO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2098037777078349825",
+        "created_at": "2026-09-10T20:26:23.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T21:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098146085495861312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921588381844467712",
+              "start": 0,
+              "username": "fxxkXXww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098146085495861312",
+        "in_reply_to_user_id": "1921588381844467712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098037777078349825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxxkXXww 哦哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098037749735624704"
+          ]
+        },
+        "author_id": "1921588381844467712",
+        "conversation_id": "2098037777078349825",
+        "created_at": "2026-09-10T13:16:00.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098037777078349825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3diYSwaiC",
+              "end": 28,
+              "expanded_url": "https://x.com/fxxkXXww/status/2098037777078349825/video/1",
+              "media_key": "13_2098037749735624704",
+              "start": 5,
+              "url": "https://t.co/G3diYSwaiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098037777078349825",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098037749735624704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 542,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有咪咪看 https://t.co/G3diYSwaiC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2098146085495861312",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28727,
+          "following_count": 344,
+          "like_count": 11613,
+          "listed_count": 24,
+          "media_count": 827,
+          "tweet_count": 3270
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-11T15:29:14.000Z",
+        "description": "我是个又肥又丑又穷的外星人",
+        "id": "1921588381844467712",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2098080430830592036",
+        "name": "爱我,谢谢",
+        "pinned_tweet_id": "2097673239443161202",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921588381844467712/1765768113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097379062612418560/MuO9b5aD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 154,
+          "like_count": 10495,
+          "listed_count": 8,
+          "media_count": 135,
+          "tweet_count": 1494
+        },
+        "url": "",
+        "username": "fxxkXXww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

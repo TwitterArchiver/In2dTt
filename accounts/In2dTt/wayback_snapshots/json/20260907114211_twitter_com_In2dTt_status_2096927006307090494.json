@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2096927006307090494",
+    "created_at": "2026-09-07T11:42:11.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096927006307090494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886465781950767107",
+          "start": 3,
+          "username": "fufudbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096927006307090494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040867171770028359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fufudbd: 我的天使你在哪呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2096927006307090494",
+        "created_at": "2026-09-07T11:42:11.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096927006307090494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886465781950767107",
+              "start": 3,
+              "username": "fufudbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096927006307090494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040867171770028359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fufudbd: 我的天使你在哪呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886465781950767107",
+        "conversation_id": "2040867171770028359",
+        "created_at": "2026-04-05T19:00:25.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040867171770028359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040867171770028359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的天使你在哪呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2096927006307090494",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28733,
+          "following_count": 341,
+          "like_count": 11561,
+          "listed_count": 24,
+          "media_count": 826,
+          "tweet_count": 3260
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T17:24:36.000Z",
+        "description": "这里爱莉 地雷男子intp 小男孩  正太",
+        "id": "1886465781950767107",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2095138101668782558",
+        "name": "airi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886465781950767107/1743024034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969803931468644352/UC2DPh6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 252,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "fufudbd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

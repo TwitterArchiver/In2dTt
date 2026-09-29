@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1548471557873610752",
+    "conversation_id": "2096870339401953585",
+    "created_at": "2026-09-07T07:57:01.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096870339401953585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1397850509323554817",
+          "start": 3,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096870339401953585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089678961970434083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noaayoyaoaya: 国内大陆绿舌头的设计简直是天才。硬着的时候像是要一直口一根冰冻鸡鸡，化了以后又像是在和可爱的女孩子舌吻，吻累了就一口吃掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "2096870339401953585",
+        "created_at": "2026-09-07T07:57:01.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096870339401953585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1397850509323554817",
+              "start": 3,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096870339401953585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089678961970434083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noaayoyaoaya: 国内大陆绿舌头的设计简直是天才。硬着的时候像是要一直口一根冰冻鸡鸡，化了以后又像是在和可爱的女孩子舌吻，吻累了就一口吃掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2089678961970434083",
+        "created_at": "2026-08-18T11:41:03.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089678961970434083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089678961970434083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 192754,
+          "like_count": 1675,
+          "quote_count": 14,
+          "reply_count": 285,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "国内大陆绿舌头的设计简直是天才。硬着的时候像是要一直口一根冰冻鸡鸡，化了以后又像是在和可爱的女孩子舌吻，吻累了就一口吃掉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "视监我的账号时就做好接受我的另一面的准备吧👁️",
+        "id": "1548471557873610752",
+        "is_identity_verified": false,
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "most_recent_tweet_id": "2096870339401953585",
+        "name": "in2dtt",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548471557873610752/1678096441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091032114410160128/qTtzXNRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28735,
+          "following_count": 341,
+          "like_count": 11558,
+          "listed_count": 24,
+          "media_count": 826,
+          "tweet_count": 3259
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由 推特是我的朋友圈\n\n关注我，妳的首页会充满一个跨妹的：高p自拍，胡乱穿搭，犯病做梦，人间观察\n\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWpK7M"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096846935839977476",
+        "name": "那由",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397850509323554817/1705179021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22564,
+          "following_count": 903,
+          "like_count": 10850,
+          "listed_count": 31,
+          "media_count": 142,
+          "tweet_count": 5503
+        },
+        "url": "https://t.co/aEspHWpK7M",
+        "username": "noaayoyaoaya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
